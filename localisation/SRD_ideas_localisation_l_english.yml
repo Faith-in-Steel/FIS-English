@@ -1,0 +1,40 @@
+﻿l_english:
+ 
+ #### SRD IDEA LOCALISATION START ####
+
+ ## SRD DIFFICULTY IDEAS LOCALISATION START ##
+
+ SRD_difficulty_idea_1:0 "Difficulty Level 1"
+ SRD_difficulty_idea_1_desc:0 "Difficulty Level 1"
+
+ SRD_difficulty_idea_2:0 "Difficulty Level 2"
+ SRD_difficulty_idea_2_desc:0 "Difficulty Level 2"
+
+ SRD_difficulty_idea_3:0 "Difficulty Level 3"
+ SRD_difficulty_idea_3_desc:0 "Difficulty Level 3"
+
+ SRD_difficulty_idea_4:0 "Difficulty Level 4"
+ SRD_difficulty_idea_4_desc:0 "Difficulty Level 4"
+
+ ## SRD DIFFICULTY IDEAS LOCALISATION END ##
+
+ ## SRD CYBER IDEAS LOCALISATION START ##
+
+ cyber_drone_factory_workers_1:0 "Drone Helpers"
+ cyber_drone_factory_workers_1_desc:0 "Drones are helping out in our factories"
+
+ cyber_drone_factory_workers_2:0 "Drone Workers "
+ cyber_drone_factory_workers_2_desc:0 "Drones are doing a lot of basic work in our factories §R They took er jebs §"
+
+ cyber_drone_factory_workers_3:0 "Advanced Drone Workers"
+ cyber_drone_factory_workers_3_desc:0 "Drone are replacing a lot of people in our factories"
+
+ cyber_drone_factory_workers_4:0 "Partially Automated Factories"
+ cyber_drone_factory_workers_4_desc:0 "Big parts of our factories are automated"
+
+ cyber_drone_factory_workers_5:0 "Automated Factories"
+ cyber_drone_factory_workers_5_desc:0 "Some of our factories are completly automated"
+
+ ## SRD CYBER IDEAS LOCALISATION END ##
+
+ #### SRD IDEA LOCALISATION END ####

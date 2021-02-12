@@ -1,0 +1,57 @@
+﻿l_english:
+
+
+ENG:0 "브리튼 연방"
+ENG_ADJ:0 "브리튼"
+ENG_DEF:0 "브리튼"
+
+
+### Parties ###
+ENG_accelerationism_party:0 "에스카드롱 브리튼"
+ENG_accelerationism_party_long:0 "에스카드롱 브리튼"
+ENG_jucheism_party:0 ""
+ENG_jucheism_party_long:0 ""
+ENG_authoritarian_communism_party:0 "브리튼 공산당 과격파"
+ENG_authoritarian_communism_party_long:0 "브리튼 공산당 과격파"
+ENG_communism_party:0 "브리튼 공산당 온건파"
+ENG_communism_party_long:0 "브리튼 공산당 온건파"
+ENG_liberal_socialism_party:0 "사회민주노동당"
+ENG_liberal_socialism_party_long:0 "사회민주노동당"
+ENG_social_democrat_party:0 "녹색당"
+ENG_social_democrat_party_long:0 "녹색당"
+ENG_liberal_democrat_party:0 "자유민주당"
+ENG_liberal_democrat_party_long:0 "자유민주당"
+ENG_social_liberal_party:0 "노동당"
+ENG_social_liberal_party_long:0 "노동당"
+ENG_conservatism_party:0 "보수당"
+ENG_conservatism_party_long:0 "보수당"
+ENG_authoritarian_party:0 "영국 왕실 지지층"
+ENG_authoritarian_party_long:0 "영국 왕실 지지층"
+ENG_nationalism_party:0 "국가사회주의 영국 노동자당"
+ENG_nationalism_party_long:0 "국가사회주의 영국 노동자당"
+ENG_corporatocrat_party:0 "로열-더치 셸 주주총회"
+ENG_corporatocrat_party_long:0 "로열-더치 셸 주주총회"
+ENG_fascism_party:0 "영국 파시스트 연합"
+ENG_fascism_party_long:0 "영국 파시스트 연합"
+ENG_burgundian_system_party:0 "§RIngSoc 집권체제§!"
+ENG_burgundian_system_party_long:0 "§R영사주의 총동맹 집권체제§!"
+ENG_blackdancism_party:0 ""
+ENG_blackdancism_party_long:0 ""
+ENG_anarchism_party:0 ""
+ENG_anarchism_party_long:0 ""
+
+
+
+
+################################################
+
+#국가 원수#
+################################################
+
+################################################
+
+#장군 장성#
+
+ENG_TRACER_GENERAL_DESC:0 "\§Y인적사항\n\n\n\n\n\n\n£GFX_ENG_TRACER_DESC\n\n\n\n\n\n\n\n§Y성명:§W 레나 '트레이서' 옥스턴\n§Y소속:§W £GFX_ENG_FLAG_DESC 영국 육군 특수전사령부 제1정보감시정찰여단 제21 ‘SAS’ 공수특전연대\n\n§Y경력:§W 1921년 5월 10일 브리티시-프랑스 연합 왕국 잉글랜드 버밍엄에서 출생한 레나 옥스턴은 1939년 영국 왕립 육군사관학교에 임관, 약 24주간의 공수부대 훈련을 마친 뒤 영국 육군 특수전사령부에 배속되었으며 이후 월면전쟁, 2차 세계대전에 영국 육군 SAS 소속으로 참전하였음.\n2차 세계대전 종전 이후 UN 산하 다국적 군사 평화유지 감시기구(OVERWATCH)에서 약 3년 간 근무하였으며 존 '소프' 맥태비시, 마이크 '대처' 베이커 등으로 이루어진 SAS 2팀의 현장 지휘관으로 님로드 작전, 널 섹터 진압작전 등에 참가하였음."
+
+ENG_SOAP_GENERAL_DESC:0 "\§Y인적사항\n\n\n\n\n\n\n£GFX_ENG_SOAP\n\n\n\n\n\n\n\n§Y성명:§W 존 '소프' 맥태비시\n§Y소속:§W £GFX_ENG_FLAG_DESC 영국 육군 특수전사령부 제1정보감시정찰여단 제21 ‘SAS’ 공수특전연대\n\n§Y경력:§W 1921년 5월 10일 브리티시-프랑스 연합 왕국 잉글랜드 버밍엄에서 출생한 레나 옥스턴은 1939년 영국 왕립 육군사관학교에 임관, 약 24주간의 공수부대 훈련을 마친 뒤 영국 육군 특수전사령부에 배속되었으며 이후 월면전쟁, 2차 세계대전에 영국 육군 SAS 소속으로 참전하였음.\n2차 세계대전 종전 이후 UN 산하 다국적 군사 평화유지 감시기구(OVERWATCH)에서 약 3년 간 근무하였으며 존 '소프' 맥태비시, 마이크 '대처' 베이커 등으로 이루어진 SAS 2팀의 현장 지휘관으로 님로드 작전, 널 섹터 진압작전 등에 참가하였음."

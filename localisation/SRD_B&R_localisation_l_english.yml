@@ -1,0 +1,70 @@
+﻿l_english:
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ### SRD HOLY LOCALISATION START###
+ #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ ## SRD HOLY RESOURCES LOCALISATION START ##
+ 
+ PRODUCTION_MATERIALS_PRAYER:0 "Prayer"
+ prayer_desc:0 "Prayers from believers to build Machines of War"
+ prayer_plural:0 "Prayers"
+ 
+ PRODUCTION_MATERIALS_HOLY_CRYSTAL:0 "Holy Crystal"
+ holy_crystal_desc:0 "A Crystal made from the Souls of the Believers to bind powurfull beings to a piece of equipment or to a warmachine"
+ holy_crystal_plural:0 "Holy Crystals"
+ 
+ ## SRD HOLY RESOURCES LOCALISATION  END##
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## SRD HOLY BUILDINGS LOCALISATION  START ##
+ 
+ holy_church:0 "Holy Church"
+ holy_church_desc:0 "Holy Church for believers to pray in."
+ holy_church_plural:0 "Holy Churches"
+
+ special_force_center:0 "Special Forces Training Center"
+ special_force_center_desc:0 "Special facility to train more special forces for our army."
+ special_force_center:0 "Special Forces Training Centers"
+ 
+ ## SRD HOLY BUILDINGS LOCALISATION  END ##
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ### SRD HOLY LOCALISATION END ###
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ### SRD CYBER LOCALISATION START ###
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## SRD CYBER RESOURCES LOCALISATION  START ##
+ 
+ PRODUCTION_MATERIALS_SUPER_ALLOY:0 "Super Alloy"
+ super_alloy_desc:0 "Extreme durable and light alloys, perfect for our new mighty warmachines!"
+ super_alloy_plural:0 "Super Alloys"
+ 
+ PRODUCTION_MATERIALS_REACTOR_PART:0 "Reactor Part"
+ reactor_part_desc:0 "Part for a highly advanced reactors which most high tech machines need."
+ reactor_part_plural:0 "Reactor Parts"
+ 
+ ## SRD CYBER RESOURCES LOCALISATION  END ##
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## SRD CYBER BUILDINGS LOCALISATION START ##
+ 
+ alloy_forge:0 "Alloy Forges"
+ alloy_forge_desc:0 "A special forge that produces a special durable and light alloy."
+ alloy_forge_plural:0 "Alloy Forges"
+
+ reactor_assembler:0 "Reactor Assebler"
+ reactor_assembler_desc:0 "A big facility that produce reactors in differend sizes for machines and weapons."
+ reactor_assembler_plural:0 "Reactor Asseblers"
+
+ super_computer:0 "Super Computer"
+ super_computer_desc:0 "A giant computer that can run combat simulations, encrypt and decrypt messages and aid our commanders in planning."
+ super_computer_plural:0 "Super Computers"
+
+ super_computer_dlc:0 "Super Computer"
+ super_computer_dlc_desc:0 "A giant computer that can run combat simulations, encrypt and decrypt messages and aid our commanders in planning."
+ super_computer_dlc_plural:0 "Super Computers"
+ 
+ ## SRD CYBER BUILDINGS LOCALISATION END
+ 
+ holy_occupation:0 "Force Convertions"
+ holy_occupation_desc:0 "By forcefully converting people in occupied territories we can increase complaince faster"
+ 
+ cyber_occupation:0 "Big Brother Is Watching You"
+ cyber_occupation_desc:0 "Complete surveillance and force labor will not build complaince with the locals but will give us complete access to factories and resources"

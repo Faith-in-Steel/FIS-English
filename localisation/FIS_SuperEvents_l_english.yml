@@ -1,0 +1,43 @@
+﻿l_english:
+
+# 슈퍼 이벤트 #
+SE_BLACK_MESA_INCIDENT_T:0 "대공명 현상"
+SE_BLACK_MESA_INCIDENT_D:0 "예측하지 못한 결과에 대비하라.\n-G맨"
+SE_BLACK_MESA_INCIDENT_O:0 "선택할 시간입니다."
+
+SE_SECOND_LUNARIAN_WAR_T:0 "2차 월면전쟁"
+SE_SECOND_LUNARIAN_WAR_D:0 "지금의 상황에서는 전력에서 우리가 약간 불리해 보인다. 적의 병기는 우리의 상상을 뛰어넘고 있다. 하지만 겁먹을 일은 없다, 우리들에게는 몇천 년동안 가져 온 지혜와 긍지가 있다.\n-더글러스 맥아더"
+SE_SECOND_LUNARIAN_WAR_O:0 "그들이 돌아온다."
+
+SE_NAZI_METEOR_BLITZKRIEG_T:0 "유성 전격전"
+SE_NAZI_METEOR_BLITZKRIEG_D:0 "경주는 갑자기 시작되었다. 그 끝이 어딘지, 거리가 얼마나 되는지, 누구랑 같이 뛰는지도 모른채. 하지만 한가지는 확실했다. 이 경주에서 지면 우리 모두 죽는다.\n-알토 클레프"
+SE_NAZI_METEOR_BLITZKRIEG_O:0 "그들이 돌아온다."
+
+SE_MOON_RABBIT_UNIFIED_T:0 "달 재통일"
+SE_MOON_RABBIT_UNIFIED_D:0 "보름달이 보름같지 않은 날은 오늘이 처음일거야.\n-레이센 U. 이나바"
+SE_MOON_RABBIT_UNIFIED_O:0 "달의 약속."
+
+SE_LUNARIAN_UNIFIED_T:0 "달 재통일"
+SE_LUNARIAN_UNIFIED_D:0 "이게 진실한 보름달이야. 언제부터였을까, 이 보름달이 지상부터 사라진 것은. 보름달이 인간을 미치게 만드는 힘을 잃게 된 것은.\n-호라이산 카구야"
+SE_LUNARIAN_UNIFIED_O:0 "운명이 기다린다."
+
+SE_MOON_NAZI_UNIFIED_T:0 "월면 대독일국 선포"
+SE_MOON_NAZI_UNIFIED_D:0 "달은 우리를 빛나게 하고, 우리도 달을 빛나게 한다. 달은 우리 아래 있고, 우리와 함께한다.\n-아델라인 히틀러"
+SE_MOON_NAZI_UNIFIED_O:0 "붉은 달이 떠오른다."
+
+FIS_SE_Russia_unification_RUS_tabby_T:0 "러시아의 재통일"
+FIS_SE_Russia_unification_RUS_tabby_D:0 "FIAT IUSTITIA, ET PEREAT MUNDUS.\n-페르디난트 1세,신성 로마 제국의 황제"
+FIS_SE_Russia_unification_RUS_tabby_O:0 "11시"
+
+
+FIS_SE_Russia_unification_RUS_alexei_T:0 "러시아펑크 1960"
+FIS_SE_Russia_unification_RUS_alexei_D:0 "이제 씨발 좀 일어나자,카자크!도시를 불바다로 만들어야지.\n-알렉세이 로마노프"
+FIS_SE_Russia_unification_RUS_alexei_O:0 "당연히 말이 되죠!"
+
+SE_Battle_of_Hoover_Dam_T:0 "후버댐 전투"
+SE_Battle_of_Hoover_Dam_D:0 "4년 전, 우리는 모하비에 카이사르가 침범할 수 없는 선,\n콜로라도 강만큼이나 명명백백한 그 선을 그었습니다.\n오늘, 여러분은 여러분의 형제자매와 함께\n그 선을 지키기 위해 여기 섰습니다.\n-아론 킴볼"
+SE_Battle_of_Hoover_Dam_O:0 "유레카!"
+
+SE_Korea_Japan_War_T:0 "한국-일본 전쟁"
+SE_Korea_Japan_War_D:0 "한일전은 가위바위보도 지지 말라고 했다.\n-무명"
+SE_Korea_Japan_War_O:0 "시...작!"

@@ -1,0 +1,61 @@
+﻿l_english:
+
+GER:0 "독일 재건 위원회"
+GER_ADJ:0 "독일"
+GER_DEF:0 "연합군 사령부 군정 하 독일 재건 위원회"
+
+GER_rebuild:0 "독일 재건 위원회"
+GER_rebuild_ADJ:0 "독일"
+GER_rebuild_DEF:0 "연합군 사령부 군정 하 독일 재건 위원회"
+
+### Parties ###
+GER_accelerationism_party:0 ""
+GER_accelerationism_party_long:0 ""
+GER_jucheism_party:0 ""
+GER_jucheism_party_long:0 ""
+GER_authoritarian_communism_party:0 ""
+GER_authoritarian_communism_party_long:0 ""
+GER_communism_party:0 "적군투쟁연대"
+GER_communism_party_long:0 "적군투쟁연대"
+GER_liberal_socialism_party:0 "독일 공산인터내셔널"
+GER_liberal_socialism_party_long:0 "독일 공산인터내셔널"
+GER_social_democrat_party:0 "독일 민주노동당"
+GER_social_democrat_party_long:0 "독일 민주노동당"
+GER_liberal_democrat_party:0 "CDU-SPD"
+GER_liberal_democrat_party_long:0 "독일 기독교민주연합"
+GER_social_liberal_party:0 "CDU-SPD"
+GER_social_liberal_party_long:0 "독일 사회민주당"
+GER_conservatism_party:0 "자유당"
+GER_conservatism_party_long:0 "자유당"
+GER_authoritarian_party:0 "독일을 위한 대안"
+GER_authoritarian_party_long:0 "독일을 위한 대안"
+GER_nationalism_party:0 "발키스트 독일인민당"
+GER_nationalism_party_long:0 "발키스트 독일인민당"
+GER_corporatocrat_party:0 ""
+GER_corporatocrat_party_long:0 ""
+GER_fascism_party:0 "독일 국가사회주의 노동자당"
+GER_fascism_party_long:0 "독일 국가사회주의 노동자당"
+GER_burgundian_system_party:0 ""
+GER_burgundian_system_party_long:0 ""
+GER_blackdancism_party:0 ""
+GER_blackdancism_party_long:0 ""
+GER_anarchism_party:0 ""
+GER_anarchism_party_long:0 ""
+
+GER_losers_of_wwii:0 "세계대전의 패배자"
+GER_losers_of_wwii_desc:0 "독일은 무려 두 번 연속으로 세계대전에서 패배했습니다. 모든 나라들이 독일을 명백한 악의 축으로 보고 있고, 유럽에 진주한 연합군 사령부는 독일의 세 번째 시도를 막기 위함이라는 명목으로 강도높은 비무장 정책을 강요하고 있습니다. 비록 미군은 철수하고 있지만, 여전히 미국을 포함한 유럽 연합군 사령부, 일명 '저스티스 리그'는 독일 전역을 군사 위성으로 감시 중입니다. 이러한 상황 속에서 독일의 비무장화는 필연적인 결과였습니다."
+
+
+GER_divided_government:0 "분열된 국가"
+GER_divided_government_desc:0 "무능과 실책으로 신망을 잃어가는 시클그루버 정부에 실망한 구 파시스트 세력과 일부 과격 민족주의 세력과 결탁한 발키스트 독일인민당, 그리고 좌익 공산주의 세력과 인터내셔널의 절대적인 지지를 받는 적군투쟁연대는 독일인의 아픔과 고통 사이에 서서히 찾아와 그들의 지지를 조금씩 얻고 있습니다. 이러한 극단주의 세력의 태동은 독일의 분열을 심화시키고 있으며 현재의 정치적인 혼란 속에서 우리가 내릴 수 있는 조치는 전무합니다."
+
+GER_moon_nazis_influence:0 "월면 나치의 영향력"
+GER_moon_nazis_influence_desc:0 "전쟁이 끝나고 독일의 나치 세력들은 자취를 감추었지만, 그 주체이자 전범수괴 아델라인 히틀러와 그녀를 따르는 잔존 나치 세력들은 달에서 다시 한 번 기회를 엿보고 있습니다. 비록 달과 지구는 물리적으로 단절되어 있고, 그들이 독일에 직접적인 영향력을 끼치는 것은 불가능하지만 독일 내부의 중상모략을 주도하는 월면 나치의 스파이들이 여전히 독일 전역에서 암약하고 있는 것은 명백한 사실입니다."
+
+GER_disbanded_wehrmacht:0 "해체된 국방군"
+GER_disbanded_wehrmacht_desc:0 "전쟁이 끝나고, 독일 국방군과 크릭스마리네는 해체의 수순을 밟았습니다. 하지만 연합군 사령부의 성급한 판단 하에 이루어진 급진적인 국방군의 해체는 수 많은 실업자들과 함께 독일 전역에서 지속되고 있는 혼란을 더욱 가중화시켰습니다. 또한 미군의 이상하리만큼 허술한 감시 체계와 유럽 연합군사령부의 무능한 행정력은 독일 전역에서 난립하는 극단주의 군사 사조직을 양성하는 치명적인 결과를 낳게 되었습니다."
+
+
+GER_Adolf_desc:0 "아돌프 시클그루버는 1889년 오스트리아-헝가리 제국의 브라우나우라는 작은 마을에서 태어났습니다. 이는 공교롭게도 그의 오래된 숙적이자 아치 에너미인 아델라인 히틀러와 같은 출생지였습니다. 그는 과거 바이마르 공화국 독일 사회민주당의 당수였으나, 아델라인 히틀러가 집권하면서 아돌프는 독일의 민주주의가 파괴되는 것을 지켜볼 수밖에 없었습니다. 그는 독일 국가사회주의 노동자당에 반강제적으로 입당하며 나치 독일의 이념에 동조하는 모습을 보여 왔지만, 실제로는 독일 내의 유대인들과 민주주의자들, 그리고 히틀러에게 압제받는 모든 독일 국민들을 위해 지하에서 암약해오며 자유를 위해 힘써왔습니다. 그는 나치 독일의 압제에 맞서 저항한 공로를 인정받아 독일이 2차 세계대전에서 패배하고 아델라인과 그 일당들이 달로 도망치면서 새롭게 새워진 유럽 연합군사령부 산하 독일 재건 위원회 총의장이자 독일 공화국의 대통령으로 선출되어 새로운 자유 독일을 이끌어 나가게 되었습니다."
+
+GER_1952_desc:0 "1950년, 마침내 길고 길었던 대전쟁이 끝났습니다 독일을 전쟁의 구렁텅이로 몰아넣은 히틀러는 달로 도망쳤습니다. 구 독일 제 3제국의 대표적인 반체제 인사 아돌프는 나치 독일의 압제에 맞서 저항한 공로를 인정받아 유럽방면 연합군사령부 산하 독일 재건 위원회의 총의장으로 선출되어 새로운 자유 독일을 이끌어 나가게 되었습니다. 1952년의 독일의 상황은 암울하기 그지없습니다. 연합군의 궤도 폭격으로 국토는 만신창이가 되어 버렸고, 산업은 후퇴했습니다. 연합군 군정사령부는 독일의 전쟁 배상금 문제를 놓고 입이 아프게 씨름을 하고 있고, 달로 도망쳐 제4제국을 선포한 나치 수괴들은 연합군의 꼭두각시인 독일 재건 위원회는 정통성이 없는 괴뢰 정부라며 흑색 선전을 이어가고 있습니다. 신생 국가 독일 공화국은 다가오는 혼란 속에 국운이 달린 선택의 기로에 놓이게 되었습니다./n/n'일어나라, 조국 독일이여!'"

@@ -1,0 +1,154 @@
+﻿l_english:
+
+#################
+### Bookmarks ###
+#################
+
+### Name and Description ###
+BM_HISTORY_TITLE:0 "역사 개요"
+FIS_SCENARIO_NAME:0 "혼돈의 다차원 세계"
+FIS_SCENARIO_DESC:0 "세계는 좆되버렸습니다. 어느 순간 가속되어버린 기술 발전은 상상할 수 없는 결과를 불러왔습니다. 연합군의 광역 궤도폭격으로 종결된 2차 세계대전의 여파는 세계 곳곳에 여전히 남아있습니다. 유럽 전역에선 2차 세계대전의 여파로 떠오른 르-뤼에의 등장으로 예수가 부활하는 등 엄청난 혼란에 휩싸였습니다. 2차 세계대전에서 패배한 제 4제국은 달토끼 연맹과의 전쟁에서 승리하면서 달 앞면을 차지한 채 지구에 대한 커다란 위협이 되었습니다. 아시아에선 이중제국의 야망이 아시아를 뒤덮고 있습니다. 아프리카의 패권은 와칸다 제국이 여전히 쥐고 있으며, 그것은 깨질 기미조차 보이지 않습니다. 이러한 혼란의 정국 가운데, 세계는 또 다른 역사의 한 장을 펼치기 위해 지금까지 그래 왔듯, 다소 '비정상적으로' 빠르게 나아가고 있습니다."
+
+#######################
+### Current Nations ###
+#######################
+
+### Majors ###
+
+### 천조국 ###
+USA_FIS_SCENARIO_DESC:0 "1950년, 미국의 광역 궤도폭격으로 마침내 종전된 2차 세계대전을 기점으로, 미국과 캐나다 등 북아메리카의 주요 국가들은 앞으로 다가올 위협에 대비해 힘을 합쳐 북아메리카 연방을 창설했습니다. 1952년, 재선에 성공한 시간여행자 도널드 J. 트럼프 대통령은 자신이 가져온 미래 기술을 바탕으로 연방의 시민들에게 공약했던 전 국민의 불사신화를 마침내 실현시키고, 죽음이 없는 세계를 만들기 위한 명목으로 천문학적인 자본금을 자회사 트럼프 그룹에 투자했습니다. 트럼프 그룹이 선도하는 신흥 컴퓨터 반도체 산업이 북미 경제를 호황으로 이끌었고, 그의 앞날은 무서울 것이 없어 보였습니다. /n/n1952년, 궤도 대공망을 뚫고 나타난 정체불명의 병력들이 동부 메인 주에 기습적으로 상륙했습니다. 자신들을 화성인이라고 부르는 그들은 무차별적인 공격으로 북미 권역에 가장 큰 위협이 되었고, 연방 정부는 대 외계인 특수부대 X-COM의 발족을 공식적으로 선언했습니다. 그는 과연 미래 기술으로 화성인의 침공을 막고 그의 궁극적인 목표인 북아메리카 연방의 기업국가화를 성공시킬 수 있을까요?/n/n'아메리카를 다시 위대하게!'"
+
+### 영불제국 ###
+FUK_FIS_SCENARIO_DESC:0 "프랑스-영국 연합 왕국은 식민지를 가지는 것이 당연시하게 여겨지던 제국주의 시대의 유산입니다. 무려 1943년까지 지속된 아프리카의 맹주 와칸다와의 식민 전쟁으로 대부분의 국력을 소진해버린 프랑스와 영국은 독일에게 자신들의 본토가 점령당하는 것을 계기로 식민지 확장 정책을 포기하기에 이르렀고, 오랜 기간 지속되어 왔던 국가간의 감정을 버리고 유럽인이라는 하나의 공동운명체 아래 통합되었습니다. 구 영국의 최대주의자 오스왈드 모즐리는 초대 연합왕국 위원회의 총회장을 역임하며 앞으로의 유럽을 이끌어 나갈 중대한 사명을 안게 되었습니다. 그는 과연 아직 완전히 소탕되지 않은 나치들과 유럽 내의 반정부세력들을 무찌르고 그의 염원이자 일생일대의 목표인 전 유럽을 강력한 하나의 중앙집권 국가 아래 통합시킬 수 있을까요?/n/n'유럽은 하나로 통합 될 것이다!'"
+
+### 독일 공화국 ###
+GER_FIS_SCENARIO_DESC:0 "1950년, 마침내 길고 길었던 대전쟁이 끝났습니다 독일을 전쟁의 구렁텅이로 몰아넣은 히틀러는 달로 도망쳤습니다. 구 독일 제 3제국의 대표적인 반체제 인사 아돌프는 나치 독일의 압제에 맞서 저항한 공로를 인정받아 유럽방면 연합군사령부 산하 독일 재건 위원회의 총의장으로 선출되어 새로운 자유 독일을 이끌어 나가게 되었습니다. 1952년의 독일의 상황은 암울하기 그지없습니다. 연합군의 궤도 폭격으로 국토는 만신창이가 되어 버렸고, 산업은 후퇴했습니다. 연합군 군정사령부는 독일의 전쟁 배상금 문제를 놓고 입이 아프게 씨름을 하고 있고, 달로 도망쳐 제4제국을 선포한 나치 수괴들은 연합군의 꼭두각시인 독일 재건 위원회는 정통성이 없는 괴뢰 정부라며 흑색 선전을 이어가고 있습니다. 신생 국가 독일 공화국은 다가오는 혼란 속에 국운이 달린 선택의 기로에 놓이게 되었습니다./n/n'일어나라, 조국 독일이여!'"
+
+### 한일이중제국 ###
+KJE_FIS_SCENARIO_DESC:0 "1901년, 대한제국의 외무대신 김인택의 제안으로 제국 통합론이 대두되었습니다. 1차 세계대전이 종전되면서, 마침내 두 제국은 역사적인 앙금과 서로를 향한 무기를 내려놓고 하나의 제국으로 통합되었습니다. 하지만 양국이 하나로 통합되면서, 이전에는 없던 골치아픈 문제들이 터져 나오기 시작했습니다. 내분과 지역감정, 언어 논쟁 등으로 제국이 분열 될 위기를 맞고 있는 가운데 전 국민의 기본소득 지급과 전면적인 공용어 정책, 징병제 폐지를 공약으로 내세운 종로 지역구 의원 김두한은 1950년 대선에서 불과 1,203표 차이로 유력했던 후보자 가타야마 데쓰를 따돌리고 이중제국의 총리로 선출되었습니다. 그는 제국 전역에 휘몰아치는 분열정국의 혼란기를 극복하고, 앞으로 다가올 국가적인 위협에 대비해 초고대문명 환국의 기술력을 이용해 제국의 분열을 막고 동아시아의 패권을 장악하려고 합니다."
+
+### 남극 ###
+ANT_FIS_SCENARIO_DESC:0 "1946년, 부패와 무능으로 국민의 신망을 잃어버린 바다표범당 정권을 물리치고, 보다 더 힘차고 복된 새나라를 이룩하기 위하여 남극의 펭귄들은 총 궐기하였습니다. 남극의 수도 펭귄폴리스에 진주해 입법, 사법, 행정 기관을 완전히 장악한 펭귄 혁명군은 수장 레온 트로츠키를 의장으로 하는 군사혁명위원회를 조직, 남극 소비에트의 창설을 공식적으로 선포했습니다. 남극 사회주의 연방 공화국의 수장 레온 트로츠키는 압도적인 펭귄군의 군사력과 동맹국 범 북극곰 연맹의 협력으로 전 세계의 사회주의 혁명을 꿈꾸고 있습니다. 그는 펭귄 종족이 인간에 대항해 세계에서 그 맹위을 떨칠 수 있도록 변화가 필요한 때라고 생각하고 있습니다./n/n'꽥! 꽥꽥! 꾸악! 꽥!'"
+
+### 화성군 ###
+MAR_FIS_SCENARIO_DESC:0 "화성인들에게 푸른 별 지구는 언제나 궁극적인 목표였습니다. 마침내 화성에서의 길고 긴 내전이 끝나고, 지구 정복이라는 목표 하에 집결한 화성군은 그들이 지금까지 호시탐탐 노리던 지구를 침공해 그들의 터전으로 삼기로 결심합니다. 화성력 10304년, 마침내 지구 대기권에 포진되어 있는 북미연방의 위성 포격과 달 나치군을 뚫어내고 메인 주에 상륙하는 데 성공한 그들은 예상보다 강력한 적의 저항에 직면해 돈좌될 위기에 처했습니다. 과연 그들은 꿈에 그리던 지구 정복을 실현시킬 수 있을까요?/n/n'Khassar'Det emplari... A'nht zagatir nas!'"
+
+### 와칸다 ###
+WKD_FIS_SCENARIO_DESC:0 "While the 'Peace with Honour' guaranteed Japanese rule over the colonies, not all was well in the Empire of the Rising Sun. After a period of economic upheaval culminated in a Syndicalist attempt on the life of Prince-Regent Hirohito in 1926, unstable governments followed one another in a year of crisis; First General Tanaka, then the democratic Coalition Cabinet and an intervention in north-east China. In 1936, Japan is poised to extend her empire. With Germany's dominance appearing to be in decline, the Japanese look hungrily at the remaining Qing territories and the German Pacific possessions..."
+
+### Other ###
+OTHER_GATHERING_STORM_DESC:0 "The nations of the world, great and small, are waiting for their turn to rise as a major player of this world. From major powers trying to keep their empires to the many nations trying to regain what they lost in the Weltkrieg, all will have to make difficult decisions and balance ideals with pragmatism to have an impact on the future of the world..."
+
+### Featured ###
+
+### NCR ###
+NCR_FIS_SCENARIO_DESC:0 "1841년 멕시코인들의 압제에서 처음 독립을 선포한 캘리포니아 공화국은 독립 26일만에 미연방 정부에 합류할 것을 선언했습니다. 캘리포니아 공화국은 미합중국 내에서 유일한 자치국가로서 1889년에는 당대 대통령 아라데쉬의 개혁에 따라 수도를 셰이디 샌즈로 이전하고 국명을 뉴 캘리포니아 공화국으로 개칭하기도 했습니다. 하지만 1944년 대통령 선거에서 2020년에서 온 시간여행자, 도널드 J. 트럼프가 당선되면서 이야기는 달라졌습니다. 트럼프 대통령은 캘리포니아가 연방 정부로부터 독립된 형태로 움직이는 것에 불만을 품었고, 결국 1946년 캘리포니아를 정식적으로 합병시켰습니다. 캘리포니아의 주민들은 이러한 합병을 위헌이라며 반발했고, 6년간 피의 투쟁을 벌여왔습니다. 1952년의 대통령 선거 이후, 북미연방 전역이 혼란에 빠지자 캘리포니아는 마침내 기회를 잡았습니다. 캘리포니아 주방위군은 연방정부의 명령에 불복하고 옛 캘리포니아의 장성, 아론 킴볼의 통제하에 들어갔으며 뉴 베가스의 지배자 미스터 하우스가 이끄는 시큐리트론 부대는 차츰 서부 전역을 집어삼켜가고 있었습니다. 과연 뉴 캘리포니아 공화국은 독립을 되찾을 수 있을까요?"
+
+### Papal State ###
+HOL_FIS_SCENARIO_DESC:0 "요세프 라칭거, '파괴자'로 불리우는 교황령의 지배자 베네딕토 16세는 그가 가진 어두운 힘, '포스 라이트닝'으로 그에게 대적하는 청교도들과 성공회 이교도들을 모두 제압하고 교황령의 지배자가 되었습니다. 교황령의 지배자가 된 베네딕토 16세는 남유럽을 공포에 몰아넣은 르-뤼에의 고대 신들을 직접 제압하면서 그가 가진 위대한 계획을 착실하게 준비하기 시작했습니다. 하지만, 예상치 못한 사건으로 그가 가진 위대한 계획에 차질이 생겼습니다. 바로 예루살렘에서 부활한 '예수 그리스도'의 등장입니다. 그는 중동 지역에서 언데드 십자군을 이끌며 맹위를 떨치는 '나사렛의 혁명가' 예수에게 대적하며 구 비잔티움 지역을 아우르는 '어둠의 교황 제국'을 건국하기 위해 몸소 움직이기 시작합니다. 그는 전장의 최선봉에서 직접 전투에 나서 그 용맹함을 자랑하며, 그의 어두운 힘을 신봉하는 어둠의 십자군 세력으로 예수가 이끄는 언데드 십자군에 대적하려 합니다./n/n'결코 전쟁, 결코 전쟁!'"
+
+### 이탈리아 ###
+ITA_FIS_SCENARIO_DESC:0 "프랑스에서 벌어지는 전쟁을 피해 비교적 피해가 적었던 이탈리아로 이주한 앙토냉 아르토는 이탈리아에서 점점 인기를 구가해오던 가속주의자들의 수장으로 올라오면서 로마 진군을 감행해 쿠데타에 성공, 이탈리아 공화국의 총리로 추대되었습니다. 1950년, 미국이 감행한 유럽 전역 궤도폭격의 여파로 인해 지중해에서 르-뤼에가 떠오르며 깊은 잠에서 깨어난 고대의 신들은 지중해의 패권을 두고 유럽의 국가들을 향해 공세를 펼쳤지만, 현대 무기의 기술력 앞에는 그들의 힘은 역부족이였습니다. 이탈리아의 '두체' 앙토냉 아르토는 유럽에서 박해받는 가속주의자들의 망명을 받아들이고, 르-뤼에의 난민들에게 이탈리아의 시민권을 제공하면서 고대 신들과 계약을 맺어 '진정한 로마'를 선포하려고 합니다. 전 유럽을 석권하려는 오스왈드 모즐리의 음모에 대항해 촉진주의를 설파하려는 그의 노력은 결실을 맺을 수 있을까요?/n/n'Faster! Faster! Faster!'"
+
+### 오구리 합중국 ###
+AUS_FIS_SCENARIO_DESC:0 "마침내, 1948년 옛 유럽의 연합 정부를 계승하고 새로운 대륙에서 새 출발을 하고자 하는 의지를 담은 카를 1세의 선언으로 ‘대 오스트리아 합중국’이 건국되었습니다. 그러나 그들의 정치적 입지는 여전히 불안정합니다. 여전히 대륙 서부에서 에뮤 세력이 그 위용을 과시하고 있으며, 웨스트레일리아를 구성하겠다는 분리주의자들의 움직임 또한 활발한 실정입니다. 레프 트로츠키를 중심으로 구성된 남극 소비에트 사회주의 공화국은 남극해 바다 너머를 호시탐탐 노리고 있습니다. 그 대상이 오스트리아가 될 것은 이미 정부 내각 모두가 잘 알고 있는 사실입니다. 설상가상으로, 솔로몬 제도에서 대한-일본 이중제국의 설립에 반대해 떠나온 히로히토를 중심으로 구성된 자칭 ‘대일본제국’의 아성에 남태평양 전역은 여전히 공포에 떨고 있습니다. 뉴질랜드는 새로운 이웃을 전혀 반겨하지 않으며 솔로몬 제도 일본의 해적질에 대항할 유일한 방법인 ANZAC의 구성에도 반대하고 있습니다. 그들이 과거의 과오를 인정하고 오세아니아에 화합을 가져올 지, 아니면 과거 2차 세계대전의 모습을 그대로 답습할 지는 이제 그들의 손에 달리게 되었습니다."
+
+### 불곰국 ###
+RUS_FIS_SCENARIO_DESC:0"1950년 2차대전의 종결이후 어디선가에서 나타난 백군들이 쿠데타를 일으켰습니다. 미래에 무기를 쓰는 백군의 제22차량화 소총부대가 모스크바에 러시아국기 를 올렸습니다. 하지만 폭력적으로 집권한 정부에 다시 반란이 한번더 발생했고 이는 또다시 러시아를 내전으로 밀고 들어갔습니다. 망할 국수주의 공산당 놈들이 모스크바 전역에서 반란을 일으켜 스투코프 제독을 긴급히 병력들과 인원들을 소집했고 이므란 자카예프는 전국에서 벌어들인 돈과무기로 백군을 위협하고 있습니다. 과연 러시아의 주인은 누가될까요?"
+
+### 역설국 ###
+SVE_FIS_SCENARIO_DESC:0"2차 인도-스웨덴 전쟁에서 마침내 승리하여 그들의 약점이였던 섹스테이프를 파기하고 강대국으로 군림한 스베아리케 합중국은 노르웨이, 핀란드를 차례로 합병하면서 유럽의 열강 대열에 군림하게 되었습니다. 스베아리케 합중국의 국책 사업인 전략 시뮬레이션 게임 개발은 DLC를 팔아먹는 상술로 벌어들이는 수입으로 핀란드 전역의 초고대문명 고대 핀 제국의 유물을 탐사하는 데 큰 도움이 되었습니다. 그들은 고대 핀 제국의 유산인 거대병기와 반중력 장치를 이용해 스칸디나비아에 도전하는 외부 세력에 대항할 것입니다./n/n'휘바, 휘바!'"
+
+### 천년제국 ###
+TNO_FIS_SCENARIO_DESC:0 "'그가 돌아왔다!'/n/n예루살렘의 어느 언덕에서 기적적으로 부활한 예수는 그의 새로운 12제자들과 함께 몽키스패너단을 결성, 정의로운 언데드 십자군을 일으켜 팔레스타인 지역의 패권을 장악하고 중동 지역을 천년 제국의 기반으로 삼으려 합니다. 그러나, 그를 막는 자가 유럽에서 나타났습니다. 예수는 중동 지역에서의 패권 장악에 교황이 걸림돌이며, 교황령의 이단자들을 처단하고 중동의 이교도들에게 몸소 '최후의 심판'을 내리기 위해, 그리고 전 세계에 핵폭격을 가해 휴거 계획을 실현시키고 주님의 나라를 건국하려는 계획을 세웁니다. 주님의 거룩한 무제한 잠수함 작전(Holy-Unrestricted Submarine Warfare)으로 교황령의 해상 봉쇄를 토대로, 언데드 십자군(Undead Crusader Horde)의 비호 아래 무장한 예수와 그의 12제자들은 그들의 앞길을 가로막는 교황령의 권세 앞에 굴복하지 않고 전 세계의 '휴거'를 실현할 것입니다./n/n'할렐루야!'"
+
+#### 흑무 브라질 ###
+BRA_FIS_SCENARIO_DESC:0 "'흑무주의가 브라질을 뒤덮다!'/n/n삼바춤의 원조이자 세계 댄스 무대의 최전방 브라질에서 흑무주의 광풍이 불어닥치고 있습니다. 흑무주의자들의 대표당인 삼바흑·무당은 무려 87%의 득표율을 기록하며 연립정당 브라질 국민당을 압도하며 여당 자리에 올라섰고, 정권을 잡은 흑무당의 대표 라라 크로프트 대통령은 온 라틴 아메리카를 댄스의 열기로 몰아갈 것을 천명했습니다. 새로이 탄생한 국민 흑무주의 브라질의 즐거운 목표는 전 세계를 흥겨움에 가득하게 만들 것입니다!"
+
+#### 그리폰 크루거 ###
+GAK_FIS_SCENARIO_DESC:0 "S09 지역의 794기지 담당의 신참 전술 지휘관인 장시안은 착임이후부터 기묘한 일들을 겪기 시작합니다. 주적인 철혈은 코빼기도 보이지 않고, 군수지원에서 복귀하는 인형들의 증언에 따르면 주위의 기후가 열대야처럼 변했다고 말하기도 하고, 어느 인형은 저 멀리서 바다가 보인다고 증언하기도 했습니다. 결국 조사단을 파견한 결과, 이곳은 태평양의 아름다운 섬, 하와이 섬이였습니다. 그들은 이를 '하와이 트립 사건'이라고 부르고 있습니다. 장시안은 재빨리 하와이와 그 인근의 섬들인 마우이섬이나 오아후섬 등을 점거하였고. 기존의 원주민과 미국인들을 감금하였고, 그 중에 연구자들과 같은 고급 인력들을 이용하여 자체적인 기술력으로 인형들을 제조하는 기술력을 확보하였고. 언제든지 적들의 침공에 항시 대비하고 있습니다."
+
+#### 월면 낙지 ###
+NAZ_FIS_SCENARIO_DESC:0 "'철의 여인' 아돌라인 히틀러는 2차 세계대전이 막바지에 이를 무렵인 1950년에 나치의 비밀 우주병기 하우니브와 그라프 체펠린 궤도함대를 위시한 독일 우주군을 이끌고 달으로 '일시적인 망명'을 시도했습니다. 지구와 달리 척박한 달의 도전적인 환경을 무릅쓰고 개척에 성공한 히틀러는 타국의 달 식민지를 모두 장악하고 새로 건설한 달의 중심지 네오 게르마니아에서 제 4제국을 선포하고, 달에서의 인구 증강과 병력 자원의 확보를 위해 소수의 여군을 제외한 친위대 장병들에게 추첨을 통해 영구적인 성전환 약물을 보급하기로 결정했습니다. 또한, 달의 주요 자원인 헬륨-3과 달의 풍부한 광물을 통해 궤도 함대의 증축을 시도하고 있는 히틀러는 그녀의 최종 계획인 성간 레벤스라움 구축을 실현시키려고 합니다./n/n'달은 우리를 빛나게 한다!'"
+
+#### 흑독일 ###
+MAF_FIS_SCENARIO_DESC:0 "2차 세계대전 종전 직후, 월면 나치로부터 버림받은 괴링은 소수의 구 나치 인사들과 함께 무작정 아프리카로 도망갔습니다. 한때 괴링은 투철한 파시즘 이념으로 가득한 투사였지만, 히틀러에게 버림받은 이후로 그는 더 이상 나치가 아니었습니다. '흑댄스'를 통해 마약 중독을 치료받고, 다이어트에도 성공한 흑무주의자 헤르만 괴링만이 있을 뿐입니다! 1951년, 헤르만 괴링은 자기처럼 흑무주의를 받아들인 나치 인사들과 함께 '도이체스 카이저라이히', 즉 '독일 제국'을 선포했습니다. 하지만, 한 가지 문제가 있습니다. '제국'인데 황제가 없는 것입니다. 항간의 소문에 따르면 괴링이 호엔촐레른 가문이나 다른 독일 귀족 가문의 인사를 카이저로 추대한다는 소문도 있고, 아프리카의 부족장들이 '카이저 공채'에 참여한다는 소문도 있으며, 어떤 소문에 따르면 괴링 스스로 카이저의 자리에 오르려 한다는 소문도 있습니다. 괴링이 이끄는 독일 제국은, 위대한 흑무주의의 이념으로 무장한 채 베를린에서 흑댄스를 출 수 있을까요?"
+
+####################
+### Past Nations ###
+####################
+
+### Patagonian Workers Front ###
+#FOP_KR_GATHERING_STORM_DESC:0 "Despite the belief that a revolution in the arid wastes of Patagonia would be impossible, the Frente Obrero Patagonico has managed to endure against all odds. Thanks to an opportune Chilean intervention forcing Argentina to accept the new status quo or face a war unprepared at a time of great economic hardship, the FOP has managed to grow in numbers, drawing people disillusioned with the old regime in Argentina. However, the ties that bind the different factions in the FOP are thinner than they look from afar, and perhaps victory in the civil war will only be the match that will set off the powder-keg..."
+
+#### Costa Rica ###
+#COS_KR_GATHERING_STORM_DESC:0 "Class warfare, rapid militarisation and the Iron Grip of the Kaiser hold the world in its grasp, which makes it even more peculiar that in the midst of all this violence and pain we can find the tiny republic of Costa Rica. Taking great pride in their impressive literacy statistics and their unbreakable dedication to the Constitution, the nation stands as a rock above its neighbours who have long been eyeing its land. As their greatest ally starts to descend into chaos, vultures all across the Americas are waiting for the proud eagle to fall. Diplomacy will have to prevail if we are to survive the coming tide..."
+#
+#### Cuba ###
+#CUB_KR_GATHERING_STORM_DESC:0 "A mere seven years since the overthrow of American-backed dictator Gerardo Machado, Cuba again teeters on the edge of political upheaval. The regime of young President Rafael Trejo has steadily lost control over the Army and the civilian government's political authority has all but completely eroded. As radicals both right and left threaten the country, the military may well take full control as soon as an opportunity presents itself."
+#
+#### Denmark ###
+#DEN_KR_GATHERING_STORM_DESC:0 "Denmark exists under the shadow of Berlin. Its relation with the new hegemon of the world is ancient, has often been hostile, even as recently as 1864, which resulted in the loss of Slesvig to the Germans. Yet, in 1936, ties are warm and Denmark, by grace of having remained neutral in the Weltkrieg maintains its sovereignty in full. Under the guiding hand of the popular social democratic prime minister Thorvald Stauning, Denmark has been profiting off German economic prosperity. Domestically, the future looks bright, but internationally, clouds are gathering. Some fear Denmark will be in the wrong place at the wrong time..."
+#
+#### Dominican Republic ###
+#DOM_KR_GATHERING_STORM_DESC:0 "The American Occupation of the Dominican Republic ended in 1924 and full political control was returned soon after, but within a mere few years, the nation's new democratic constitution would face challenges both within and without. While Democracy has so far survived in the nation, the schism of the long-ruling Red Party has again put the constitution's survival in jeopardy."
+#
+#### Fengtian Government ###
+#FNG_KR_GATHERING_STORM_DESC:0 "The Shanghai Conference of 1928 left Fengtian as the sole inheritor of the old Beiyang Republic's legacy. As before, democracy is maintained only as a thin veneer, and real power is divided between a wide variety of unscrupulous autocrats.\n\nZhang Zuolin, his ambitions limited by the stark realities of Qing strength and Japanese power, has been forced to walk a political tightrope above the machinations of his own divided government. The outlook is grim, but some still hold out hope. The Five Colour Flag may again flutter high above Beijing and across all China..."
+#
+#### Finland ###
+#FIN_KR_GATHERING_STORM_DESC:0 "In the northern periphery of Europe, Finland, the bastion of German influence in Scandinavia, proudly stands. Spawned out of the corpse of the Russian empire and with socialism threatening the nation at its inception, the kingdom has developed into a stalwart ally of Germany against the principles of socialism and the imperialistic hands of Russia. But after almost two decades of independence under the guiding hand of its monarch and the national coalition, unrest is festering: is Finland truly free or is German dominion merely a bit more subtle than that of the Tsars of old?"
+#
+#### Guatemala ###
+#GUA_KR_GATHERING_STORM_DESC:0 "The overthrow of the two decade long president Manuel Estrada Cabrera in 1920 and the overthrow of the Unity Party afterwards has led to a decade long dictatorship under José María Orellana. Through various compromises he has been able to keep power by a string through the Americans and various outside influence. However, the rise of Sandino in Nicaragua has caused extreme trouble for his presidency as socialist movements begin to grow and the Unity Party officials begin to ally with elements of the military. Orellana's dictatorship might have its string cut soon."
+#
+#### Honduras ###
+#HON_KR_GATHERING_STORM_DESC:0 "The suicide of President Andino in 1933 following the peasant charge of the capital created a shock wave throughout Honduras, soon after a peasant republic was established with the goal of gradually rooting out US influence and purging Pro US elements. In 1936 the Council is on the brink of collapse and there are rumours of a conspiracy within the government..."
+#
+#### Iceland ###
+#ICE_KR_GATHERING_STORM_DESC:0 "Starting in 1874, Iceland had its first taste of independence when Denmark granted the colony home rule. When the guns fell silent after the Weltkrieg, Iceland joined the Mitteleuropa Economic Bloc which brought a period of prosperity to the island. However, this economic prosperity would not last forever. The British Revolution of 1925 shattered the miracle that post-Weltkrieg Iceland was experiencing. The last decade has seen Iceland floundering as its economy never fully recovered from the loss of Great Britain. Many politicians are now bringing forward further plans to revitalize the island."
+#
+#### Italian Republic ###
+#ITA_KR_GATHERING_STORM_DESC:0 "After Italy's defeat in the Weltkrieg, the country was left to the mercy of the Austrians - and it would have been reorganized into the old Italian Federation had it not been for the outbreak of civil war. The socialists would have overrun the peninsula had the Austrians not swallowed a bitter pill and cooperated with the republicans... and, after the fighting stopped, was forced to maintain the relationship into the current day. Italy remains unstable, however, and its eventual reckoning with the socialists across the Po appears inevitable."
+#
+#### League of Eight Provinces ###
+#LEP_KR_GATHERING_STORM_DESC:0 "Sun Chuanfang's League forms the southern half of an axis which has dominated China for nearly a decade. Years of peace have proven fertile ground for ambition, and with it jealousy. Although Nanjing and Beijing remain united against external foes, they have become competitors as much as allies. Some say the costs of this contest have already begun to take their toll.\n\nLike much of China the League is the product of a careful balance, and Sun's great bureaucratic pyramid may have already begun to crack and crumble..."
+#
+#### Ma Clique ###
+#XSM_KR_GATHERING_STORM_DESC:0 "The three Ma families have cemented their north-western rule for thirty steady years. Siding with almost everyone in China at one point or another, with some Mas even fighting each other for the sake of remaining on the good side of everyone, the Mas are now seen as one of the greatest allies of the new Zhili-led Qing Dynasty.\n\nOf course, not all is well. Ma Fuxiang's heart attack three years ago shook the clique, and a sense of anxiety and unrest has slowly spread ever since. For now the north-west is peaceful, but its future is less certain than many might like to believe..."
+#
+#### Norway ###
+#NOR_KR_GATHERING_STORM_DESC:0 "For Norway, the last two decades could have been better. As a neutral country supportive of the British war effort, the hegemonic power of Germany did not favour the land of the midnight sun and the nation was excluded from the Mitteleuropa project that did include Sweden and Denmark. When Great Britain fell to the hammer and torch, the last trading partner of Norway that was not subject to heavy tariffs was an ocean away. Ever since, Norway found itself in diplomatic and economic isolation, and in the suffering this entails, the syndicalist-inclined Labour Party rises in the polls at an ever-increasing pace."
+#
+#### Papal State ###
+#PAP_KR_GATHERING_STORM_DESC:0 "With the formation of a united Italy, it had seemed the time for the Papal States to have secular power was a thing of the past. Then came the collapse of the kingdom, and the civil war which followed, and central Italians once again turned to the Papacy and its Sicilian allies to help maintain stability. Now Pope Pius XI is ill, and on his deathbed he laments an Italy that remains divided, with the syndicalists growing ever stronger in the north. Whoever his successor is, he will need God on his side in order to prevail."
+#
+#### Qing Empire ###
+#QIE_KR_GATHERING_STORM_DESC:0 "The Qing Empire enters 1936 on the brink. Restored in exchange for German support during the fourth Zhili-Fengtian war in 1927, the Xuantong Emperor remains deeply unpopular and viewed by many as illegitimate.\n\nThe Zhili clique, who trounced both the Fengtian clique and the KMT, stands as the victor of the chaos that engulfed China since 1911, but their domination of the country is far from secure. Enemies from both outside and within threaten their hegemony, and it remains to be seen how long they can hold on to power..."
+#
+#### Sardinia ###
+#SRD_KR_GATHERING_STORM_DESC:0 "The House of Savoy was shattered by Italy's defeat in the Weltkrieg, and King Victor Emmanuel III held responsible. All is not completely lost for the monarchy, however. The Savoy-Aostas are powerful supporters, the rightful holders of Sardinia-Piedmont until their lands on the shores were swallowed up by the syndicalists. Now they and what monarchy supporters they can gather hold out on Sardinia, protected by the French Republic and ready to watch for the opportunity where they, too, can one day return home to claim their seat of power."
+#
+#### Shandong ###
+#SQI_KR_GATHERING_STORM_DESC:0 "Shandong's ruler Zhang Zongchang is preceded only by his armored train and a monstrous reputation. The 'Dogmeat General' is known for violence, vice and corruption, and under his hand the capital of Jinan has steadily come to mirror its master.\n\nHowever, from the peak of Mount Tai, the elusive patriarch Zhang Tianran eschews the depravity below. Instead he hopes to turn back China’s clock by over a century, and guide the country into the arms of his captivating Yiguandao faith. A clash between these contradictory forces may change China forever..."
+#
+#### Shanxi Clique ###
+#SHX_KR_GATHERING_STORM_DESC:0 "Unlike most other warlord factions, Yan Xishan's Shanxi clique has retained a policy of guarded neutrality for nearly three decades, broken only in times of great threat or great opportunity. Both presented themselves in 1928, and Yan joined Zhang Zuolin against the newly reformed Qing Government.\n\nUnfortunately the subsequent defeat deprived Yan of the eastern portion of his province, and forced him to induct Guominjun remnants to bolster his wavering forces. The consequences of 1928 are far from forgotten, and next time Yan must choose a side he must do so wisely... "
+#
+#### Sichuan Clique ###
+#SZC_KR_GATHERING_STORM_DESC:0 "Sichuan has long been a microcosm of China's many woes, divided and constantly switching controllers since 1911. Yang Sen managed to emerge from the chaos as ruler with help from Wu Peifu's Zhili Clique, but even his control is far from absolute.\n\nFollowing a destructive Tibetan invasion, Yang has come to rely upon internal factions for support, most notably Liu Xiang's Industrial Corps and Deng Xihou's Baoding Department. Meanwhile, the exiled Officer Department has returned to the south with support from Yunnan. The Sichuanese powder-keg may explode once again..."
+#
+#### Socialist Republic Italy ###
+#SRI_KR_GATHERING_STORM_DESC:0 "Since the Italian civil war, the Socialist Republic of Italy has controlled the bulk of Italy. Its rulers know full well that it would have overrun the republicans and the whites, had it not been for the infernal interference of Austria and the pressure applied by Germany. Even today, it is the spectre of interference by Germany and Austria which keeps syndicalism from finishing off the last remnants of Old Italy. The nation bides its time, building its strength, and is fully aware that - once the scale tips - it shall tip in the favour of revolution."
+#
+#### Sweden ###
+#SWE_KR_GATHERING_STOR_DESC:0 "In the last decade, Sweden developed itself as a bastion of conservatism under the prosperous rule of prime minister Arvid Lindman, profiting from the fruits of the economic growth in Mitteleuropa during the late 1920s and early 1930s. However, clouds are gathering over Stockholm: in 1934, Arvid Lindman retired as prime minister, and has been succeeded by the less charismatic Gösta Bagge, while the social democratic opposition is rallying around their popular party leader Per Albin Hansson. This year Bagge's first elections as prime minister will be held. Can he hold his ground? And if not, can Sweden's democracy survive this sudden reversal?"
+#
+#### Two Sicilies ###
+#SIC_KR_GATHERING_STORM_DESC:0 "The Kingdom of the Two Sicilies initially sided with Austria during the civil war, a necessary evil to halt the advance of the Socialist Republic. Later, however, when war with the syndicalists seemed inevitable, the Austrians showed their true colours and abandoned the south. The war never happened, but the Sicilains came into the modern era wiser. They will have a difficult time meeting the more industrialized north head on, but that war will someday came and they must be ready for it."
+#
+#### West Indies Federation ###
+#CAF_KR_GATHERING_STORM_DESC:0 "The West Indies Federation was created as a result of the collapse of the British Empire in 1925 due to being unable to exert the influence to control the region directly. After the incorporation of the French colonies in 1927 the country has been home to not only a noticeable class divide, but a cultural and ideological one as well. The people and new generation have seen a noticeable drift towards socialist attitudes and preference towards the communards on the mainland. All it could take is one wrong step before chaos erupts on the Indies..."
+#
+#### Yunnan Clique ###
+#YUN_KR_GATHERING_STORM_DESC:0 "With the German re-establishment of the Qing dynasty, the mountainous border province of Yunnan was forced to change its strategy. Governor Tang decided to kowtow to the new Qing Empire, while at the same time opening Yunnan's doors to republican remnants, in order to cement his autonomy and deter action against his notoriously upstart province.\n\nAlthough the situation in China is slowly starting to favour Tang's schemes, it is also beginning to shatter an illusion of provincial unity, as many internal factions no longer see Tang as fit or even sane enough to rule..."

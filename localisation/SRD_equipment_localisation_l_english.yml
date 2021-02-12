@@ -1,0 +1,270 @@
+﻿l_english:
+ #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+#### HOLY EQUIPMENT LOCALISATION START ####
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## HOLY EQUIPMENT LOCALISATION SAMPLE START ##
+ 
+ #<UNITNAME>_equipment_<NUMBER>:0 ""
+ #<UNITNAME>_equipment_<NUMBER>_desc:0 "" 
+ 
+ ## HOLY EQUIPMENT LOCALISATION SAMPLE END ##
+ #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+ knight_equipment_archetype_desc:0 "Bulletproof armor and weapons for our knights"
+
+ knight_equipment_1:0 "Knight Equipment"
+ knight_equipment_1_desc:0 "Special Bulletproof armor and weapons for our knights"
+ 
+ knight_equipment_2:0 "Blessed Knight Equipment"
+ knight_equipment_2_desc:0 "Armor and weapons blessed by priest to increase its strength"
+
+ knight_equipment_3:0 "Holy Knight Equipment"
+ knight_equipment_3_desc:0 "Truly holy armor and weapons from the heavens with unmatched strength"
+
+ mage_equipment_archetype_desc:0 "Special robes and staffs to help mages channel their psionic power into speels"
+ 
+ mage_equipment_1:0 "Mage Equipment"
+ mage_equipment_1_desc:0 "Special crafted robes and staffs for our mages"
+
+ mage_equipment_2:0 "Blessed Mage Equipment"
+ mage_equipment_2_desc:0 "Blessed robes and staffs to increase its power"
+
+ mage_equipment_3:0 "Holy Mage Equipment"
+ mage_equipment_3_desc:0 "Holy robes and staffs from the heavens that unlock the wearer true psionic abilities"
+
+ priest_equipment_archetype_desc:0 "Armor to protect our priests during combat and channel their psionic abilities"
+
+ priest_equipment_1:0 "Priest Equipment"
+ priest_equipment_1_desc:0 "Armor to protect our priests during combat and channel their psionic abilities"
+
+ stormcrusader_equipment_archetype_desc:0 "Specialized weapon and armor to fight in close quarters like buildings, bunkers and trenches"
+
+ stormcrusader_equipment_1:0 "Stormcrusader Equipment"
+ stormcrusader_equipment_1_desc:0 "Thick armor, flamethrowers, swords and heavy personal weapons for our new heavy troops"
+
+ stormcrusader_equipment_2:0 "Blessed Stormcrusader Equipment"
+ stormcrusader_equipment_2_desc:0 "Blessed weapons and armor for close quarter combat"
+
+ stormcrusader_equipment_3:0 "Holy Stormcrusader Equipment"
+ stormcrusader_equipment_3_desc:0 "Holy weapons and armor for close quarter combat"
+
+ church_tank_equipment_archetype_desc:0 "A tank in the chape of a church, with the speed and weapons of a heavy tank and armor of a medium tank"
+
+ church_tank_equipment_1:0 "Church Tank"
+ church_tank_equipment_1_desc:0 "A tank in the chape of a church, with the speed and weapons of a heavy tank and armor of a medium tank"
+
+ church_tank_equipment_2:0 "Blessed Church Tank"
+ church_tank_equipment_2_desc:0 "An improved version of our church tank with blessed componets"
+
+ church_tank_equipment_3:0 "Holy Church Tank"
+ church_tank_equipment_3_desc:0 "A holy version of our church tank"
+
+ church_tank_opression_equipment_archetype_desc:0 "Special church tank with megaphones to keep peace in occupied territories"
+
+ church_tank_opression_equipment_1:0 "Occupation Church Tank"
+ church_tank_opression_equipment_1_desc:0 "Special church tank with megaphones to keep peace in occupied territories"
+
+ gunship_equipment_archetype_desc:0 "A big close air support plane."
+
+ gunship_equipment_1:0 "Gunship"
+ gunship_equipment_1_desc:0 "A big plane that flies over enemy armies and shoots at enemies instead of dive bombing them."
+
+ gunship_equipment_2:0 "Blessed Gunship"
+ gunship_equipment_2_desc:0 "Blessed and improveded version of the gunship"
+
+ gunship_equipment_3:0 "Holy Gunship"
+ gunship_equipment_3_desc:0 "Holy and advanced version of the gunship"
+
+ stormcrusader_tank_equipment_archetype_desc:0 "Armored and armed transport vehicle to support and transport our stormcrusaders"
+
+ stormcrusader_tank_equipment_1:0 "Stormcrusader Tank"
+ stormcrusader_tank_equipment_1_desc:0 "Armored and armed transport vehicle to support and transport our stormcrusaders"
+
+ stormcrusader_tank_equipment_2:0 "Blessed Stormcrusader Tank"
+ stormcrusader_tank_equipment_2_desc:0 "Blessed and improveded version of the stormcrusader tank"
+
+ stormcrusader_tank_equipment_3:0 "Holy Stormcrusader Tank"
+ stormcrusader_tank_equipment_3_desc:0 "Holy and advanced version of the stormcrusader tank"
+
+ holy_fighter_equipment_archetype_desc:0 "A fighter with a small build in chapel that provides the pilot with spritual support"
+
+ holy_fighter_equipment_1:0 "Chapel Fighter"
+ holy_fighter_equipment_1_desc:0 "A fighter with a small build in chapel that provides the pilot with spritual support"
+
+ holy_fighter_equipment_2:0 "Blessed Chapel Fighter"
+ holy_fighter_equipment_2_desc:0 "Blessed and improveded version of the chapel fighter"
+
+ holy_fighter_equipment_3:0 "Holy Chapel Fighter"
+ holy_fighter_equipment_3_desc:0 "Holy and advanced version of the chapel fighter"
+
+ angel_equipment_archetype_desc:0 "An holy angel send from heaven to fight for us"
+
+ angel_equipment_1:0 "Angel"
+ angel_equipment_1_desc:0 "An holy angel send from heaven to fight for us"
+
+ griffin_armor_equipment_archetype_desc:0 "Armor for the majestic griffins"
+
+ griffin_armor_equipment_1:0 "Griffin Armor"
+ griffin_armor_equipment_1_desc:0 "Majestic creatures clad in armor to be ridden on by our best knights"
+
+ saint_equipment_archetype_desc:0 "Armor for the most holy medics who are able to ressurect people with the power of heaven"
+
+ saint_equipment_1:0 "Saint Armor"
+ saint_equipment_1_desc:0 "Armor for the most holy medics who are able to ressurect people with the power of heaven"
+
+ walking_cathedral_equipment_archetype_desc:0 "Walking cathedral, the biggest warmachines that will bring salvation to our enemies"
+
+ walking_cathedral_equipment_1:0 "Walking Cathedral"
+ walking_cathedral_equipment_1_desc:0 "Walking cathedral, the biggest warmachines that will bring salvation to our enemies"
+
+ angel_suit_equipment_equipment_desc:0 "Special suits giving soldiers the ability to fly like an angel and protecting them from bullets"
+
+ angel_suit_equipment_1:0 "Angel Suit"
+ angel_suit_equipment_1_desc:0 "Special suits giving soldiers the ability to fly like an angel and protecting them from bullets"
+
+ #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ #### HOLY UNIT LOCALISATION END ####
+
+#### CYBER EQUIPMENT LOCALISATION START ####
+
+ ## CYBER MECH EQUIPMENT LOCALISATION START ##
+
+ mech_land_equipment_archetype_desc:0 "A combat vehicle with 2 legs, a crew of 2 and a tank gun. Basically a walking tank."
+
+ mech_land_equipment_1:0 "1st Gen. Mech"
+ mech_land_equipment_1_desc:0 "1st Generation of our new weapon but for the moment its nothink more than a walking tank."
+
+ mech_land_equipment_2:0 "2nd Gen. Mech"
+ mech_land_equipment_2_desc:0 "The 2nd generation of our new weapon functions more like big armored human than a walking tank."
+
+ mech_land_equipment_3:0 "3rd Gen. Mech"
+ mech_land_equipment_3_desc:0 "The 3rd generation of the mech is now able to function like infantry and a tank at the same time. Further Improved version of the previous models with better specs."
+
+ mech_land_equipment_4:0 "4th Gen. Mech"
+ mech_land_equipment_4_desc:0 "The 4th generation is the ultimate form of the our mechs it is able to perfore duties of holding the line infantry and breathinkg through the enemy like a tank and is even faster than the previous generations. The most advanced mech model, far superior to the previous models."
+ 
+ mech_anti_tank_equipment_1_desc:0 "Anti Tank Guns for our Combat Mechs."
+
+ mech_anti_tank_equipment_1:0 "1st Gen. Anti Tank Weapons"
+ mech_anti_tank_equipment_1_desc:0 "Because of the nature of our new weapon it doesnt have armor penetration and it can struggle against heavier enemies and thats why we need a anti tank gun that for our mechs. A giant anti tank gun for mechs." 
+
+ mech_anti_tank_equipment_2:0 "2nd Gen. Anti Tank Weapons"
+ mech_anti_tank_equipment_2_desc:0 "New developments in rocket technology allows us the to use big rockets as rounds for our new anti tank weapon. A giant rocket launcher for mechs."
+
+ mech_anti_tank_equipment_3:0 "3rd Gen. Anti Tank Weapons"
+ mech_anti_tank_equipment_3_desc:0 "Laser weapons are light and have more power then rockets and are the natural evolution in our quest to develop the strongest anti tank weapon. A laser anti tank cannon for mechs."
+
+ mech_air_equipment_archetype_desc:0 "A Flying Model of our Combat Mechs."
+
+ mech_air_equipment_2:0 "2nd Gen. Air Mech"
+ mech_air_equipment_2_desc:0 "By giving our mechs a floating unit we can use them as air superiority fighters and close air support."
+
+ mech_air_equipment_3:0 "3rd Gen. Air Mech"
+ mech_air_equipment_3_desc:0 "A new floating unit for the new mech generation. Futher Improved version of the previous model with better specs."
+
+ mech_air_equipment_4:0 "4th Gen. Air Mech"
+ mech_air_equipment_4_desc:0 "A new floating unit for the new mech generation. The most advanced air mech model, far superior to the previous models."
+ 
+ mech_giga_land_equipment_archetype_desc:0 "A giant super heavy mech with greater armor and weapons then the normal mechs. A bigger, meaner version of our newest mech with heavy weapons and even heavier armor."
+ mech_giga_iar_equipment_archetype_desc:0 "A flying model of our super heavy mech that has short range but is devastating for enemy buildings. Because of its sheer size, its range is small but it can destroy anythink u want in its short range."
+
+ mech_giga_land_equipment_1:0 "Super Heavy Mech"
+ mech_giga_land_equipment_1_desc:0 "A giant super heavy mech with greater armor and weapons then the normal mechs. A bigger, meaner version of our newest mech with heavy weapons and even heavier armor."
+
+ mech_giga_air_equipment_1:0 "Air Super Heavy Mech"
+ mech_giga_air_equipment_1_desc:0 "A flying model of our super heavy mech that has short range but is devastating for enemy buildings. Because of its sheer size, its range is small but it can destroy anythink u want in its short range."
+
+ ## CYBER MECH EQUIPMENT LOCALISATION END ##
+
+ ## CYBER CYBERNETICS EQUIPMENT LOCALISATION START ##
+ cyber_medic_equipment_archetype_desc:0 "Special Prosthetics for our medics that can easly replace a lost arm or leg of our soldiers."
+ cyber_medic_equipment_1:0 "Combat Prosthetic" 
+ cyber_medic_equipment_1_desc:0 "These special Cyber Prosthesis will allow medics to install prostheses to our troops in combat allowing them to continue fighting even after lossing a leg or an arm. §R There is no constancy in flesh, only decay§."
+
+ techpriest_equipment_archetype_desc:0 "A Special Robe and repair equipment for our techpriests. "
+ techpriest_equipment_1:0 "Techpriest Equipment"
+ techpriest_equipment_1_desc:0 "Transhumanists who installed so many cybernetics that they cant even be called human anymore will be the best mechanics for our warmachines.§R There is no certainty in flesh but death§."
+
+ cyber_soldier_equipment_archetype_desc:0 "High tech armor and cybernetics to make our soldiers as deadly as possible."
+ cyber_soldier_equipment_1:0 "Cyber Soldier Equipment"
+ cyber_soldier_equipment_1_desc:0 "In great armour they shall be clad, with the mightiest weapons and cybernetics they will be equipped, no foe will best them in battle.§R They shall be this countries finest warriors and they shall know no fear§"
+
+ cyber_soldier_DLC_equipment_1:0 "Cyber Soldier Equipment"
+ cyber_soldier_DLC_equipment_1_desc:0 "In great armour they shall be clad, with the mightiest weapons and cybernetics they will be equipped, no foe will best them in battle.§R They shall be this countries finest warriors and they shall know no fear§"
+
+ cyber_titan_equipment_archetype_desc:0 "A giant warmachine that is able to destroy whole cities but is unable to move through most terrain types."
+ cyber_titan_equipment_1:0 "Titan"
+ cyber_titan_equipment_1_desc:0 "These titans will be the greatest weapon of this country, they will require to be build by dozens of thousand of souls but all will be worth it when they will §Rdestroy all enemy armies and cities§."
+
+ cyber_titan_DLC_equipment_1:0 "Titan"
+ cyber_titan_DLC_equipment_1_desc:0 "These titans will be the greatest weapon of this country, they will require to be build by dozens of thousand of souls but all will be worth it when they will §Rdestroy all enemy armies and cities§."
+
+ ## CYBER CYBERNETICS EQUIPMENT LOCALISATION END ##
+
+ ## CYBER DRONE EQUIPMENT LOCALISATION START ##
+
+ drone_bomber_equipment_archetype_desc:0 "A bomber plane that doesnt need a crew"
+ drone_bomber_equipment_1:0 "1st Gen. Drone Bomber"
+ drone_bomber_equipment_1_desc:0 "1st Generation of our autonomous bombers that dont require any pilots."
+
+ drone_bomber_equipment_2:0 "2nd Gen. Drone Bomber"
+ drone_bomber_equipment_2_desc:0 "2st Generation of our autonomous bombers that dont require any pilots. Improved version of the drone bomber"
+
+ drone_bomber_equipment_3:0 "3rd Gen. Drone Bomber"
+ drone_bomber_equipment_3_desc:0 "3rd Generation of our aunomous bombers now with jet engines. Advanced version of the drone bomber"
+
+ drone_fighter_equipment_archetype_desc:0 "A fighter plane that doesnt need a pilot"
+ drone_fighter_equipment_1:0 "1st Gen. Drone Fighter"
+ drone_fighter_equipment_1_desc:0 "1st Generation of our autonomous fighter that dont require any pilots."
+
+ drone_fighter_equipment_2:0 "2nd Gen. Drone Fighter"
+ drone_fighter_equipment_2_desc:0 "2nd Generation of our autonomous fighter that dont require any pilots."
+
+ drone_fighter_equipment_3:0 "3rd Gen. Drone Fighter"
+ drone_fighter_equipment_3_desc:0 "3rd Generation of our autonomous fighter now with jet engines."
+
+ #drone_mothership_equipment_1:0 "Drone Mothership"
+ #drone_mothership_equipment_1_desc:0 "A big plane that acts as a flying carrier."
+
+ drone_tank_equipment_archetype_desc:0 "A tank that doesnt need a crew."
+ drone_tank_equipment_1:0 "1st Gen. Drone Tank"
+ drone_tank_equipment_1_desc:0 "A complete autonomous tank that doenst require any crew."
+
+ drone_tank_equipment_2:0 "2nd Gen. Drone Tank"
+ drone_tank_equipment_2_desc:0 "2nd Generation of our autonomous tank. Improved version of the drone tank."
+
+ drone_tank_equipment_3:0 "3rd Gen. Drone Tank"
+ drone_tank_equipment_3_desc:0 "3rd Generation of our autonomous tank. Advanced version of the drone tank."
+
+ drone_gun_equipment_archetype_desc:0 "A walking support machinegun"
+ drone_gun_equipment_1:0 "1st Gen. Gun Drone"
+ drone_gun_equipment_1_desc:0 "A walking Drone with machine guns to support our troops"
+
+ drone_gun_equipment_2:0 "2nd Gen. Gun Drone"
+ drone_gun_equipment_2_desc:0 "2nd Generation of the Gun Drone. Improved version of the gun drone."
+
+ drone_gun_equipment_3:0 "3rd Gen. Gun Drone"
+ drone_gun_equipment_3_desc:0 "3rd Generation of the Gun Drone. Advanced version of the drone tank."
+
+ drone_infantry_equipment_archetype_desc:0 "A Drone that can carry a gun and work as normal infantry."
+ drone_infantry_equipment_1:0 "1st Gen. Drone Infantry"
+ drone_infantry_equipment_1_desc:0 "1st Generation of autonomous Drone Soldiers. A Drone that can carry a gun and work as normal infantry."
+
+ drone_infantry_equipment_2:0 "2nd Gen. Drone Infantry"
+ drone_infantry_equipment_2_desc:0 "2nd Generation of autonomous Drone Soldiers. Improved version of the drone infantry."
+
+ drone_infantry_equipment_3:0 "3rd Gen. Drone Infantry"
+ drone_infantry_equipment_3_desc:0 "3rd Generation of autonomous Drone Soldiers. Advanced version of the drone infantry"
+
+ drone_support_equipment_archetype:0 "A drone that is able to do various non combat tasks."
+ drone_support_equipment_1:0 "Support Drones"
+ drone_support_equipment_1_desc:0 "Drones that will support our troops. A drone that is able to do various non combat tasks."
+
+ drone_hunter_equipment_archetype_desc:0 "A fast gun armored to keep peace in conquered territories."
+ drone_hunter_equipment_1:0 "Hunter Drones"
+ drone_hunter_equipment_1_desc:0 "Drones specialy designed to hunt down resistance. A fast gun armored to keep peace in conquered territories."
+
+ ## CYBER DRONE EQUIPMENT LOCALISATION END ##
+
+ #### CYBER EQUIPMENT LOCALISATION END ####
+

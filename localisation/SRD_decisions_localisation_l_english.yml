@@ -1,0 +1,136 @@
+﻿l_english:
+ #----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ### SRD CATEGORIES LOCALISATION START ###
+ #----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ cyber_decision:0 "Drone Building Decisions"
+ cyber_decision_desc:0 "Here we can decide to build various drones."
+	
+ #----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ### SRD CATEGORIES LOCALISATION END ###
+ #----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## CYBER DECISIONS LOCALISATION START ##
+ #----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_drone_workforce_decision_1:0 "Create Drone Helpers"
+ cyber_drone_workforce_decision_1_desc:0 "These basic drones will help out in factories. §R decreases stability §"
+
+ cyber_drone_workforce_decision_2:0 "Create Drone Workers"
+ cyber_drone_workforce_decision_2_desc:0 "These drone workers will be able to replace basic workers in factories. §R decreases stability §"
+
+ cyber_drone_workforce_decision_3:0 "Create Advanced Drone Workers"
+ cyber_drone_workforce_decision_3_desc:0 "These drone workers will be able to replace specialized experts working in factories. §R decreases stability §"
+
+ cyber_drone_workforce_decision_4:0 "Create Partially Automated Factories"
+ cyber_drone_workforce_decision_4_desc:0 "Some parts of our factories will be completly automated. §R decreases stability §"
+
+ cyber_drone_workforce_decision_5:0 "Create Automated Factories"
+ cyber_drone_workforce_decision_5_desc:0 "Most of our Factories will be completly automated. §R decreases stability §"
+
+ cyber_drone_general_decision_1:0 "Create Infantry General"
+ cyber_drone_general_decision_1_desc:0 "Create a General that is specialized in commanding a lot of units."
+
+ cyber_drone_general_decision_2:0 "Create a Breakthrough General"
+ cyber_drone_general_decision_2_desc:0 "Create a General specialized in commanding a small elite force."
+
+ cyber_drone_marchal_decision_3:0 "Create a Drone Marshal"
+ cyber_drone_marchal_decision_3_desc:0 "Create a Drone Marshal who will be able to command more generals."
+
+ cyber_drone_spy_decision_1:0 "Create a Spy Drone"
+ cyber_drone_spy_decision_1_desc:0 "Create a drone that acts and thinks like a normal human and use it as a spy"
+
+ #----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## CYBER DECISIONS LOCALISATION END ##
+ #----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## HOLY DECISIONS LOCALISATION START ##
+ #----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ holy_decision_1:0 "Holy Decisions"
+
+ holy_decision_2:0 "Holy Spells"
+ holy_decision_2_desc:0 "By using Holy Crystals we can cast powerful spells"
+
+ holy_create_crystal_1:0 "Harvesting Holy Crystals"
+ holy_create_crystal_1_desc:0 "We are in the process of harvesting Holy Crystals"
+ tooltip_holy_create_crystal_1:0 "§OAdds 5 Holy Crystals to the Capital §"
+ tooltip_holy_create_crystal_2:0 "§OAdds 10 Holy Crystals to the Capital §"
+ tooltip_holy_create_crystal_3:0 "§OAdds 15 Holy Crystals to the Capital §"
+
+ holy_activate_crystal_1:0 "Start Harvesting Holy Crystals"
+ holy_activate_crystal_1_desc:0 "Start the process of harvesting holy crystals"
+ tooltip_holy_activate_crystal_1:0 "§RStarts Harvesting Holy Crystals §"
+ 
+ holy_activate_crystal_1_1:0 "Stop Harvesting Holy Crystals"
+ holy_activate_crystal_1_1_desc:0 "Will stop the process of harvesting holy crystals"
+ tooltip_holy_activate_crystal_1_1:0 "§RStops Harvesting Holy Crystals §"
+
+ holy_upgrade_crystal_2:0 "Upgrade the Harvesting Process 2"
+ holy_upgrade_crystal_2_desc:0 "By using holy crystals we can harvest more holy crystals"
+ tooltip_holy_upgrade_crystal_2:0 "§YWill increase holy crystal output §"
+
+ holy_upgrade_crystal_3:0 "Upgrade the Harvesting Process 3"
+ holy_upgrade_crystal_3_desc: "By using holy crystals we can harvest more holy crystals"
+ tooltip_holy_upgrade_crystal_3:0 "§YWill increase holy crystal output §"
+
+ open_heaven_gate_1:0 "Open the Gates to Heaven"
+ open_heaven_gate_1_desc:0 "We will open the Gates to Heaven"
+ 
+ holy_general_summon_1:0 "Summon an Angel General"
+ holy_general_summon_1_desc:0 "With the Holy Crystals we will be able to Summon an Angel that will Lead our Armies"
+ tooltip_holy_general_summon_1:0 "§TWe will be Blessed with an Angel General §"
+
+ holy_plague_idea:0 "Plagues of Egypt"
+ holy_plague_idea_desc:0 "§R1.Truning Water to Blood | 2.Frogs | 3.Lice | 4.Swarm of Flies | 5.Pestilence of Livestock | 6. Boils | 7.Thunderstorm of Hail and Fire | 8.Locusts | 9. Darkness for three days | 10.Death of firstborn | §"
+
+ heaven_gate_idea_1:0 "Gates to Heaven"
+ heaven_gate_idea_1_desc:0 "The Gates to Heaven are located in our capital, this grounds us great bonuses"
+
+ #-------------------------------------------------
+
+ holy_spell_unlock_3:0 "Unlock Apocalypse Spell"
+ holy_spell_unlock_3_desc:0 "Unlock the Apocalypse Spell"
+
+ holy_spell_lv3_1: "Plagues of Egypt"
+ holy_spell_lv3_1_desc:0 "Send the Plagues of Egypt on our enemies"
+
+ #-------------------------------------------------
+
+ holy_spell_unlock_2:0 "Unlock Advanced Spells"
+ holy_spell_unlock_2_desc:0 "Unlock Advanced Spells"
+
+ holy_spell_lv2_1: "Advanced Industrial Spell"
+ holy_spell_lv2_1_desc:0 "A Spell that increases our industrial capacity"
+
+ holy_spell_lv2_2: "Advanced Influence Spell"
+ holy_spell_lv2_2_desc:0 "A spell that is influencing our population"
+
+ holy_spell_lv2_3: "Advanced Damage Spell"
+ holy_spell_lv2_3_desc:0 "A spell that is increasing damage of our armies"
+
+ holy_spell_lv2_4: "Advanced Occupation Spell"
+ holy_spell_lv2_4_desc:0 "A Spell to make the occupied territories more friendly"
+
+ holy_spell_lv2_5: "Advanced Training Spell"
+ holy_spell_lv2_5_desc:0 "A speel that decreases our training time and attracts pilgrims into our army"
+
+ #-------------------------------------------------
+
+ holy_spell_unlock_1:0 "Unlock Basic Spells"
+ holy_spell_unlock_1_desc:0 "Unlock Basic Spells"
+
+ holy_spell_lv1_1: "Basic Industrial Spell"
+ holy_spell_lv1_1_desc:0 "A Spell that increases our industrial capacity"
+
+ holy_spell_lv1_2: "Basic Influence Spell"
+ holy_spell_lv1_2_desc:0 "A spell that is influencing our population"
+
+ holy_spell_lv1_3: "Basic Damage Spell"
+ holy_spell_lv1_3_desc:0 "A spell that is increasing damage of our armies"
+
+ holy_spell_lv1_4: "Basic Occupation Spell"
+ holy_spell_lv1_4_desc:0 "A Spell to make the occupied territories more friendly"
+
+ holy_spell_lv1_5: "Basic Training Spell"
+ holy_spell_lv1_5_desc:0 "A speel that decreases our training time and attracts pilgrims into our army"
+
+ #-------------------------------------------------

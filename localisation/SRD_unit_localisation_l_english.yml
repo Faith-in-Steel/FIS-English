@@ -1,0 +1,133 @@
+﻿l_english:
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### HOLY UNITS LOCALISATION START ####
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ knight_unit:0 "Knight Battalion"
+ knight_unit_desc:0 "A battalion of highly trained knights with bulletproff armor"
+
+ mage_unit:0 "Mage Battalion"
+ mage_unit_desc:0 "A battalion of special individuals that can use create fireballs and other destructive speels"
+
+ legion_unit:0 "Holy Legion"
+ legion_unit_desc:0 "A legion of Gods personal soldiers" 
+
+ church_tank_unit:0 "Church Tank Battalion"
+ church_tank_unit_desc:0 "A battalion made out of church tanks to break through enemy lines"
+
+ walking_cathedral_unit:0 "Walking Cathedral"
+ walking_cathedral_unit_desc:0 "A big walking cathedral, enough said"
+
+ griffin_unit:0 "Griffin Riders Battalion" 
+ griffin_unit_desc:0 "A battalion of knights riding the great majesctic and powerful griffins"
+
+ stormcrusader_unit:0 "Storm Crusader Battalion"
+ stormcrusader_unit_desc:0 "Special trained troops clad in special armor,close combat equipment and vehicles specialized in fighting in urban landscape"
+
+ angel_suit_unit:0 "Angel Warriors Battalion"
+ angel_suit_unit_desc:0 "A Battalion of elite troops equiped in the most holy armor that makes them look like angels"
+
+ knight_cavalery_unit:0 "Knight Cavalery Battalion"
+ knight_cavalery_unit_desc:0 "A battalion of knights riding horses"
+
+ saint_unit:0 "Saints Support Battalion"
+ saint_unit_desc:0 "Saints who with power from the heavens will resurrect our fallen comrades"
+
+ mage_support_unit:0 "Mage Support Battalion"
+ mage_support_unit_desc:0 "A battalion of support mages"
+
+ priest_unit:0 "Battle Priest Battalion" 
+ priest_unit_desc:0 "A battalion of priest clad in armor to support our troops during their conquest with their prayers and presence"
+
+ church_tank_opression_unit:0 "Church Tank Occupation Battalion"
+ church_tank_opression_unit_desc:0 "A battalion of church tanks to support our occupation divisions"
+
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #### HOLY UNIT LOCALISATION END ####
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### CYBER UNIT LOCALISATION START ####
+
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## CYBER MECH UNIT LOCALISATION START ##
+ 
+ mech_land_unit:0 "Mech battalion"
+ mech_land_unit_desc:0 "A battalion of 30 combat mechs."
+
+ mech_anti_tank_unit:0 "Mech Tank Hunter Support Company"
+ mech_anti_tank_unit_desc:0 "A company of specialized combat mechs with special anti tank guns."
+
+ giga_mech_unit:0 "Giga Mech Battalion"
+ giga_mech_unit_desc:0 "A battalion of super heavy combat mechs."
+
+ ## CYBER MECH UNIT LOCALISATION END ##
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## CYBER CYBERNETIC UNIT LOCALISATION START ##
+ 
+ cyber_medic_unit:0 "Prosthetic Medic Support Company"
+ cyber_medic_unit_desc:0 "A company of special medics that heal our troops with prosthetics."
+
+ techpriest_unit:0 "Techpriest Support Company"
+ techpriest_unit_desc:0 "A company of Techpriest that know a great deal about our warmachines and can repair and maintain these. "
+
+ cyber_soldier_unit:0 "Cyber Soldiers Battalion"
+ cyber_soldier_unit_desc:0 "A battalion of cybernetic soldiers in armor."
+
+ cyber_titan_unit:0 "Titan"
+ cyber_titan_unit_desc:0 "A giant warmachine, with the power of several tank battalions."
+
+ ## CYBER CYBERNETIC UNIT LOCALISATION END ##
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## CYBER DRONE UNIT LOCALISATION START ##
+ 
+ drone_tank_unit:0 "Drone Tank Battalion"
+ drone_tank_unit_desc:0 "A Battalion of autonomous medium tanks."
+
+ drone_gun_unit:0 "Gun Drone Battalion"
+ drone_gun_unit_desc:0 "A Battalion of autonomous drones with support weapons."
+
+ drone_gun_support_unit:0 "Gun Drone Support Company"
+ drone_gun_support_unit_desc:0 "A support company of autonomous drones with support weapons"
+
+ drone_infantry_unit:0 "Drone Infantry Battalion"
+ drone_infantry_unit_desc:0 "A battalion of autonomous infantry."
+
+ drone_motorized_unit:0 "Motorized Drones Battalion"
+ drone_motorized_unit_desc:0 "A battalion of autonomous motorized infantry."
+
+ drone_mechanized_unit:0 "Mechanized Drone Battalion"
+ drone_mechanized_unit_desc:0 "A battalion of autonomous mechanized infantry."
+
+ drone_support_unit:0 "Drone Support Company"
+ drone_support_unit_desc:0 "A Company of Drones that support our troops."
+
+ hunter_drone_unit:0 "Hunter Drone Battalion"
+ hunter_drone_unit_desc:0 "A battalion of drones that are perfect to keep §R peace § in conquered territories."
+
+ ## CYBER DRONE UNIT LOCALISATION START ##
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #### CYBER UNIT LOCALISATION END ####
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### WUNDER UNIT LOCALISATION START ####
+
+
+
+ #### WUNDER UNIT LOCALISATION END ####
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### BIO UNIT LOCALISATION START ####
+
+
+
+ #### BIO UNIT LOCALISATION END ####
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------

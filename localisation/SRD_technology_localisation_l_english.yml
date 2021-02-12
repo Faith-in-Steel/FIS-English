@@ -1,0 +1,632 @@
+﻿l_english:
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### HOLY TECHNOLOGY TECHNOLOGY START ####
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## HOLY FOLDER BUTTON LOCALISATION START ##
+ 
+ holy_folder:0 "Holy Reasearch"
+ holy_folder_desc:0 "What happens when we combine Theologie and Physics or Theologie and Enginerring. This can only lead to powerfull Technologies and Warmachines for our Wareffort!"
+ 
+ ## HOLY FOLDER BUTTON LOCALISATION END ##
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## HOLY TECHNOLOGY LOCALISATION START ##
+
+ holy_starting_technology_1:0 "Bible for Scientist"
+ holy_starting_technology_1_desc:0 "By giving our scientist bibles we should be able to unlock new technologies"
+
+ holy_starting_technology_2:0 "Rewrite the Bible with Science"
+ holy_starting_technology_2_desc:0 "By rewriting the bible with science we should be able to unlock theological war machines"
+
+ holy_holy_church_technology_1:0 "Holy Church"
+ holy_holy_church_technology_1_desc:0 "A church to collect prayer from believers to use for our new warmachnines and equipment"
+
+ holy_concentrated_industry_technology_1:0 "Holy Concentrated Industry I"
+ holy_concentrated_industry_technology_1_desc:0 "By concentrating our industry and infusing it with priests to bless the producation lines we can increase our industry output"
+
+ holy_concentrated_industry_technology_2:0 "Holy Concentrated Industry II"
+ holy_concentrated_industry_technology_2_desc:0 "By concentrating our industry and infusing it with priests to bless the producation lines we can increase our industry output"
+
+ holy_concentrated_industry_technology_3:0 "Holy Concentrated Industry III"
+ holy_concentrated_industry_technology_3_desc:0 "By concentrating our industry and infusing it with priests to bless the producation lines we can increase our industry output"
+
+ holy_concentrated_industry_technology_4:0 "Holy Concentrated Industry IV"
+ holy_concentrated_industry_technology_4_desc:0 "By concentrating our industry and infusing it with priests to bless the producation lines we can increase our industry output"
+
+ holy_concentrated_industry_technology_5:0 "Holy Concentrated Industry V"
+ holy_concentrated_industry_technology_5_desc:0 "By concentrating our industry and infusing it with priests to bless the producation lines we can increase our industry output"
+
+ holy_dispersed_industry_technology_1:0 "Holy Dispersed Industry I"
+ holy_dispersed_industry_technology_1_desc:0 "By dispersing our industry and infusing it with priests to bless the producation lines we can increase the flexibility of our industry and make it more resilient to bombings"
+
+ holy_dispersed_industry_technology_2:0 "Holy Dispersed Industry I"
+ holy_dispersed_industry_technology_2_desc:0 "By dispersing our industry and infusing it with priests to bless the producation lines we can increase the flexibility of our industry and make it more resilient to bombings"
+
+ holy_dispersed_industry_technology_3:0 "Holy Dispersed Industry I"
+ holy_dispersed_industry_technology_3_desc:0 "By dispersing our industry and infusing it with priests to bless the producation lines we can increase the flexibility of our industry and make it more resilient to bombings"
+
+ holy_dispersed_industry_technology_4:0 "Holy Dispersed Industry I"
+ holy_dispersed_industry_technology_4_desc:0 "By dispersing our industry and infusing it with priests to bless the producation lines we can increase the flexibility of our industry and make it more resilient to bombings"
+
+ holy_dispersed_industry_technology_5:0 "Holy Dispersed Industry I"
+ holy_dispersed_industry_technology_5_desc:0 "By dispersing our industry and infusing it with priests to bless the producation lines we can increase the flexibility of our industry and make it more resilient to bombings"
+
+ holy_bible_technology_1:0 "Bible for Everyone"
+ holy_bible_technology_1_desc:0 "Special bible volume made specialy for the people to increase stability in our country"
+
+ holy_peace_propaganda_technology_1:0 "Peace Time Propaganda Efforts I"
+ holy_peace_propaganda_technology_1_desc:0 "Special Propaganda designed to make the population more obedient and nicer to everyone but the enemy that dares to attack them and their country"
+
+ holy_peace_propaganda_technology_2:0 "Peace Time Propaganda Efforts II"
+ holy_peace_propaganda_technology_2_desc:0 "Special Propaganda designed to make the population more obedient and nicer to everyone but the enemy that dares to attack them and their country"
+
+ holy_war_propaganda_technology_1:0 "War Time Propaganda Efforts I"
+ holy_war_propaganda_technology_1_desc:0 "Special Propaganda designed to make the population more eager to fight and invade other countries with the pretext of spreading good faith"
+
+ holy_war_propaganda_technology_2:0 "War Time Propaganda Efforts II"
+ holy_war_propaganda_technology_2_desc:0 "Special Propaganda designed to make the population more eager to fight and invade other countries with the pretext of spreading good faith"
+
+ holy_civilian_blessing_technology_1:0 "Blessing our Infrastructure"
+ holy_civilian_blessing_technology_1_desc:0 "By blessing our infrastructure we can increase its output and productivity"
+
+ holy_civilian_blessing_technology_2:0 "Blessing our Research Computers"
+ holy_civilian_blessing_technology_2_desc:0 "With blessed machines we can calculate faster and increase our research speed"
+
+ holy_military_blessing_technology_1:0 "Bless our Ammunition"
+ holy_military_blessing_technology_1_desc:0 "By blessing our ammunition it will become more deadly and increase the combat effictiveness of our troops"
+
+ holy_military_blessing_technology_2:0 "Bless our War Machines"
+ holy_military_blessing_technology_2_desc:0 "By blessing our War Machines they will become more deadly and increase the combat effictiveness of our troops"
+
+ holy_infantry_starting_technology_1:0 "Psionic Theory"
+ holy_infantry_starting_technology_1_desc:0 "We have discovered that some individual have a bigger psionic potential than other and that they make excellent soldiers."
+
+ holy_special_force_mass_technology_1:0 "Force Blessing I"
+ holy_special_force_mass_technology_1_desc:0 "By forcibly blessing our soldiers we can increase their strenght a little and make them pass the special force test but it will decrease the quality of our special forces"
+
+ holy_special_force_mass_technology_2:0 "Force Blessing II"
+ holy_special_force_mass_technology_2_desc:0 "By forcibly blessing our soldiers we can increase their strenght a little and make them pass the special force test but it will decrease the quality of our special forces"
+
+ holy_special_force_mass_technology_3:0 "Force Blessing III"
+ holy_special_force_mass_technology_3_desc:0 "By forcibly blessing our soldiers we can increase their strenght a little and make them pass the special force test but it will decrease the quality of our special forces"
+
+ holy_special_force_mass_technology_4:0 "Force Blessing IV"
+ holy_special_force_mass_technology_4_desc:0 "By forcibly blessing our soldiers we can increase their strenght a little and make them pass the special force test but it will decrease the quality of our special forces"
+
+ holy_special_force_building_technology_1:0 "Special Forces Training Center I"
+ holy_special_force_building_technology_1_desc:0 "A special building to increase our number of special force soldiers"
+
+ holy_special_force_building_technology_2:0 "Special Forces Training Center II"
+ holy_special_force_building_technology_2_desc:0 "A special building to increase our number of special force soldiers"
+
+ holy_special_force_elite_technology_1:0 "Citizen Records"
+ holy_special_force_elite_technology_1_desc:0 "By keeping records on all citizens we can see potential recruits for our special forces"
+
+ holy_special_force_elite_technology_2:0 "Forced Recruitment "
+ holy_special_force_elite_technology_2_desc:0 "By forcefully recruiting special citizens we can buster our special forces"
+
+ holy_special_force_elite_technology_3:0 "Boosting Drugs"
+ holy_special_force_elite_technology_3_desc:0 "Special drugs to boost our most elite soldiers"
+
+ holy_special_force_elite_technology_4:0 "Safe Blessing"
+ holy_special_force_elite_technology_4_desc:0 "New technology that allows us to safely boost normal people into special forces material"
+
+ holy_knight_improvement_technology_1:0 "Blessed Knight Improvement"
+ holy_knight_improvement_technology_1_desc:0 "Numerous small blessed improvements to make the equipment better"
+
+ holy_knight_improvement_technology_1_1:0 "Explosive Lances"
+ holy_knight_improvement_technology_1_1_desc:0 "Special lances with explosive tips for our cavalery to destroy enemy armored vehicles"
+
+ holy_knight_cavelry_technology_1:0 "Bulletproof Horse Armor"
+ holy_knight_cavelry_technology_1_desc:0 "Special armor for our elite cavalery"
+
+ holy_knight_improvement_technology_2:0 "Holy Knight Improvement"
+ holy_knight_improvement_technology_2_desc:0 "Numerous small holy improvements to make the equipment better"
+
+ holy_mage_improvement_technology_1:0 "Blessed Spells"
+ holy_mage_improvement_technology_1_desc:0 "Blessed spells that are stronger than regular ones"
+
+ holy_mage_improvement_technology_2:0 "Holy Spells"
+ holy_mage_improvement_technology_2_desc:0 "Holy spells that are stronger than blessed ones"
+
+ holy_priest_battle_improvement_technology_1:0 "Priest Battle Improvement"
+ holy_priest_battle_improvement_technology_1_desc:0 "Improves the ability of Priest in Combat situations"
+
+ holy_priest_battle_improvement_technology_2:0 "Blessed Priest Battle Improvement"
+ holy_priest_battle_improvement_technology_2_desc:0 "Improves the ability of Priest in Combat situations"
+
+ holy_priest_battle_improvement_technology_3:0 "Holy Priest Battle Improvement"
+ holy_priest_battle_improvement_technology_3_desc:0 "Improves the ability of Priest in Combat situations"
+
+ holy_priest_heal_improvement_technology_1:0 "Priest Healing Improvement"
+ holy_priest_heal_improvement_technology_1_desc:0 "Improves the ability of Priest in Combat situations"
+
+ holy_priest_heal_improvement_technology_2:0 "Blessed Priest Healing Improvement"
+ holy_priest_heal_improvement_technology_2_desc:0 "Improves the ability of Priest to heal our soldiers"
+
+ holy_priest_heal_improvement_technology_3:0 "Holy Priest Healing Improvement"
+ holy_priest_heal_improvement_technology_3_desc:0 "Improves the ability of Priest to heal our soldiers"
+
+ holy_stormcrusader_improvement_technology_1:0 "Blessed Stormcrusader Improvement"
+ holy_stormcrusader_improvement_technology_1_desc:0 "Equips the stormcrusaders with a close quarter anti-tank gun"
+
+ holy_stormcrusader_improvement_technology_2:0 "Holy Stormcrusader Improvement"
+ holy_stormcrusader_improvement_technology_2_desc:0 "Improves the equipment of the Stormcrusaders"
+
+ holy_vehicle_starting_technology_1:0 "Blessed warmachines"
+ holy_vehicle_starting_technology_1_desc:0 "We can now create holy war machines"
+
+ holy_church_tank_improvement_technology_1:0 "Blessed Church Tank Improvement"
+ holy_church_tank_improvement_technology_1_desc:0 "Blessed improvements to make our church tanks better"
+
+ holy_church_tank_improvement_technology_2:0 "Holy Church Tank Improvement"
+ holy_church_tank_improvement_technology_2_desc:0 "Holy improvements to make our church tanks better"
+
+ holy_opression_technology_1:0 "Holy Propaganda"
+ holy_opression_technology_1_desc:0 "By preaching about our ways in the occupation zones we should be able to reduce resistance and increase complaince"
+
+ holy_opression_technology_2:0 "Forced Church Service"
+ holy_opression_technology_2_desc:0 "By forcing church service in occcupied territories we can increase the chuch output and reduce resistance/increase complaince"
+
+ holy_opression_technology_3_1:0 "Money for Converting"
+ holy_opression_technology_3_1_desc:0 "Everyone that convenrts to our ways voluntary will get money from us, this should drasticly increase complaince"
+
+ holy_opression_technology_3_2:0 "Death or Conversion"
+ holy_opression_technology_3_2_desc:0 "You either gets shoot or you convert, its that easy"
+
+ holy_heaven_gate_technology_1:0 "Gates to Heaven"
+ holy_heaven_gate_technology_1_desc:0 "We can connect our world with that of god to unlock massive benefits for our country and war effort"
+
+ holy_factory_portal_technology_1:0 "Heaven and Factory Connection"
+ holy_factory_portal_technology_1_desc:0 "By connecting our factories directly with heaven we can start to summon/produce equipment that we never dreamed off"
+ 
+ ## HOLY TECHNOLOGY LOCALISATION END ##
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #### HOLY TECHNOLOGY TECHNOLOGY END ####
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### CYBER TECHNOLOGY LOCALISATION START ####
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## CYBER STARTING TECHNOLOGY LOCALISATION START ##
+
+ cyber_starting_technology_1:0 "New Research Tools"
+ cyber_starting_technology_1_desc:0 "These new research tools are expensive but they will be needed for our new war effort."
+ 
+ cyber_building_technology_1:0 "Alloy Forges I"
+ cyber_building_technology_1_desc:0 "These new forges will be able to produce super durable and lightweight alloys for our new warmachines."
+
+ cyber_building_technology_1_1:0 "Reactor Asseblers I"
+ cyber_building_technology_1_1_desc:0 "Special factories that will create small to medium size portable reactors."
+
+ cyber_starting_technology_2:0 "Special Research Division"
+ cyber_starting_technology_2_desc:0 "This new department of research will solely research new uses for our newly acquired resources."
+
+ ## CYBER STARTING TECHNOLOGY LOCALISATION END ##
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## CYBER MECH TECHNOLOGY LOCALISATION START ##
+
+ cyber_mech_improvement_technology_1:0 "Big Camouflage Nets"
+ cyber_mech_improvement_technology_1_desc:0 "Special camouflage nets that will allow our mechs to better fight in forests, marches and jungles."
+
+ cyber_mech_improvement_technology_2:0 "Auxiliary Flamethrowers"
+ cyber_mech_improvement_technology_2_desc:0 "Hull or arm mounted flamethrowers will increase the combat ability in cities for our mechs."
+
+ cyber_mech_improvement_technology_3:0 "Combat Grapling Hooks"
+ cyber_mech_improvement_technology_3_desc:0 "Hull mounted self extending grappling hooks can be used either as combat weapons or tools to easier travers hills and mountains."
+
+ cyber_mech_improvement_technology_4:0 "Hovercraft Platforms"
+ cyber_mech_improvement_technology_4_desc:0 "Hovercraft platforms mounted at the feets of our mech will increase the movement and combat ability of our mechs on water."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_mech_doctrine_technology_1:0 "Mech Doctrine"
+ cyber_mech_doctrine_technology_1_desc:0 "We need to research how to effectivly use our mechs at battlefield."
+
+ cyber_mech_starting_technology_1:0 "Exosuits"
+ cyber_mech_starting_technology_1_desc:0 "Exosuits will make the life of our workers and miners easier and allow them to perform better but maybe we can also build a bigger one, with guns."
+
+ cyber_mech_starting_technology_2:0 "Enlarge Guns"
+ cyber_mech_starting_technology_2_desc:0 "Before we can build a combat exosuit, or a mech, we need to first create weapons for it."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_mech_technology_1:0 "1st Generation Mech"
+ #cyber_mech_technology_1_desc:0 "1st Generation of our new weapon but for the moment its nothink more than a walking tank."
+
+ cyber_mech_technology_2:0 "2nd Generation Mech"
+ #cyber_mech_technology_2_desc:0 "The 2nd generation of our new weapon functions more like big armored human than a walking tank."
+
+ cyber_mech_technology_3:0 "3rd Generation Mech"
+ #cyber_mech_technology_3_desc:0 "The 3th generation of the mech is now able to function like infantry and a tank at the same time."
+
+ cyber_mech_technology_4:0 "4tj Generation Mech"
+ #cyber_mech_technology_4_desc:0 "The 4th generation is the ultimate form of the our mechs it is able to perfore duties of holding the line infantry and breathinkg #through the enemy like a tank and is even faster than the previous generations."
+ 
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_mech_anti_tank_technology_2:0 "1st Generation Anti Tank Weapons"
+ #cyber_mech_anti_tank_technology_2_desc:0 "Because of the nature of our new weapon it doesnt have armor penetration and it can struggle against heavier enemies and thats #why we need a anti tank gun that for our mechs."
+
+ cyber_mech_anti_tank_technology_3:0 "2nd Generation Anti Tank Weapons"
+ #cyber_mech_anti_tank_technology_3_desc:0 "New developments in rocket technology allows us the to use big rockets as rounds for our new anti tank weapon."
+
+ cyber_mech_anti_tank_technology_4:0 "3rd Generation Anti Tank Weapons"
+ #cyber_mech_anti_tank_technology_4_desc:0 "Laser weapons are light and have more power then rockets and are the natural evolution in our quest to develop the strongest #anti tank weapon."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_mech_air_technology_1:0 "2nd Generation Air Mech"
+ #cyber_mech_air_technology_1_desc:0 "By giving our mechs a floating unit we can use them as air superiority fighters and close air support."
+
+ cyber_mech_air_technology_2:0 "3rd Generation Air Mech"
+ #cyber_mech_air_technology_2_desc:0 "A new floating unit for the new mech generation."
+
+ cyber_mech_air_technology_3:0 "4th Generation Air Mech"
+ #cyber_mech_air_technology_3_desc:0 "A new floating unit for the new mech generation."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_mech_giga_technology_1:0 "Giga Mech"
+ #cyber_mech_giga_technology_1_desc:0 "A bigger meaner version of our newest mech with heavy weapons and even heavier armor"
+
+ cyber_mech_giga_air_technology_1:0 "Air Giga Mech"
+ #cyber_mech_giga_air_technology_1_desc:0 "Because of its sheer size, its range is small but it can destroy anythink u want in its short range."
+
+ ## CYBER MECH TECHNOLOGY LOCALISATION END ##
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## CYBER CYBERNETICS TECHNOLOGY LOCALISATION START ##
+
+ cyber_cybernetic_starting_technology_1:0 "Body Cybernetics"
+ cyber_cybernetic_starting_technology_1_desc:0 "We can save and make lifes easier by giving people robotics body parts.§R There is no strength in flesh, only weakness§."
+
+ cyber_cybernetic_starting_technology_2:0 "Brain Cybernetics"
+ cyber_cybernetic_starting_technology_2_desc:0 "Thanks to brain cybernetics our researches can work faster by having a computer in their brain.§RThere is no truth in flesh, only betrayal§."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_cybernetic_military_technology_1:0 "Minor Military Cybernetics"
+ cyber_cybernetic_military_technology_1_desc:0 "Special Military Cybernetics that will enchante our military personel."
+
+ cyber_cybernetic_military_technology_2:0 "Military Cybernetics"
+ cyber_cybernetic_military_technology_2_desc:0 "Special Military Cybernetics that will enchante our military personel."
+
+ cyber_cybernetic_military_technology_3:0 "Major Miliary Cybernetics"
+ cyber_cybernetic_military_technology_3_desc:0 "Special Military Cybernetics that will enchante our military personel."
+ 
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_cybernetic_civilian_technology_1:0 "Minor Civilian Cybernetics"
+ cyber_cybernetic_civilian_technology_1_desc:0 "Special Civilian Cybernetics that will increase our country's output in various professions."
+
+ cyber_cybernetic_civilian_technology_2:0 "Civilian Cybernetics"
+ cyber_cybernetic_civilian_technology_2_desc:0 "Special Civilian Cybernetics that will increase our country's output in various professions."
+
+ cyber_cybernetic_civilian_technology_3:0 "Major Civilian Cybernetics"
+ cyber_cybernetic_civilian_technology_3_desc:0 "Special Civilian Cybernetics that will increase our country's output in various professions."
+ 
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_cybernetic_spy_technology_1:0 "Minor Espionage Cybernetics"
+ cyber_cybernetic_spy_technology_1_desc:0 "Special Espionage Cybernetics that will increase the performance of our intelligence personel"
+
+ cyber_cybernetic_spy_technology_2:0 "Espionage Cybernetics"
+ cyber_cybernetic_spy_technology_2_desc:0 "Special Espionage Cybernetics that will increase the performance of our intelligence personel"
+
+ cyber_cybernetic_spy_technology_3:0 "Major Espionage Cybernetics"
+ cyber_cybernetic_spy_technology_3_desc:0 "Special Espionage Cybernetics that will increase the performance of our intelligence personel"
+
+ cyber_cybernetic_spy_DLC_technology_1:0 "Minor Espionage Cybernetics"
+ cyber_cybernetic_spy_DLC_technology_1_desc:0 "Special Espionage Cybernetics that will increase the performance of our intelligence personel"
+
+ cyber_cybernetic_spy_DLC_technology_2:0 "Espionage Cybernetics"
+ cyber_cybernetic_spy_DLC_technology_2_desc:0 "Special Espionage Cybernetics that will increase the performance of our intelligence personel"
+
+ cyber_cybernetic_spy_DLC_technology_3:0 "Major Espionage Cybernetics"
+ cyber_cybernetic_spy_DLC_technology_3_desc:0 "Special Espionage Cybernetics that will increase the performance of our intelligence personel"
+ 
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_cybernetic_equipment_technology_1:0 "Quick install Prosthesis"
+ #cyber_cybernetic_equipment_technology_1_desc:0 "These special Cyber Prosthesis will allow medics to install prostheses to our troops in combat allowing them to continue #fighting even after lossing a leg or an arm. §R There is no constancy in flesh, only decay§. "
+
+ cyber_cybernetic_improvement_technology_1:0 "Better Prosthesis"
+ cyber_cybernetic_improvement_technology_1_desc:0 "Faster to install to less flesh, increasing the survivability even further"
+
+ cyber_cybernetic_improvement_technology_2:0 "Advanced Prosthesis"
+ cyber_cybernetic_improvement_technology_2_desc:0 "Faster to install to less flesh, increasing the survivability even further"
+
+ cyber_cybernetic_improvement_technology_3:0 "Modern Prosthesis"
+ cyber_cybernetic_improvement_technology_3_desc:0 "Faster to install to less flesh, increasing the survivability even further"
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_cybernetic_techpriest_technology_1:0 "Techpriest Training Programm"
+ #cyber_cybernetic_techpriest_technology_1_desc:0 "Transhumanist who installed so many cybernetics that they cant even be called human anymore will be the best mechanics #for our warmachines.§R There is no certainty in flesh but death§."
+
+ cyber_cybernetic_techpriest_improvement_technology_1:0 "Techpriest Minor Improvements"
+ cyber_cybernetic_techpriest_improvement_technology_1_desc:0 "Minor Improvements to the Equipment of our Techpriests"
+
+ cyber_cybernetic_techpriest_improvement_technology_2:0 "Techpriest Improvements"
+ cyber_cybernetic_techpriest_improvement_technology_2_desc:0 "Improvements to the Equipment of our Techpriests"
+
+ cyber_cybernetic_techpriest_improvement_technology_3:0 "Techpriest Major Improvements"
+ cyber_cybernetic_techpriest_improvement_technology_3_desc:0 "Major Improvements to the Equipment of our Techpriests"
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_cybernetic_super_computer_building_technology_1:0 "Giant Super Computer"
+ cyber_cybernetic_super_computer_building_technology_1_desc:0 "A Giant Super Computer will be able aid our war effort even if that comes at a cost."
+
+ cyber_cybernetic_soldier_technology_1:0 "Cyber Soldier Training Program"
+ #cyber_cybernetic_soldier_technology_1_desc:0 "In great armour they shall be clad, with the mightiest weapons and cybernetics they will be equipped, no foe will best them #in battle.§R They shall be this countries finest warriors and they shall know no fear§."
+
+ cyber_cybernetic_titan_technology_1:0 "Titan"
+ #cyber_cybernetic_titan_technology_1_desc:0 "These titans will be the greatest weapon of this country, they will require to be build by dozens of thousand of souls but #all will be worth it when they will §Rdestroy all enemy armies and cities§."
+
+ cyber_cybernetic_super_computer_building_DLC_technology_1:0 "Giant Super Computer"
+ cyber_cybernetic_super_computer_building_DLC_technology_1_desc:0 "A Giant Super Computer will be able aid our war effort even if that comes at a cost."
+
+ cyber_cybernetic_soldier_DLC_technology_1:0 "Cyber Soldier Training Program"
+ #cyber_cybernetic_soldier_DLC_technology_1_desc:0 "In great armour they shall be clad, with the mightiest weapons and cybernetics they will be equipped, no foe will best #them in battle.§R They shall be this countries finest warriors and they shall know no fear§."
+
+ cyber_cybernetic_titan_DLC_technology_1:0 "Titan"
+ #cyber_cybernetic_titan_DLC_technology_1_desc:0 "These titans will be the greatest weapon of this country, they will require to be build by dozens of thousand of souls #but all will be worth it when they will §Rdestroy all enemy armies and cities§."
+
+ ## CYBER CYBERNETICS TECHNOLOGY LOCALISATION END ##
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## CYBER DRONE TECHNOLOGY LOCALISATION START ##
+
+ cyber_robot_starting_technology_1:0 "Basic Ai"
+ cyber_robot_starting_technology_1_desc:0 "Our first try to create basic Ai."
+
+ cyber_robot_starting_technology_2:0 "War Ai"
+ cyber_robot_starting_technology_2_desc:0 "With this research we are now able to research first combat drones."
+ 
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_bomber_drone_equipment_technology_1:0 "1st Generation Drone Bomber"
+ #cyber_robot_bomber_drone_equipment_technology_1_desc:0 "1st Generation of our autonomous bombers that dont require any pilots."
+
+ cyber_robot_bomber_drone_equipment_technology_2:0 "2nd Generation Drone Bomber"
+ #cyber_robot_bomber_drone_equipment_technology_2_desc:0 "2st Generation of our autonomous bombers that dont require any pilots."
+
+ cyber_robot_bomber_drone_equipment_technology_3:0 "3rd Generation Drone Bomber"
+ #cyber_robot_bomber_drone_equipment_technology_3_desc:0 "3rd Generation of our aunomous bombers now with jet engines."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_fighter_drone_equipment_technology_1:0 "1st Generation Drone Fighter"
+ #cyber_robot_fighter_drone_equipment_technology_1_desc:0 "1st Generation of our autonomous fighter that dont require any pilots."
+
+ cyber_robot_fighter_drone_equipment_technology_2:0 "2nd Generation Drone Fighter"
+ #cyber_robot_fighter_drone_equipment_technology_2_desc:0 "2nd Generation of our autonomous fighter that dont require any pilots."
+
+ cyber_robot_fighter_drone_equipment_technology_3:0 "3rd Generation Drone Fighter"
+ #cyber_robot_fighter_drone_equipment_technology_3_desc:0 "1st Generation of our autonomous fighter now with jet engines."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ #cyber_robot_mothership_drone_equipment_technology_1:0 "Drone Mothership"
+ #cyber_robot_mothership_drone_equipment_technology_1_desc:0 "A giant flying ship that acts as a flying carrier being able to secure air superiority even when outnumbered."
+ 
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_tank_drone_equipment_technology_1:0 "1st Generation Drone Tank"
+ #cyber_robot_tank_drone_equipment_technology_1_desc:0 "A complete autonomous tank that doenst require any crew."
+
+ cyber_robot_tank_drone_equipment_technology_2:0 "2nd Generation Drone Tank"
+ #cyber_robot_tank_drone_equipment_technology_2_desc:0 "2nd Generation of our autonomous tank."
+
+ cyber_robot_tank_drone_equipment_technology_3:0 "3rd Generation Drone Tank"
+ #cyber_robot_tank_drone_equipment_technology_3_desc:0 "3rd Generation of our autonomous tank."
+
+ cyber_robot_tank_drone_improvement_technology_1:0 "Drone Tank Improvements"
+ cyber_robot_tank_drone_improvement_technology_1_desc:0 "Improvement to autonomous tanks"
+
+ cyber_robot_tank_drone_improvement_technology_2:0 "Drone Tank Improvements"
+ cyber_robot_tank_drone_improvement_technology_2_desc:0 "Improvement to autonomous tanks"
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_gun_drone_equipment_technology_1:0 "1st Generation Gun Drone"
+ #cyber_robot_gun_drone_equipment_technology_1_desc:0 "A walking Drone with machine guns to support our troops"
+
+ cyber_robot_gun_drone_equipment_technology_2:0 "2nd Generation Gun Drone"
+ #cyber_robot_gun_drone_equipment_technology_2_desc:0 "2nd Generation of the Gun Drone"
+
+ cyber_robot_gun_drone_equipment_technology_3:0 "3rd Generation Gun Drone"
+ #cyber_robot_gun_drone_equipment_technology_3_desc:0 "3rd Generation of the Gun Drone"
+
+ cyber_robot_gun_drone_improvement_technology_1:0 "Gun Drone Improvement"
+ cyber_robot_gun_drone_improvement_technology_1_desc:0 "Improvement to Gun Drone"
+
+ cyber_robot_gun_drone_improvement_technology_2:0 "Gun Drone Improvement"
+ cyber_robot_gun_drone_improvement_technology_2_desc:0 "Improvement to Gun Drone"
+ 
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_infantry_drone_equipment_technology_1:0 "1st Generation Drone Soldiers"
+ #cyber_robot_infantry_drone_equipment_technology_1_desc:0 "1st Generation of autonomous Drone Soldiers"
+
+ cyber_robot_infantry_drone_equipment_technology_2:0 "2nd Generation Drone Soldiers"
+ #cyber_robot_infantry_drone_equipment_technology_2_desc:0 "2nd Generation of autonomous Drone Soldiers"
+
+ cyber_robot_infantry_drone_equipment_technology_3:0 "3rd Generation Drone Soldier"
+ #cyber_robot_infantry_drone_equipment_technology_3_desc:0 "3rd Generation of autonomous Drone Soldiers"
+
+ cyber_robot_infantry_drone_improvement_technology_1:0 "Better Combat Protocols"
+ cyber_robot_infantry_drone_improvement_technology_1_desc:0 "With better combat protocols our drone soldiers will be more organized."
+
+ cyber_robot_infantry_drone_improvement_technology_2:0 "Advanced Comabt Protocols"
+ cyber_robot_infantry_drone_improvement_technology_2_desc:0 "Advanced combat protocol that will allow our drone soldier to fight more oganized."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_improvement_technology_1:0 "Basic Drones"
+ cyber_robot_improvement_technology_1_desc:0 "Basic Drones that are able to work like working at a factory."
+
+ cyber_robot_improvement_technology_2:0 "Advanced Drones"
+ cyber_robot_improvement_technology_2_desc:0 "Advanced Drones that are able to perform complicated calculations."
+
+ cyber_robot_improvement_technology_3:0 "Modern Drones"
+ cyber_robot_improvement_technology_3_desc:0 "Modern Drones that are able to function and look like humans."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_support_drone_technology_1:0 "Support Drone"
+ #cyber_robot_support_drone_technology_1_desc:0 "Drones that will support our troops."
+
+ cyber_robot_hunter_drone_equipment_technology_1:0 "Hunter Drones"
+ #cyber_robot_hunter_drone_equipment_technology_1_desc:0 "Drones specialy designed to hunt down resistance "
+
+ cyber_robot_hunter_drone_improvement_technology_1:0 "Surveliance drones"
+ cyber_robot_hunter_drone_improvement_technology_1_desc:0 "Special Drones that will survey conquered territories to keep resistance to a minimum."
+
+ cyber_robot_hunter_drone_improvement_technology_2:0 "Turrets"
+ cyber_robot_hunter_drone_improvement_technology_2_desc:0 "By placing turrets in urban regions of conquered territories we can guarantee §Rpeace§ in cities and factories."
+
+ cyber_robot_hunter_drone_improvement_technology_3:0 "Advanced Surveliance Drones"
+ cyber_robot_hunter_drone_improvement_technology_3_desc:0 "Special Drones that will survey conquered territories to keep resistance to a minimum."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_support_drone_medic_technology_1:0 "Medical Modules For Support Drones"
+ cyber_robot_support_drone_medic_technology_1_desc:0 "With these medical modules our support drones can perform medical help to our troops."
+
+ cyber_robot_support_drone_medic_technology_2:0 "Advanced Medical Modules"
+ cyber_robot_support_drone_medic_technology_2_desc:0 "Better medical modules for support drones that will increase their performance."
+
+ cyber_robot_support_drone_medic_technology_3:0 "Modern Medical Modules"
+ cyber_robot_support_drone_medic_technology_3_desc:0 "Better medical modules for support drones that will increase their performance."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_support_drone_radio_technology_1:0 "Radio Module For Support Drones"
+ cyber_robot_support_drone_radio_technology_1_desc:0 "With these radio modules our support drones can perform the role of a signal company for our troops."
+
+ cyber_robot_support_drone_radio_technology_2:0 "Advanced Radio Module"
+ cyber_robot_support_drone_radio_technology_2_desc:0 "Better radio modules for support drones that will increase their performance."
+
+ cyber_robot_support_drone_radio_technology_3:0 "Modern Radio Module"
+ cyber_robot_support_drone_radio_technology_3_desc:0 "Better radio modules for support drones that will increase their performance."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_support_drone_engineers_technology_1:0 "Engineering Module for Support Drones"
+ cyber_robot_support_drone_engineers_technology_1_desc:0 "With these engineering modules our support drones can perform the role of a signal company for our troops."
+
+ cyber_robot_support_drone_engineers_technology_2:0 "Advanced Enginnering Module"
+ cyber_robot_support_drone_engineers_technology_2_desc:0 "Better enginnering modules for support drones that will increase their performance."
+
+ cyber_robot_support_drone_engineers_technology_3:0 "Modern Enginnering Module"
+ cyber_robot_support_drone_engineers_technology_3_desc:0 "Better enginnering modules for support drones that will increase their performance"
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_support_drone_reconnaissance_technology_1:0 "Reconnaissance Module for Support Drones"
+ cyber_robot_support_drone_reconnaissance_technology_1_desc:0 "With these reconnaissance modules our support drones can perform the role of a scout company for our troops."
+
+ cyber_robot_support_drone_reconnaissance_technology_2:0 "Advanced Reconnaissance Module"
+ cyber_robot_support_drone_reconnaissance_technology_2_desc:0 "Better reconnaissance modules for support drones that will increase their performance."
+
+ cyber_robot_support_drone_reconnaissance_technology_3:0 "Modern Reconnaissance Module"
+ cyber_robot_support_drone_reconnaissance_technology_3_desc:0 "Better reconnaissance modules for support drones that will increase their performance."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_support_drone_logistic_technology_1:0 "Logistic Module for Support Drones"
+ cyber_robot_support_drone_logistic_technology_1_desc:0 "With these logistic modules our support drones can perform the role of a logistic company for our troops."
+
+ cyber_robot_support_drone_logistic_technology_2:0 "Advanced Logistic Module"
+ cyber_robot_support_drone_logistic_technology_2_desc:0 "Better logistic modules for support drones that will increase their performance."
+
+ cyber_robot_support_drone_logistic_technology_3:0 "Modern Logistic Module"
+ cyber_robot_support_drone_logistic_technology_3_desc:0 "Better logistic modules for support drones that will increase their performance."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_robot_support_drone_maintenance_technology_1:0 "Maintenance Module for Support Drones"
+ cyber_robot_support_drone_maintenance_technology_1_desc:0 "With these maintenance modules our support drones can perform the role of a maintenance company for our troops."
+
+ cyber_robot_support_drone_maintenance_technology_2:0 "Advanced Maintenance Module"
+ cyber_robot_support_drone_maintenance_technology_2_desc:0 "Better maintenance modules for support drones that will increase their performance."
+
+ cyber_robot_support_drone_maintenance_technology_3:0 "Modern Maintenance Module"
+ cyber_robot_support_drone_maintenance_technology_3_desc:0 "Better maintenance modules for support drones that will increase their performance."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ ## CYBER DRONE TECHNOLOGY LOCALISATION END ##
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## CYBER INDUSTRY TECHNOLOGY LOCALISATION START ##
+
+ cyber_industry_improvement_technology_1:0 "High Tech Industry"
+ cyber_industry_improvement_technology_1_desc:0 "If we can combine our previous advancement we can use them to increase our industrial capacity."
+
+ cyber_building_improvement_technology_1:0 "High Tech Infrastructure I"
+ cyber_building_improvement_technology_1_desc:0 "With the new technologies we can increase our construction speed and resource gathering output.§RWe will need more of our population working in the infrastructure§."
+
+ cyber_building_improvement_technology_2: "High Tech Infrastructure II"
+ cyber_building_improvement_technology_2_desc: "With the new technologies we can increase our construction speed and resource gathering output.§RWe will need more of our population working in the infrastructure§."
+
+ cyber_building_improvement_technology_3:0 "High Tech Infrastructure III"
+ cyber_building_improvement_technology_3_desc:0 "With the new technologies we can increase our construction speed and resource gathering output.§RWe will need more of our population working in the infrastructure§."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+ cyber_building_technology_2_1:0 "Alloy Forges II"
+ cyber_building_technology_2_1_desc:0 "With better methods of processing we can produce more super alloys."
+ cyber_building_technology_2:0 "Reactor Assebler II"
+ cyber_building_technology_2_desc:0 "With better methods of processing we can prdoduce more reactor parts."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_building_technology_3_1:0 "Alloy Forges III"
+ cyber_building_technology_3_1_desc:0 "With better methods of processing we can produce more super alloys."
+ cyber_building_technology_3:0 "Reactor Assebler III"
+ cyber_building_technology_3_desc:0 "With better methods of processing we can prdoduce more reactor parts."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_industry_improvement_technology_2:0 "High Tech Concentrated Industry I"
+ cyber_industry_improvement_technology_2_desc:0 "By concentrating our industry with new technologies we can increase our industrial output. §RWe will need more of our population working in the industry§."
+
+ cyber_industry_improvement_technology_3:0 "High Tech Concentrated Industry II"
+ cyber_industry_improvement_technology_3_desc:0 "By concentrating our industry with new technologies we can increase our industrial output. §RWe will need more of our population working in the industry§."
+
+ cyber_industry_improvement_technology_4:0 "High Tech Concentrated Industry III"
+ cyber_industry_improvement_technology_4_desc:0 "By concentrating our industry with new technologies we can increase our industrial output. §RWe will need more of our population working in the industry§."
+
+ cyber_industry_improvement_technology_5:0 "High Tech Concentrated Industry IV"
+ cyber_industry_improvement_technology_5_desc:0 "By concentrating our industry with new technologies we can increase our industrial output. §RWe will need more of our population working in the industry§."
+
+ cyber_industry_improvement_technology_6:0 "High Tech Concentrated Industry V"
+ cyber_industry_improvement_technology_6_desc:0 "By concentrating our industry with new technologies we can increase our industrial output. §RWe will need more of our population working in the industry§."
+ 
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ cyber_automation_improvement_technology_2:0 "High Tech Dispersed Industry I"
+ cyber_automation_improvement_technology_2_desc:0 "We disperse our industry with new technologies, that will allow us to keep our industry strong and flexible.§RWe will need more of our population working in the industry§."
+
+ cyber_automation_improvement_technology_3:0 "High Tech Dispersed Industry II"
+ cyber_automation_improvement_technology_3_desc:0 "We disperse our industry with new technologies, that will allow us to keep our industry strong and flexible.§RWe will need more of our population working in the industry§."
+
+ cyber_automation_improvement_technology_4:0 "High Tech Dispersed Industry III"
+ cyber_automation_improvement_technology_4_desc:0 "We disperse our industry with new technologies, that will allow us to keep our industry strong and flexible.§RWe will need more of our population working in the industry§."
+
+ cyber_automation_improvement_technology_5:0 "High Tech Dispersed Industry IV"
+ cyber_automation_improvement_technology_5_desc:0 "We disperse our industry with new technologies, that will allow us to keep our industry strong and flexible.§RWe will need more of our population working in the industry§."
+
+ cyber_automation_improvement_technology_6:0 "High Tech Dispersed Industry V"
+ cyber_automation_improvement_technology_6_desc:0 "We disperse our industry with new technologies, that will allow us to keep our industry strong and flexible.§RWe will need more of our population working in the industry§."
+
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ ## CYBER INDUSTRY TECHNOLOGY LOCALISATION END ##
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #### CYBER TECHNOLOGY LOCALISATION END ####
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #---------------------------------------------------------------------------------------------------------------------------------------------------------------------

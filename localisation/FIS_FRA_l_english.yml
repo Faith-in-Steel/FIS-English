@@ -1,0 +1,44 @@
+﻿l_english:
+
+FRA:0 "아방가르드 프랑스"
+FRA_ADJ:0 "프랑스"
+FRA_DEF:0 "프랑스"
+
+### Parties ###
+#FRA_jucheism_party:0 ""
+#FRA_jucheism_party_long:0 ""
+#FRA_authoritarian_communism_party:0 ""
+#FRA_authoritarian_communism_party_long:0 ""
+#FRA_communism_party:0 ""
+#FRA_communism_party_long:0 ""
+#FRA_blackdancism_party:0 ""
+#FRA_blackdancism_party_long:0 ""
+#FRA_liberal_socialism_party:0 ""
+#FRA_liberal_socialism_party_long:0 ""
+FRA_anarchism_party:0 "아세팔"
+FRA_anarchism_party_long:0 "아세팔"
+#FRA_social_democrat_party:0 ""
+#FRA_social_democrat_party_long:0 ""
+FRA_social_liberal_party:0 "FRA"
+FRA_social_liberal_party_long:0 "프랑스 국민군 저항조직"
+#FRA_liberal_democrat_party:0 ""
+#FRA_liberal_democrat_party_long:0 ""
+FRA_conservatism_party:0 "오지에"
+FRA_conservatism_party_long:0 "오지에"
+#FRA_authoritarian_party:0 ""
+#FRA_authoritarian_party_long:0 ""
+#FRA_nationalism_party:0 ""
+#FRA_nationalism_party_long:0 ""
+#FRA_corporatocrat_party:0 ""
+#FRA_corporatocrat_party_long:0 ""
+#FRA_fascism_party:0 ""
+#FRA_fascism_party_long:0 ""
+FRA_accelerationism_party:0 "에스카드롱"
+FRA_accelerationism_party_long:0 "에스카드롱"
+#FRA_burgundian_system_party:0 ""
+#FRA_burgundian_system_party_long:0 ""
+
+
+
+
+################################################

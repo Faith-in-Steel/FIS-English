@@ -1,0 +1,68 @@
+﻿l_english:
+ tooltip_research:0 "You get §G1 § Research Slot"
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## CYBER CUSTOM EFFECT TOOLTIP LOCALISATION START ##
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ SRD_custom_effect_tooltip_drone_general_building_decision:0 "We will get a Drone Marschal/General"
+
+ SRD_custom_effect_tooltip_cyber_cybernetic_military_technology_1:0 "§YSlightly increases the performance of our military personnel with minor cybernetics§!"
+ SRD_custom_effect_tooltip_cyber_cybernetic_military_technology_2:0 "§YIncreases the performance of our military personnel with better cybernetics§!"
+ SRD_custom_effect_tooltip_cyber_cybernetic_military_technology_3:0 "§YGreatly increases the performance of our military personnel with better and major cybernetics§!"
+
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ SRD_custom_effect_tooltip_cyber_cybernetic_civilian_technology_1:0 "§YSlightly increases the performance of our factory and research personnel with minor cybernetics§!"
+ SRD_custom_effect_tooltip_cyber_cybernetic_civilian_technology_2:0 "§YIncreases the performance of our factory and research personnel with better cybernetics§!"
+ SRD_custom_effect_tooltip_cyber_cybernetic_civilian_technology_3:0 "§YGreatly increases the performance of our factory and research personnel with better and major cybernetics§!"
+
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ SRD_custom_effect_tooltip_cyber_cybernetic_espionage_technology_1:0 "§YSlightly increases the performance of our spies with minor cybernetics§!"
+ SRD_custom_effect_tooltip_cyber_cybernetic_espionage_technology_2:0 "§YIncreases the performance of our spies with better cybernetics§!"
+ SRD_custom_effect_tooltip_cyber_cybernetic_espionage_technology_3:0 "§YGreatly increases the performance of our spies with better and major cybernetics§!"
+
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ SRD_custom_effect_tooltip_cyber_robot_starting_technology_2:0 "§YAllows us to creat our first combat drones§!"
+
+ SRD_custom_effect_tooltip_cyber_robot_improvement_technology_1:0 "Allows us to build factory drones! §B(see decision tab after research complet)§ "
+ SRD_custom_effect_tooltip_cyber_robot_improvement_technology_2:0 "Allows us to build Drone Generals and better factory drones! §B(see decision tab after research complet) §"
+ SRD_custom_effect_tooltip_cyber_robot_improvement_technology_3:0 "Allows us to automate factories and build spy drones! §B(see decision tab after research complet)§ "
+
+ SRD_custom_effect_tooltip_cyber_mech_improvement_technology_1:0 "§R Increases the cost of Combat Mechs!§"
+ SRD_custom_effect_tooltip_cyber_mech_improvement_technology_2:0 "§R Increases the cost of Combat Mechs!§"
+ SRD_custom_effect_tooltip_cyber_mech_improvement_technology_3:0 "§R Increases the cost of Combat Mechs!§"
+ SRD_custom_effect_tooltip_cyber_mech_improvement_technology_4:0 "§R Increases the cost of Combat Mechs!§"
+
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_engineers_1:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_engineers_2:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_engineers_3:0 "§R Increases the cost of support drones!§"
+
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_reconnaissance_1:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_reconnaissance_2:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_reconnaissance_3:0 "§R Increases the cost of support drones!§"
+
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_logistic_1:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_logistic_2:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_logistic_3:0 "§R Increases the cost of support drones!§"
+
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_maintenance_1:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_maintenance_2:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_maintenance_3:0 "§R Increases the cost of support drones!§"
+
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_radio_1:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_radio_2:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_radio_3:0 "§R Increases the cost of support drones!§"
+
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_medic_1:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_medic_2:0 "§R Increases the cost of support drones!§"
+ SRD_custom_effect_tooltip_cybernetic_support_drone_cost_inrease_medic_3:0 "§R Increases the cost of support drones!§"
+
+
+ ## CYBER CUSTOM EFFECT TOOLTIP LOCALISATION END ##
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
