@@ -11,10 +11,10 @@ tags={
 	"Utilities"
 }
 dependencies={
-	" Faith in Steel - Alpha"
+	"Faith in Steel: Alpha Dev"
 }
 name="Faith in Steel - English Translation"
-supported_version="1.10.*"
+supported_version="1.11.*"
 path="mod/FIS-English"
 
 picture="thumbnail.png"
