@@ -1,0 +1,88 @@
+﻿l_english:
+# §L§!
+
+# LAND
+ ocean: "대양"
+ ocean_desc: ""
+ lakes: "호수"
+ lakes_desc: ""
+ forest: "삼림지"
+ forest_desc: ""
+ hills: "구릉지"
+ hills_desc: ""
+ mountain: "산악"
+ mountain_desc: ""
+ plains: "평야"
+ plains_desc: ""
+ urban: "도시"
+ urban_desc: ""
+ jungle: "밀림"
+ jungle_desc: ""
+ marsh: "습지"
+ marsh_desc: ""
+ desert: "사막"
+ desert_desc: ""
+ farmland: "경작지"
+ farmland_desc: "§L§!"
+ ice_sheet: "극지"
+ ice_sheet_desc: ""
+
+# WATER
+ water_fjords: "협만과 군도"
+ water_fjords_desc: ""
+ water_shallow_sea: "천해"
+ water_shallow_sea_desc: ""
+ water_deep_ocean: "원양"
+ water_deep_ocean_desc: ""
+ water_arctic: "북극해"
+ water_arctic_desc: ""
+
+# Misc
+
+ Moon_orbit: "우주 공간"
+ Moon_orbit_desc: ""
+ Great_Hakurei_barrier: "결계"
+ Great_Hakurei_barrier_desc: ""
+ 
+# Moon
+
+ Lunar_Capital: "달의 도시"
+ Lunar_Capital_desc: "\n얼어붙은 영원의 도시는 수 천년을 지속해 온 월인들의 고향이자 문화적, 정치적, 사회적 중심지이며, 달의 도시는 단순히 월인들의 최대 도시가 아닌 말 그대로 월인 문명 그 자체이다."
+ Lunar_Gateway: "인공위성"
+ Lunar_Gateway_desc: ""
+ Lunar_NeusBerlin: "니우스 베를린"
+ Lunar_NeusBerlin_desc: "\n니우스 베를린, 또는 신 베를린은 제 4제국의 수도로, 달의 주요 자원인 헬륨-3과 다량의 희귀 광물이 매장되어 있는 플라토 지역과 고요의 바다 근방에 위치해 있다. 구 월면 NCR 식민지가 있던 자리에 세워졌으며, 히틀러가 근방의 연합국 시설 대부분을 장악하면서 자연스럽게 제 4제국의 중심지가 되었다."
+ Lunar_urban: "월면 도시"
+ Lunar_urban_desc: ""
+ Lunar_hills: "월면 구릉지"
+ Lunar_hills_desc: ""
+ Lunar_mountain: "월면 산악"
+ Lunar_mountain_desc: ""
+ Lunar_plains: "월면 평야"
+ Lunar_plains_desc: ""
+ 
+# Moon
+
+ Touhou_plains: "환상향 평야"
+ Touhou_plains_desc: ""
+ Touhou_hills: "환상향 언덕"
+ Touhou_hills_desc: ""
+ 
+# City
+
+ city_Manhattan: "뉴 맨해튼"
+ city_Manhattan_desc: "\n과거 미국의 최대 도시이자 벨 에포크 시대의 상징이였던 뉴욕은 1차 세계대전 직후 일어난 심판의 날에서 단 한발의 핵요격 실패로 막대한 타격을 입게 되었다. 미국인들은 핵폭격으로 생긴 '그라운드 베이'에서 새로운 도시의 재건을 선포했고, 뉴 맨해튼은 그렇게 새로운 미국의 상징이자 세계 최대의 대도시이자 중심지로 성장하게 되었다. 뉴 맨해튼을 비추는 정의의 여신상은 과거 핵폭격으로 소실된 자유의 여신상을 대신하여 뉴 맨해튼의 앞바다를 지키고 있다."
+ city_Columbia: "컬럼비아"
+ city_Columbia_desc: "\n컬럼비아 커먼웰스는 1800년 토마스 제퍼슨 대통령이 수도 이전을 추진하면서 계획된 미국 정부가 건설한 공중도시이자 미국의 수도로, 백악관과 국회의사당, 연방 대법원을 포함한 많은 연방 정부의 주요 관청이 위치한 세계 정치와 외교의 중심지이다."
+ city_Germania: "게르마니아"
+ city_Germania_desc: "\n과거 베를린은 프로이센이 부흥할 때부터 독일 연방의 정치적 중심지이자 구심점으로 기능했던 독일의 유서깊은 도시였다. 찬란했던 벨 에포크 시대의 종말을 고한 유럽에서의 전면 핵전쟁은 베를린을 영원히 앗아갔고, 전후 슈페어 국토부장관의 설계안이 채택되면서 게르마니아는 바이마르 공화국의 수도가 되었다."
+ city_Rome: "로마"
+ city_Rome_desc: ""
+ city_Tokyo: "도쿄"
+ city_Tokyo_desc: "\n이중제국의 최대 도시이자 일본국의 대표적 광역권인 도쿄 수도권은 거대한 상업 중심지였으나, 월면전쟁 직후 월인들의 공지 폭격에 의해 대규모 피해를 받게 되었다. 일본국 정부는 대한제국 정부와 공동으로 양국의 수도권 재건을 협의했고, 이는 이중제국의 최대 광역권 중 하나인 제2신도쿄시와 네오 서울을 만들어냈다."
+ city_Seoul: "서울"
+ city_Seoul_desc: "\n한성은 오랫동안 조선의 수도였으며 19세기 중반부터 시작된 산업화는 한성을 마천루가 즐비한 국제적인 거대 도시로 탈바꿈시켰다. 하지만 월면전쟁이 시작되면서 한양의 강남 일대는 막대한 피해를 입었고, 일본국 정부는 대한제국 정부와 공동으로 양국의 수도권 재건을 협의한다. 이는 이중제국의 최대 광역권 중 하나인 제2신도쿄시와 네오 서울을 만들어냈다."
+ city_Tomsk: "톰스크"
+ city_Tomsk_desc: ""
+ city_SpaceCenter: "우주 기지"
+ city_SpaceCenter_desc: ""
