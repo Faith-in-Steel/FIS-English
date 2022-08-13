@@ -1,13 +1,5 @@
 ﻿l_english:
 
-GER:0 "독일 연방 공화국"
-GER_ADJ:0 "독일"
-GER_DEF:0 "독일 연방 공화국"
-
-GER_rebuild:0 "독일 재건 위원회"
-GER_rebuild_ADJ:0 "독일"
-GER_rebuild_DEF:0 "연합군 사령부 군정 하 독일 재건 위원회"
-
 ### Parties ###
 GER_accelerationism_party:0 ""
 GER_accelerationism_party_long:0 ""

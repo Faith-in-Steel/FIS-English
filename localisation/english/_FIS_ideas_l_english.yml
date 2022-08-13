@@ -51,8 +51,13 @@
  
  KJE_kim_duhan:0 "김두한"
  
+ KJE_yi_cheok:0 "이척/타쿠히토"
  KJE_yi_kang:0 "이강/츠요히토"
- KJE_yi_kang_desc:0 "" 대한제국과 만세일계 대일본제국의 황태자이신 이강 전하"\n\n대한제국 3대 황제이자 대일본제국 123대 천황인 융희황제 이척/류키덴노 타쿠히토의 적장남인 이강은 1921년 이중제국의 동래부 황거에서 출생하였다. \n\n1934년 황태자로 정식 책봉받았으며 전쟁기 동안 황제와 더불어 이중제국 단결의 상징이었으나 황제가 습격을 당한 후 대리청정을 시작하면서 많은 논란을 빚고 있다."
+ KJE_yi_kang_desc:0 ""대한제국과 만세일계 대일본제국의 황태자이신 이강 전하"\n\n대한제국 3대 황제이자 대일본제국 123대 천황인 융희황제 이척/류키덴노 타쿠히토의 적장남인 이강은 1921년 이중제국의 동래부 황거에서 출생하였다. \n\n1934년 황태자로 정식 책봉받았으며 전쟁기 동안 황제와 더불어 이중제국 단결의 상징이었으나 황제가 습격을 당한 후 대리청정을 시작하면서 많은 논란을 빚고 있다."
+ 
+ KJE_yi_yong:0 "이영/우츠히토"
+ KJE_yi_hyul:0 "이휼/아야히토"
+ KJE_yi_kyun:0 "이균/하카히토"
  
  
  KJE_jucheism_party:0 "조선노동당"
@@ -102,3 +107,9 @@
  POSITION_Prime_Minister: "§W총리§!"
  POSITION_taeja: "§W황태자§!"
  ADDRESS_taeja: "§W전하§!"
+ L_the_heirprince_of_KJE:0 "§W방탕한 천재§!"
+ GFX_Leader_yi_kang:0 "£GFX_Leader_yi_kang"
+ 
+ POSITION_yongchinwang: "§W영친왕§!"
+ POSITION_geumchinwang: "§W금친왕§!"
+ POSITION_kyeyangwang: "§W계양왕§!"

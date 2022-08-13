@@ -1,0 +1,1957 @@
+﻿l_english:
+ ###############################################################
+ #           유럽  -  E U R O P E
+ ###############################################################
+ 
+ BRT: "브리튼 연방"
+ BRT_DEF: "브리튼 연방"
+ BRT_ADJ: "브리튼"
+ 
+ GER: "독일 연방 공화국"
+ GER_DEF: "독일 연방 공화국"
+ GER_ADJ: "독일"
+  
+ FRA: "아방가르드 프랑스"
+ FRA_DEF: "아방가르드 프랑스"
+ FRA_ADJ: "프랑스"
+  
+ IBR: "이베리아 연합"
+ IBR_DEF: "이베리아 연합"
+ IBR_ADJ: "이베리아 연합"
+ 
+ SWE: "스칸디나비아 협상 연합"
+ SWE_DEF: "스칸디나비아 협상 연합"
+ SWE_ADJ: "스칸디나비아"
+ 
+ ARD: "아렌델 왕국"
+ ARD_DEF: "아렌델 왕국"
+ ARD_ADJ: "아렌델"
+ 
+ NCM: "뉴 카멜롯"
+ NCM_DEF: "뉴 카멜롯"
+ NCM_ADJ: "뉴 카멜롯"
+ 
+ DEN: "덴마크 공화국"
+ DEN_DEF: "덴마크 제 2공화국"
+ DEN_ADJ: "덴마크"
+ 
+ GRE: "비잔티움 제국"
+ GRE_DEF: "비잔티움"
+ GRE_ADJ: "비잔티움 제국"
+ 
+ SCP: "SCP 재단"
+ SCP_DEF: "SCP 재단"
+ SCP_ADJ: "재단"
+ 
+ PAP: "교황령"
+ PAP_DEF: "교황령"
+ PAP_ADJ: "교황령"
+ 
+ ITA: "사르데냐"
+ ITA_DEF: "사르데냐 의회"
+ ITA_ADJ: "사르데냐"
+ 
+ SRI: "롬바르디아"
+ SRI_DEF: "롬바르디아 공화국"
+ SRI_ADJ: "롬바르디아 공화국"
+
+ TOS: "토스카나"
+ TOS_DEF: "토스카나"
+ TOS_ADJ: "토스카나"
+ 
+ VNC: "베네치아"
+ VNC_DEF: "베네치아 공화국"
+ VNC_ADJ: "베네치아 공화국"
+ 
+ SLV: "슬로베니아 공화국"
+ SLV_DEF: "슬로베니아 공화국"
+ SLV_ADJ: "슬로베니아 공화국"
+
+ SWI: "스위스 연방"
+ SWI_DEF: "스위스 연방"
+ SWI_ADJ: "스위스 연방"
+ 
+ ALB: "알바니아 공화국"
+ ALB_DEF: "알바니아 공화국"
+ ALB_ADJ: "알바니아 공화국"
+
+ YUG: "유고슬라비아"
+ YUG_DEF: "유고슬라비아 연방 공화국"
+ YUG_ADJ: "유고슬라비아"
+ 
+ DNZ: "그단치히"
+ DNZ_DEF: "그단치히 초월시"
+ DNZ_ADJ: "그단치히"
+ 
+ HOL: "네데를란트"
+ HOL_DEF: "네데를란트"
+ HOL_ADJ: "네데를란트"
+ 
+ BEL: "플란데런-왈로니아"
+ BEL_DEF: "플란데런-왈로니아 연합왕국"
+ BEL_ADJ: "플란데런-왈로니아"
+ 
+ HUN: "헝가리 왕국"
+ HUN_DEF: "헝가리 왕국"
+ HUN_ADJ: "헝가리 왕국"
+ 
+ BOH: "보헤미아 공화국"
+ BOH_DEF: "보헤미아 공화국"
+ BOH_ADJ: "보헤미아"
+ 
+ GAL: "갈리치아-로도메리아 왕국"
+ GAL_DEF: "갈리치아-로도메리아 왕국"
+ GAL_ADJ: "갈리치아-로도메리아"
+ 
+ DAC: "다키아 대공국"
+ DAC_DEF: "다키아 대공국"
+ DAC_ADJ: "다키아"
+ 
+ CRO: "레즈마르 영지"
+ CRO_DEF: "고귀한 레즈마르 성자의 영지"
+ CRO_ADJ: "레즈마르 영지"
+ 
+ BUL: "불가리아 왕국"
+ BUL_DEF: "불가리아"
+ BUL_ADJ: "불가리아"
+ 
+ LTV: "라트베리아"
+ LTV_DEF: "라트베리아"
+ LTV_ADJ: "라트베리아"
+ 
+ LIT: "리투아니아"
+ LIT_DEF: "리투아니아"
+ LIT_ADJ: "리투아니아"
+ 
+ LAT: "라트비아"
+ LAT_DEF: "라트비아"
+ LAT_ADJ: "라트비아"
+ 
+ EST: "에스토니아"
+ EST_DEF: "에스토니아"
+ EST_ADJ: "에스토니아"
+ 
+ BOR: "보르두리아"
+ BOR_DEF: "보르두리아 공화국"
+ BOR_ADJ: "보르두리아"
+ 
+ SKV: "소코비아"
+ SKV_DEF: "소코비아 공화국"
+ SKV_ADJ: "소코비아"
+ 
+ ATZ: "아스토츠카"
+ ATZ_DEF: "아스토츠카 인민 공화국"
+ ATZ_ADJ: "아스토츠카"
+ 
+ AUS: "대 오스트리아 합중국"
+ AUS_DEF: "대 오스트리아 합중국"
+ AUS_ADJ: "오스트리아"
+ 
+ SAR: "사르 공화국"
+ SAR_DEF: "사르 공화국"
+ SAR_ADJ: "사르"
+ 
+ IRE: "아일랜드"
+ IRE_DEF: "아일랜드"
+ IRE_ADJ: "아일랜드"
+
+ TRS: "트리에스테 자유 지구"
+ TRS_DEF: "트리에스테 자유 지구"
+ TRS_ADJ: "트리에스테 자유 지구"
+
+ KRL: "카렐리야 난민 구역"
+ KRL_DEF: "카렐리야 난민 구역"
+ KRL_ADJ: "카렐리야"
+ 
+ ICE: "아이슬란드 미 군정"
+ ICE_DEF: "아이슬란드 미 군정"
+ ICE_ADJ: "아이슬란드"
+ 
+ GRL: "영국령 그린란드"
+ GRL_DEF: "그린란드 자치 정부"
+ GRL_ADJ: "그린란드"
+ 
+ AND: "안도라"
+ AND_DEF: "안도라 공국"
+ AND_ADJ: "안도라"
+ 
+ MLT: "몰타"
+ MLT_DEF: "몰타 공화국"
+ MLT_ADJ: "몰타"
+ 
+ ### not yet released tags
+  
+ GBR: "자유 브리타니아"
+ GBR_DEF: "자유 브리타니아"
+ GBR_ADJ: "자유 브리타니아"
+ 
+ BRD: "독일 연방 공화국"
+ BRD_DEF: "독일 연방 공화국"
+ BRD_ADJ: "독일 연방 공화국"
+
+ DDR: "독일 민주 공화국"
+ DDR_DEF: "독일 민주 공화국"
+ DDR_ADJ: "독일 민주 공화국"
+
+ WUR: "뷔르템베르크 자유국"
+ WUR_DEF: "뷔르템베르크 자유국"
+ WUR_ADJ: "뷔르템베르크 자유국"
+ 
+ BAB: "바이에른 자유국"
+ BAB_DEF: "바이에른 자유국"
+ BAB_ADJ: "바이에른 자유국"
+ 
+ RHI: "라인란트 공화국"
+ RHI_DEF: "라인란트 공화국"
+ RHI_ADJ: "라인란트 공화국"
+ 
+ FRP: "프랑스 공화국"
+ FRP_DEF: "프랑스 공화국"
+ FRP_ADJ: "프랑스 공화국"
+ 
+ ENG: "잉글랜드"
+ ENG_DEF: "잉글랜드"
+ ENG_ADJ: "잉글랜드"
+ 
+ SCO: "스코틀랜드"
+ SCO_ADJ: "스코틀랜드"
+ SCO_DEF: "스코틀랜드"
+ 
+ WAL: "웨일스"
+ WAL_ADJ: "웨일스"
+ WAL_DEF: "웨일스"
+ 
+ CRN: "콘월 공화국"
+ CRN_DEF: "콘월 공화국"
+ CRN_ADJ: "콘월 공화국"
+ 
+ MNN: "맨 섬"
+ MNN_DEF: "맨 섬"
+ MNN_ADJ: "맨 섬"
+
+ NOR: "노르웨이"
+ NOR_DEF: "노르웨이"
+ NOR_ADJ: "노르웨이"
+ 
+ CYP: "키프로스"
+ CYP_DEF: "키프로스 공화국"
+ CYP_ADJ: "키프로스"
+
+ SER: "세르비아 공화국"
+ SER_DEF: "세르비아 공화국"
+ SER_ADJ: "세르비아 공화국"
+
+ FLA: "플란데런"
+ FLA_DEF: "플란데런"
+ FLA_ADJ: "플란데런"
+ 
+ WLN: "왈로니아"
+ WLN_DEF: "왈로니아"
+ WLN_ADJ: "왈로니아"
+
+ CZE: "체코 공화국"
+ CZE_DEF: "체코 공화국"
+ CZE_ADJ: "체코 공화국"
+ 
+ SLO: "슬로바키아 공화국"
+ SLO_DEF: "슬로바키아 공화국"
+ SLO_ADJ: "슬로바키아 공화국"
+
+ KOS: "코소보 공화국"
+ KOS_DEF: "코소보 공화국"
+ KOS_ADJ: "코소보 공화국"
+
+ FIN: "핀란드"
+ FIN_DEF: "핀란드 공화국"
+ FIN_ADJ: "핀란드"
+ 
+ BRG: "부르군트 그룹"
+ BRG_DEF: "부르군트 주식회사"
+ BRG_ADJ: "부르군트 법인"
+ 
+ LUX: "룩셈부르크 코뮌"
+ LUX_DEF: "룩셈부르크 코뮌"
+ LUX_ADJ: "룩셈부르크 코뮌"
+ 
+ ROM: "다키아 해방군"
+ ROM_DEF: "다키아 해방군"
+ ROM_ADJ: "다키아 해방군"
+ 
+ GAG: "가가우지아 공화국"
+ GAG_DEF: "가가우지아 공화국"
+ GAG_ADJ: "가가우지아 공화국"
+ 
+ MCD: "마케도니아 공화국"
+ MCD_DEF: "마케도니아 공화국"
+ MCD_ADJ: "마케도니아 공화국"
+ 
+ BSN: "보스니아"
+ BSN_DEF: "보스니아"
+ BSN_ADJ: "보스니아"
+ 
+ MNT: "몬테네그로 왕국"
+ MNT_DEF: "몬테네그로 왕국"
+ MNT_ADJ: "몬테네그로 왕국"
+ 
+ MOL: "몰도바 민주 공화국"
+ MOL_DEF: "몰도바 공화국"
+ MOL_ADJ: "몰도바 공화국"
+ 
+ ###########################   이베리아 내전 컨텐츠  -  Iberia Great Civil war
+ 
+ BAS: "바스크"
+ BAS_ADJ: "바스크"
+ BAS_DEF: "바스크"
+ 
+ CTL: "카탈루냐"
+ CTL_ADJ: "카탈루냐"
+ CTL_DEF: "카탈루냐"
+ 
+ SPR: "스페인 공화국"
+ SPR_DEF: "스페인 공화국"
+ SPR_ADJ: "스페인 공화국"
+  
+ SPA: "국민전선"
+ SPA_DEF: "스페인 국민전선"
+ SPA_ADJ: "스페인"
+ 
+ SPB: "카를로스파 스페인"
+ SPB_DEF: "카를로스파 스페인"
+ SPB_ADJ: "카를로스파"
+ 
+ SPC: "아라곤 지역방위위원회"
+ SPC_DEF: "아라곤 지역방위위원회"
+ SPC_ADJ: "아라곤"
+ 
+ TBA: "아스투리아스 코뮌"
+ TBA_DEF: "아스투리아스 코뮌"
+ TBA_ADJ: "아스투리아스"
+ 
+ CTH: "가톨릭 군단"
+ CTH_DEF: "가톨릭 군단"
+ CTH_ADJ: "가톨릭 군단"
+ 
+ SPS: "팔랑헤주의 스페인"
+ SPS_DEF: "팔랑헤주의 스페인"
+ SPS_ADJ: "스페인"
+ 
+ FZL: "청색전선"
+ FZL_DEF: "청색전선"
+ FZL_ADJ: "청색전선"
+ 
+ BSQ: "바스크 공화국"
+ BSQ_DEF: "바스크 공화국"
+ BSQ_ADJ: "바스크"
+ 
+ ADL: "안달루시아 공화국"
+ ADL_DEF: "안달루시아 공화국"
+ ADL_ADJ: "바스크"
+ 
+ GLI: "갈리시아 공화국"
+ GLI_DEF: "갈리시아 공화국"
+ GLI_ADJ: "갈리시아"
+ 
+ POR: "왕당파 포르투갈"
+ POR_DEF: "포르투갈 왕국"
+ POR_ADJ: "포르투갈 왕국"
+ 
+ PRG: "포르투갈 인민 공화국"
+ PRG_DEF: "포르투갈 인민 공화국"
+ PRG_ADJ: "포르투갈 공화국"
+ 
+ RPP: "포르투갈 구국정부"
+ RPP_DEF: "포르투갈 구국정부"
+ RPP_ADJ: "포르투갈 정부"
+ 
+ FSR: "국민구원전선"
+ FSR_DEF: "국민구원전선"
+ FSR_ADJ: "국민구원전선"
+ 
+ GIB: "지브롤터 감시 기지"
+ GIB_DEF: "지브롤터 감시 기지"
+ GIB_ADJ: "지브롤터"
+ 
+ ###############################################################
+ #           아 시 아  -  A s i a
+ ###############################################################
+ 
+ ###########################   공영권  -  Co-Prosperity Sphere
+ 
+ KJE: "대한-일본 이중제국"
+ KJE_DEF: "대한-일본 이중제국" # Korean-Japanese Dual Empire
+ KJE_ADJ: "이중제국"
+ 
+ KOR: "대한제국"
+ KOR_DEF: "대한제국" # Korea
+ KOR_ADJ: "대한제국"
+ 
+ JAP: "일본국"
+ JAP_DEF: "일본국" # Japan
+ JAP_ADJ: "일본"
+ 
+ MAN: "만주 자치령"
+ MAN_DEF: "만주 자치령" # Dominion of Manchuria
+ MAN_ADJ: "만주"
+ 
+ MEN: "대한제국령 몽강국"
+ MEN_DEF: "대한제국령 몽강국" # Mongol Authnomous Government
+ MEN_ADJ: "몽강국"
+ 
+ VII: "7군단"
+ VII_DEF: "대한제국 국군 7군단 사령부" # 7th Army
+ VII_ADJ: "7군단"
+  
+ GFL: "연합함대"
+ GFL_DEF: "이중제국 연합함대" # Co-operation Fleet
+ GFL_ADJ: "연합함대"
+ 
+ PSY: "싸이월드"
+ PSY_ADJ: "싸이" # Psy World
+ PSY_DEF: "싸이"
+ 
+ KNA: "북방군"
+ KNA_DEF: "대한제국 북방군" # Northern Army
+ KNA_ADJ: "북방군"
+ 
+ GMH: "관동 주둔군"
+ GMH_DEF: "관동 주둔군 당국" # Gwandong Military H.Q.
+ GMH_ADJ: "관동군"
+ 
+ LEC: "공사관 도시"
+ LEC_DEF: "공사관 도시" # Legation Cities
+ LEC_ADJ: "공사관"
+ 
+ TAI: "대만"
+ TAI_DEF: "대만 공동통치령" # Taiwan
+ TAI_ADJ: "대만"
+
+
+ ### not yet released tags
+ 
+ JRC: "주르첸 여명 군단"
+ JRC_DEF: "주르첸 여명 군단" # Jurchen Rebels
+ JRC_ADJ: "주르첸"
+ 
+ PRM: "인민 혁명위원회"
+ PRM_DEF: "만주 인민 혁명위원회" # Manchuria People's Revolution Coulcil
+ PRM_ADJ: "인민 혁명위원회"
+ 
+
+ ###########################   내전 컨텐츠
+
+ ROK: "대한민국"
+ ROK_DEF: "대한민국 제1공화국" # Korea
+ ROK_ADJ: "대한민국"
+ 
+ PRK: "조선인민공화국"
+ PRK_DEF: "조선인민공화국" # People's Republic of Korea
+ PRK_ADJ: "조선"
+ 
+ DPK: "대조선련방 원정군"
+ DPK_DEF: "대조선련방 원정 사령부" # Homefront North Korean Army
+ DPK_ADJ: "대조선련방"
+ 
+ ASD: "아사달"
+ ASD_DEF: "아사달 요괴 네트워크" # Asadal Youkai Network
+ ASD_ADJ: "아사달"
+ 
+ EJP: "관서 중립 지역"
+ EJP_DEF: "관서 중립 지역"
+ EJP_ADJ: "관서"
+ 
+ OSK: "오사카 자유시"
+ OSK_DEF: "오사카 자유시"
+ OSK_ADJ: "오사카"
+ 
+ JPN: "일본"
+ JPN_DEF: "일본" # Japan
+ JPN_ADJ: "일본"
+ 
+  
+ ###########################   중국 군벌  -  China Cliques
+ 
+ CHI: "중화민국"
+ CHI_DEF: "중화민국"
+ CHI_ADJ: "중화민국"
+ 
+ CHA: "연성 정부"
+ CHA_DEF: "연성 정부"
+ CHA_ADJ: "연성"
+ 
+ MAC: "마카오 국제구역"
+ MAC_ADJ: "마카오 국제구역"
+ MAC_DEF: "마카오"
+ 
+ HKC: "홍콩 위임통치령"
+ HKC_ADJ: "홍콩 위임통치령"
+ HKC_DEF: "홍콩"
+
+ ZHL: "직예 군벌"
+ ZHL_ADJ: "직예 군벌"
+ ZHL_DEF: "직예 군벌"
+ 
+ GUZ: "귀주 군벌"
+ GUZ_ADJ: "귀주 군벌"
+ GUZ_DEF: "귀주 군벌"
+ 
+ SZC: "사천당가"
+ SZC_ADJ: "사천당가"
+ SZC_DEF: "사천당가"
+ 
+ WUL: "무림맹"
+ WUL_ADJ: "무림맹"
+ WUL_DEF: "무림맹"
+
+ YUN: "호국군"
+ YUN_ADJ: "호국군"
+ YUN_DEF: "호국군"
+ 
+ PRC: "홍위병단"
+ PRC_ADJ: "홍위병단"
+ PRC_DEF: "홍위병단"
+
+ SHX: "산서 군벌"
+ SHX_ADJ: "산서 군벌"
+ SHX_DEF: "산서 군벌"
+
+ FEN: "봉천 군벌"
+ FEN_ADJ: "봉천 군벌"
+ FEN_DEF: "봉천 군벌"
+
+ XSM: "마가 군벌"
+ XSM_ADJ: "마가 군벌"
+ XSM_DEF: "마가 군벌"
+
+ MON: "몽골"
+ MON_DEF: "몽골"
+ MON_ADJ: "몽골"
+ 
+ SIK: "신강 군벌"
+ SIK_ADJ: "신강 자경단 회의"
+ SIK_DEF: "신강 군벌"
+ 
+ TIB: "티베트"
+ TIB_ADJ: "티베트"
+ TIB_DEF: "티베트"
+
+ DEL: "델타 룬"
+ DEL_DEF: "델타 룬 왕국"
+ DEL_ADJ: "델타 룬"
+ 
+ ETS: "동투르키스탄 공화국"
+ ETS_DEF: "동투르키스탄 공화국"
+ ETS_ADJ: "동투르키스탄 공화국"
+
+ ### not yet released tags
+ 
+ QIE: "북양정부"
+ QIE_DEF: "북양정부"
+ QIE_ADJ: "북양정부"
+ 
+ SQI: "상청천국"
+ SQI_DEF: "상청천국"
+ SQI_ADJ: "상청천국"
+ 
+ GXC: "광서 군벌"
+ GXC_DEF: "광서 방위전선"
+ GXC_ADJ: "광서 군벌"
+ 
+ GNG: "광동국"
+ GNG_DEF: "광동국"
+ GNG_ADJ: "광동국"
+ 
+ HNN: "허난 군벌"
+ HNN_DEF: "허난 군벌"
+ HNN_ADJ: "허난 군벌"
+
+ HCP: "녹림 마적단"
+ HCP_ADJ: "녹림 마적단"
+ HCP_DEF: "녹림 마적단"
+ 
+ RNG: "왕징웨이 정부"
+ RNG_ADJ: "왕징웨이 정부"
+ RNG_DEF: "왕징웨이 정부"
+
+ SHD: "팔기군"
+ SHD_ADJ: "팔기군"
+ SHD_DEF: "팔기군"
+ 
+ WUH: "우한 결사대"
+ WUH_ADJ: "우한 결사대"
+ WUH_DEF: "우한 결사대"
+ 
+ ###########################   중동  -  Middle East
+ 
+ IDF: "이스라엘 방위군"
+ IDF_DEF: "이스라엘 정부"
+ IDF_ADJ: "이스라엘"
+ 
+ ISR: "뉴 이스라엘"
+ ISR_DEF: "이스라엘 망명정부"
+ ISR_ADJ: "뉴 이스라엘"
+ 
+ ADT: "아뎁투스 미니스토룸"
+ ADT_DEF: "황제 폐하의 아뎁투스 미니스토룸 제국교단"
+ ADT_ADJ: "아뎁투스 미니스토룸 제국교단"
+ 
+ GOD: "천년제국"
+ GOD_DEF: "예수 그리스도의 천년제국"
+ GOD_ADJ: "천년제국"
+ 
+ TUR: "오스만 사회주의 공화국"
+ TUR_DEF: "오스만 사회주의 공화국"
+ TUR_ADJ: "오스만"
+ 
+ KUR: "쿠르디스탄"
+ KUR_DEF: "쿠르디스탄"
+ KUR_ADJ: "쿠르디스탄"
+ 
+ PER: "페르시아 제국"
+ PER_DEF: "페르시아 제국"
+ PER_ADJ: "페르시아"
+ 
+ SAU: "네지드"
+ SAU_DEF: "네지드"
+ SAU_ADJ: "네지드"
+ 
+ UAE: "아랍 연합 공화국"
+ UAE_DEF: "아랍 연합 공화국"
+ UAE_ADJ: "아랍 연합 공화국"
+ 
+ QAT: "카타르 공화국"
+ QAT_DEF: "카타르 공화국"
+ QAT_ADJ: "카타르 공화국"
+ 
+ BHR: "바레인 공화국"
+ BHR_DEF: "바레인 공화국"
+ BHR_ADJ: "바레인 공화국"
+ 
+ KUW: "쿠웨이트 공화국"
+ KUW_DEF: "쿠웨이트 공화국"
+ KUW_ADJ: "쿠웨이트 공화국"
+ 
+ IRQ: "이라크 공화국"
+ IRQ_DEF: "이라크 공화국"
+ IRQ_ADJ: "이라크 공화국"
+ 
+ MAH: "마하바드 공화국"
+ MAH_DEF: "마하바드 공화국"
+ MAH_ADJ: "마하바드 공화국"
+ 
+ SYR: "시리아 민주 공화국"
+ SYR_DEF: "시리아 공화국"
+ SYR_ADJ: "시리아 공화국"
+ 
+ LEB: "레바니아 공화국"
+ LEB_DEF: "레바논 공화국"
+ LEB_ADJ: "레바논 공화국"
+ 
+ JOR: "트란스요르단 하심 왕국"
+ JOR_DEF: "트란스요르단 하심 왕국"
+ JOR_ADJ: "트란스요르단 하심 왕국"
+
+ AFG: "아프가니스탄 이슬람 토후국"
+ AFG_DEF: "아프가니스탄 이슬람 토후국"
+ AFG_ADJ: "아프가니스탄"
+ 
+ NRF: "북부동맹"
+ NRF_DEF: "아프가니스탄 국민 저항 전선"
+ NRF_ADJ: "북부동맹"
+ 
+ PAK: "파키스탄"
+ PAK_DEF: "파키스탄"
+ PAK_ADJ: "파키스탄"
+ 
+ KAS: "카슈미르"
+ KAS_DEF: "카슈미르"
+ KAS_ADJ: "카슈미르"
+ 
+ RAJ: "인도 자치령"
+ RAJ_DEF: "인도 자치령"
+ RAJ_ADJ: "서인도"
+ 
+ PRF: "하이데라바드"
+ PRF_DEF: "하이데라바드"
+ PRF_ADJ: "하이데라바드"
+ 
+ HND: "바타비야 코뮌"
+ HND_DEF: "바타비야 코뮌"
+ HND_ADJ: "공산 인도"
+ 
+ AZH: "자유 인도 정부"
+ AZH_DEF: "자유 인도 정부"
+ AZH_ADJ: "동인도"
+ 
+ CYL: "실론 공화국"
+ CYL_DEF: "실론 공화국"
+ CYL_ADJ: "실론"
+ 
+ NEP: "네팔"
+ NEP_DEF: "네팔"
+ NEP_ADJ: "네팔"
+ 
+ BHU: "부탄"
+ BHU_DEF: "부탄"
+ BHU_ADJ: "부탄"
+ 
+ SKK: "식킴 왕국"
+ SKK_DEF: "식킴 왕국"
+ SKK_ADJ: "식킴 왕국"
+
+ ### not yet released tags
+ 
+ BAN: "방글라데시 인민공화국"
+ BAN_DEF: "방글라데시 인민 공화국"
+ BAN_ADJ: "방글라데시 인민 공화국"
+
+ MNP: "마니푸르 공화국"
+ MNP_DEF: "마니푸르 공화국"
+ MNP_ADJ: "마니푸르 공화국"
+ 
+ TRP: "트리푸라 공화국"
+ TRP_DEF: "트리푸라 공화국"
+ TRP_ADJ: "트리푸라 공화국"
+ 
+ OMA: "오만 공화국"
+ OMA_DEF: "오만 공화국"
+ OMA_ADJ: "오만 공화국"
+ 
+ YEM: "예멘 아랍 민주 공화국"
+ YEM_DEF: "예멘 아랍 민주 공화국"
+ YEM_ADJ: "예멘 아랍 민주 공화국"
+ 
+ ###########################   동남아시아 & 오세아니아  -  Southeast Asia & Oceania
+ 
+ MAL: "말라야 독립군"
+ MAL_DEF: "말라야 독립군" # Malaya
+ MAL_ADJ: "말라야"
+ 
+ BRU: "브루나이"
+ BRU_DEF: "브루나이 술탄국" # Brunai
+ BRU_ADJ: "브루나이"
+ 
+ LNG: "일본령 랑카수카"
+ LNG_DEF: "일본령 랑카수카" # Langkasuka
+ LNG_ADJ: "랑카수카"
+ 
+ SGP: "싱가포르"
+ SGP_DEF: "싱가포르 자유시"
+ SGP_ADJ: "싱가포르"
+
+ LNF: "난방 공화국"
+ LNF_DEF: "난방 공화국" # Lanfang Republic
+ LNF_ADJ: "난방"
+ 
+ KRA: "크라 운하"
+ KRA_DEF: "크라 운하 지대" # Kra Canal Zone
+ KRA_ADJ: "크라 운하"
+ 
+ SIA: "라타나코신 왕국"
+ SIA_DEF: "라타나코신 왕국"
+ SIA_ADJ: "라타나코신"
+ 
+ VIN: "대월"
+ VIN_DEF: "대월"
+ VIN_ADJ: "대월"
+ 
+ BUR: "버마 연합"
+ BUR_DEF: "버마 연합"
+ BUR_ADJ: "버마"
+ 
+ PHI: "일본령 필리핀"
+ PHI_DEF: "일본령 필리핀"
+ PHI_ADJ: "필리핀"
+ 
+ MRO: "방사모로 해방 전선"
+ MRO_DEF: "방사모로 해방 전선"
+ MRO_ADJ: "방사모로"
+ 
+ CAM: "캄푸치아"
+ CAM_DEF: "캄푸치아 왕국"
+ CAM_ADJ: "캄푸치아"
+
+ INS: "인도네시아 연방"
+ INS_DEF: "인도네시아 연방"
+ INS_ADJ: "인도네시아"
+ 
+ AST: "오스트랄라시아 연방"
+ AST_DEF: "오스트랄라시아 연방"
+ AST_ADJ: "오스트랄라시아"
+ 
+ NZL: "뉴질랜드"
+ NZL_DEF: "뉴질랜드"
+ NZL_ADJ: "뉴질랜드"
+
+ ROH: "로헨델"
+ ROH_DEF: "로헨델"
+ ROH_ADJ: "로헨델"
+ 
+ ### not yet released tags
+ 
+ VIE: "베트남 민족 해방전선"
+ VIE_DEF: "베트남 민족 해방전선"
+ VIE_DEF: "베트남"
+
+ LAO: "라오스 공화국"
+ LAO_DEF: "라오스 공화국"
+ LAO_ADJ: "라오스 공화국"
+ 
+ WPA: "서파푸아 공화국"
+ WPA_DEF: "서파푸아 공화국"
+ WPA_ADJ: "서파푸아"
+ 
+ PNG: "파푸아 뉴기니 공화국"
+ PNG_DEF: "파푸아 뉴기니 공화국"
+ PNG_ADJ: "파푸아 뉴기니"
+ 
+ BGV: "부건빌 공화국"
+ BGV_DEF: "부건빌 공화국"
+ BGV_ADJ: "부건빌"
+ 
+ MLD: "몰디브 공화국"
+ MLD_DEF: "몰디브 공화국"
+ MLD_ADJ: "몰디브"
+ 
+ NMI: "북마리아나 제도 공화국"
+ NMI_DEF: "북마리아나 제도 공화국"
+ NMI_ADJ: "북마리아나 제도"
+ 
+ PLU: "팔라우 공화국"
+ PLU_DEF: "팔라우 공화국"
+ PLU_ADJ: "팔라우"
+ 
+ MIC: "미크로네시아 연방"
+ MIC_DEF: "미크로네시아 연방"
+ MIC_ADJ: "미크로네시아"
+ 
+ MAJ: "마셜 제도 공화국"
+ MAJ_DEF: "마셜 제도 공화국"
+ MAJ_ADJ: "마셜 제도"
+ 
+ KIR: "키리바시 공화국"
+ KIR_DEF: "키리바시 공화국"
+ KIR_ADJ: "키리바시"
+ 
+ TUV: "투발루"
+ TUV_DEF: "투발루"
+ TUV_ADJ: "투발루"
+ 
+ FIG: "피지 공화국"
+ FIG_DEF: "피지 공화국"
+ FIG_ADJ: "피지"
+ 
+ SOL: "솔로몬 제도"
+ SOL_DEF: "솔로몬 제도"
+ SOL_ADJ: "솔로몬 제도"
+ 
+ TGA: "통가 왕국"
+ TGA_DEF: "통가 왕국"
+ TGA_ADJ: "통가"
+ 
+ TOK: "토켈라우 공화국"
+ TOK_DEF: "토켈라우 공화국"
+ TOK_ADJ: "토켈라우"
+ 
+ NIU: "니우에 민주 공화국"
+ NIU_DEF: "니우에 민주 공화국"
+ NIU_ADJ: "니우에"
+ 
+ CKI: "쿡 제도 공화국"
+ CKI_DEF: "쿡 제도 공화국"
+ CKI_ADJ: "쿡 제도"
+ 
+ SAM: "사모아 독립국"
+ SAM_DEF: "사모아 독립국"
+ SAM_ADJ: "사모아"
+ 
+ VAN: "바누아투 공화국"
+ VAN_DEF: "바누아투 공화국"
+ VAN_ADJ: "바누아투"
+ 
+ NAU: "나우루 공화국"
+ NAU_DEF: "나우루 공화국"
+ NAU_ADJ: "나우루"
+ 
+ TIM: "동티모르 민주 공화국"
+ TIM_DEF: "동티모르 민주 공화국"
+ TIM_ADJ: "동티모르 민주 공화국"
+ 
+ ###############################################################
+ #           아 메 리 카  -  A m e r i c a s
+ ###############################################################
+ 
+ ###########################   북아메리카  -  North America
+ USA: "미합중국"
+ USA_DEF: "미합중국"
+ USA_ADJ: "미국"
+ 
+ NCR: "뉴 캘리포니아 공화국"
+ NCR_DEF: "뉴 캘리포니아 공화국"
+ NCR_ADJ: "NCR"
+ 
+ CAN: "브리타니아"
+ CAN_DEF: "브리타니아"
+ CAN_ADJ: "브리타니아"
+ 
+ HAW: "하와이 자치령"
+ HAW_DEF: "하와이 자치령"
+ HAW_ADJ: "하와이"
+ 
+ DOM: "도미니카-푸에르토 리코 자치령"
+ DOM_DEF: "도미니카-푸에르토 리코 자치령"
+ DOM_ADJ: "도미니카-푸에르토 리코"
+ 
+ RRG: "리오 그란데 공화국"
+ RRG_DEF: "리오 그란데 공화국"
+ RRG_ADJ: "리오 그란데 공화국"
+ 
+ TLA: "틀랄로칸"
+ TLA_DEF: "틀랄로칸"
+ TLA_ADJ: "틀랄로칸"
+ 
+ MEX: "멕시코"
+ MEX_DEF: "멕시코 정부"
+ MEX_ADJ: "멕시코
+ 
+ HON: "중앙아메리카 해방전선"
+ HON_DEF: "중앙아메리카 해방전선"
+ HON_ADJ: "중앙아메리카 해방전선"
+
+ CEN: "중앙아메리카 연방"
+ CEN_DEF: "중앙아메리카 연방"
+ CEN_ADJ: "중앙아메리카"
+ 
+ WIF: "서인도제도 연방"
+ WIF_DEF: "서인도제도 연방"
+ WIF_ADJ: "서인도제도"
+ 
+ PAN: "파나마"
+ PAN_DEF: "파나마 공화국"
+ PAN_ADJ: "파나마"
+ 
+ PCZ: "파나마 운하 지대"
+ PCZ_DEF: "파나마 운하 지대"
+ PCZ_ADJ: "파나마 운하"
+ 
+ ### not yet released tags
+ NFL: "뉴펀들랜드 공화국"
+ NFL_DEF: "뉴펀들랜드 공화국"
+ NFL_ADJ: "뉴펀들랜드 공화국"
+ 
+ TEX: "텍사스 공화국"
+ TEX_DEF: "텍사스 공화국"
+ TEX_ADJ: "텍사스 공화국"
+ 
+ AKA: "알래스카 공화국"
+ AKA_DEF: "알래스카 공화국"
+ AKA_ADJ: "알래스카 공화국"
+ 
+ CAS: "카스카디아 공화국"
+ CAS_DEF: "카스카디아 공화국"
+ CAS_ADJ: "카스카디아 공화국"
+ 
+ MTN: "몬태나 주"
+ MTN_DEF: "몬태나 주"
+ MTN_ADJ: "몬태나 주"
+ 
+ HDA: "하이다 네이션"
+ HDA_DEF: "하이다 네이션"
+ HDA_ADJ: "하이다 네이션"
+ 
+ BOS: "브라더후드 오브 스틸"
+ BOS_DEF: "브라더후드 오브 스틸"
+ BOS_ADJ: "브라더후드 오브 스틸"
+ 
+ BAH: "바하마 연방"
+ BAH_DEF: "바하마 연방"
+ BAH_ADJ: "바하마 연방"
+
+ DMN: "도미니카 연방"
+ DMN_DEF: "도미니카 연방"
+ DMN_ADJ: "도미니카 연방"
+ 
+ HAI: "아이티 공화국"
+ HAI_DEF: "아이티 공화국"
+ HAI_ADJ: "아이티 공화국"
+ 
+ PRT: "푸에르토리코 공화국"
+ PRT_DEF: "푸에르토리코 공화국"
+ PRT_ADJ: "푸에르토리코 공화국"
+ 
+ CUB: "쿠바 공화국"
+ CUB_DEF: "쿠바 공화국"
+ CUB_ADJ: "쿠바 공화국"
+ 
+ QUE: "퀘벡 공화국"
+ QUE_DEF: "퀘벡 공화국"
+ QUE_ADJ: "퀘벡 공화국"
+ 
+ COS: "코스타리카 민주 공화국"
+ COS_DEF: "코스타리카 공화국"
+ COS_ADJ: "코스타리카 민주 공화국"
+ 
+ NIC: "니카라과 공화국"
+ NIC_DEF: "니카라과 공화국"
+ NIC_ADJ: "니카라과 공화국"
+ 
+ ELS: "엘살바도르 공화국"
+ ELS_DEF: "엘살바도르 공화국"
+ ELS_ADJ: "엘살바도르 공화국"
+ 
+ GUA: "과테말라 공화국"
+ GUA_DEF: "과테말라 공화국"
+ GUA_ADJ: "과테말라 공화국"
+ 
+ ARU: "아루바"
+ ARU_DEF: "아루바"
+ ARU_ADJ: "아루바"
+ 
+ CRC: "쿠라소"
+ CRC_DEF: "쿠라소"
+ CRC_ADJ: "쿠라소"
+ 
+ STL: "세인트 루시아"
+ STL_DEF: "The Saint Lucia"
+ STL_ADJ: "세인트 루시아"
+ 
+ SKN: "세인트 키츠 네비스 연맹"
+ SKN_DEF: "세인트 키츠 네비스 연맹"
+ SKN_ADJ: "세인트 키츠 네비스 연맹"
+ 
+ GRN: "그레나다"
+ GRN_DEF: "더 그레나다"
+ GRN_ADJ: "그레나다"
+ 
+ BRB: "바베이도스"
+ BRB_DEF: "바베이도스"
+ BRB_ADJ: "바베이도스"
+ 
+ MRQ: "마르티니크"
+ MRQ_DEF: "마르티니크"
+ MRQ_ADJ: "마르티니크"
+ 
+ JAM: "자메이카"
+ JAM_DEF: "자메이카"
+ JAM_ADJ: "자메이카"
+ 
+ SVG: "세인트 빈센트 앤 더 그레나딘"
+ SVG_DEF: "세인트 빈센트 앤 더 그레나딘"
+ SVG_ADJ: "세인트 빈센트 앤 더 그레나딘"
+ 
+ ATB: "안티구아 & 바부다"
+ ATB_DEF: "앤티가 바부다"
+ ATB_ADJ: "안티구아 & 바부다"
+ 
+ AGU: "앵귈라 공화국"
+ AGU_DEF: "앵귈라 공화국"
+ AGU_ADJ: "앵귈라 공화국"
+ 
+ BLZ: "벨리즈"
+ BLZ_DEF: "벨리즈"
+ BLZ_ADJ: "벨리즈"
+ 
+ TRT: "트리니다드 토바고 공화국"
+ TRT_DEF: "트리니다드 토바고 공화국"
+ TRT_ADJ: "트리니다드 토바고 공화국"
+
+ ###########################   남아메리카  -  South America
+ 
+ BRA: "브라질 연방 공화국"
+ BRA_DEF: "브라질 연방 공화국"
+ BRA_ADJ: "브라질"
+ 
+ COL: "그란 콜롬비아"
+ COL_DEF: "그란 콜롬비아 연방"
+ COL_ADJ: "그란 콜롬비아"
+ 
+ ECU: "적도 공화국"
+ ECU_DEF: "에콰도르 공화국"
+ ECU_ADJ: "에콰도르"
+ 
+ PRU: "타완틴수유 공화국"
+ PRU_DEF: "타완틴수유 공화국"
+ PRU_ADJ: "타완틴수유"
+ 
+ PAR: "우만레 유한회사"
+ PAR_DEF: "우만레 유한회사"
+ PAR_ADJ: "우만레 유한회사"
+ 
+ ARG: "아르헨티나"
+ ARG_ADJ: "아르헨티나"
+ ARG_DEF: "아르헨티나"
+ 
+ CHL: "칠레"
+ CHL_ADJ: "칠레"
+ CHL_DEF: "칠레"
+ 
+ PAT: "파타고니아 노동자 전선"
+ PAT_DEF: "파타고니아 노동자 전선"
+ PAT_ADJ: "파타고니아"
+ 
+ URG: "우루과이"
+ URG_DEF: "우루과이 동방 공화국"
+ URG_ADJ: "우루과이"
+ 
+ ### not yet released tags
+ 
+ VEN: "베네수엘라"
+ VEN_DEF: "베네수엘라 공화국"
+ VEN_ADJ: "베네수엘라"
+
+ URG: "볼리비아"
+ URG_DEF: "볼리비아 공화국"
+ URG_ADJ: "볼리비아"
+ 
+ GUY: "가이아나"
+ GUY_DEF: "가이아나 민주 공화국"
+ GUY_ADJ: "가이아나"
+ 
+ SUR: "수리남"
+ SUR_DEF: "수리남 공화국"
+ SUR_ADJ: "수리남"
+ 
+ CAY: "카옌 공화국"
+ CAY_DEF: "카옌 공화국"
+ CAY_ADJ: "카옌"
+ 
+ ###############################################################
+ #           아 프 리 카  -  A F R I C A
+ ###############################################################
+ 
+ WKD: "와칸다 제국"
+ WKD_DEF: "대 와칸다 제국"
+ WKD_ADJ: "와칸다"
+ 
+ EGY: "아스완"
+ EGY_DEF: "아스완 왕조"
+ EGY_ADJ: "아스완"
+ 
+ LBA: "트리폴리타니아"
+ LBA_DEF: "트리폴리타니아"
+ LBA_ADJ: "트리폴리타니아"
+ 
+ RIF: "리프 공화국"
+ RIF_DEF: "리프 공화국"
+ RIF_ADJ: "리프"
+ 
+ SAF: "남아프리카 연방"
+ SAF_DEF: "남아프리카 연방"
+ SAF_ADJ: "남아프리카 연방"
+ 
+ SOM: "소말리아 연방 공화국"
+ SOM_DEF: "소말리아 연방 공화국"
+ SOM_ADJ: "소말리아"
+ 
+ ERI: "에리트레아 국가"
+ ERI_DEF: "에리트레아 국가"
+ ERI_ADJ: "에리트레아"
+ 
+ CHD: "차드 공화국"
+ CHD_DEF: "차드 공화국"
+ CHD_ADJ: "차드"
+ 
+ NGA: "나이지리아 연방 공화국"
+ NGA_DEF: "나이지리아 연방 공화국"
+ NGA_ADJ: "나이지리아"
+ 
+ GAB: "가봉 공화국"
+ GAB_DEF: "가봉 공화국"
+ GAB_ADJ: "가봉"
+ 
+ UGA: "우간다 공화국"
+ UGA_DEF: "우간다 공화국"
+ UGA_ADJ: "우간다"
+ 
+ ALG: "알제리 공화국"
+ ALG_DEF: "알제리 공화국"
+ ALG_ADJ: "알제리"
+ 
+ BEN: "베냉 공화국"
+ BEN_DEF: "베냉 공화국"
+ BEN_ADJ: "베냉"
+ 
+ CAR: "중앙아프리카 공화국"
+ CAR_DEF: "중앙아프리카 공화국"
+ CAR_ADJ: "중앙아프리카"
+ 
+ IVO: "코트디부아르 공화국"
+ IVO_DEF: "코트디부아르 공화국"
+ IVO_ADJ: "코트디부아르"
+ 
+ RHD: "로디지아 공화국"
+ RHD_DEF: "로디지아 공화국"
+ RHD_ADJ: "로디지아"
+ 
+ MOR: "모로코 왕국"
+ MOR_DEF: "모로코 왕국"
+ MOR_ADJ: "모로코"
+ 
+ SEN: "세네갈 공화국"
+ SEN_DEF: "세네갈 공화국"
+ SEN_ADJ: "세네갈"
+ 
+ GNA: "기니 공화국"
+ GNA_DEF: "기니 공화국"
+ GNA_ADJ: "기니"
+ 
+ GAM: "감비아 공화국"
+ GAM_DEF: "감비아 공화국"
+ GAM_ADJ: "감비아"
+ 
+ VOL: "부르키나 파소"
+ VOL_DEF: "부르키나 파소"
+ VOL_ADJ: "부르키나 파소"
+ 
+ GHA: "가나 공화국"
+ GHA_DEF: "가나 공화국"
+ GHA_ADJ: "가나"
+ 
+ TOG: "토고 공화국"
+ TOG_DEF: "토고 공화국"
+ TOG_ADJ: "토고"
+ 
+ ETH: "에티오피아 연방 민주 공화국"
+ ETH_DEF: "에티오피아 연방 민주 공화국"
+ ETH_ADJ: "에티오피아"
+ 
+ LIB: "라이베리아 공화국"
+ LIB_DEF: "라이베리아 공화국"
+ LIB_ADJ: "라이베리아"
+ 
+ SIE: "시에라리온 공화국"
+ SIE_DEF: "시에라리온 공화국"
+ SIE_ADJ: "시에라리온"
+ 
+ ANG: "앙골라 공화국"
+ ANG_DEF: "앙골라 공화국"
+ ANG_ADJ: "앙골라"
+ 
+ MZB: "모잠비크 인민 공화국"
+ MZB_DEF: "모잠비크 인민 공화국"
+ MZB_ADJ: "모잠비크"
+
+ ZIM: "짐바브웨 공화국"
+ ZIM_DEF: "짐바브웨 공화국"
+ ZIM_ADJ: "짐바브웨"
+ 
+ RCG: "콩고 공화국"
+ RCG_DEF: "콩고 공화국"
+ RCG_ADJ: "콩고"
+ 
+ COG: "콩고 공화국"
+ COG_DEF: "콩고 공화국"
+ COG_ADJ: "콩고"
+ 
+ KEN: "케냐 공화국"
+ KEN_DEF: "케냐 공화국"
+ KEN_ADJ: "케냐"
+ 
+ BOT: "보츠와나 공화국"
+ BOT_DEF: "보츠와나 공화국"
+ BOT_ADJ: "보츠와나"
+ 
+ CMR: "카메룬 공화국"
+ CMR_DEF: "카메룬 공화국"
+ CMR_ADJ: "카메룬"
+ 
+ ZAM: "잠비아 공화국"
+ ZAM_DEF: "잠비아 공화국"
+ ZAM_ADJ: "잠비아"
+ 
+ MLW: "말라위 공화국"
+ MLW_DEF: "말라위 공화국"
+ MLW_ADJ: "말라위"
+ 
+ TUN: "튀니지 공화국"
+ TUN_DEF: "튀니지 공화국"
+ TUN_ADJ: "튀니지"
+ 
+ SUD: "수단 공화국"
+ SUD_DEF: "수단 공화국"
+ SUD_ADJ: "수단"
+ 
+ MRT: "모리타니아 이슬람 공화국"
+ MRT_DEF: "모리타니아 이슬람 공화국"
+ MRT_ADJ: "모리타니아"
+ 
+ MLI: "말리 공화국"
+ MLI_DEF: "말리 공화국"
+ MLI_ADJ: "말리"
+ 
+ NGR: "니제르 공화국"
+ NGR_DEF: "니제르 공화국"
+ NGR_ADJ: "니제르"
+ 
+ TZN: "탄자니아 공화국"
+ TZN_DEF: "탄자니아 공화국"
+ TZN_ADJ: "탄자니아" 
+ 
+ TIZ: "탱기에 국제 구역"
+ TIZ_DEF: "탱기에 국제 구역"
+ TIZ_ADJ: "탱기에"
+ 
+ SAR: "사하라 아랍 민주 공화국"
+ SAR_DEF: "사하라 아랍 민주 공화국"
+ SAR_ADJ: "사하라"
+ 
+ ZNB: "잔지바르 공화국"
+ ZNB_DEF: "잔지바르 공화국"
+ ZNB_ADJ: "잔지바르"
+ 
+ SSD: "남수단 공화국"
+ SSD_DEF: "남수단 공화국"
+ SSD_ADJ: "남수단"
+ 
+ SMK: "남말루쿠 공화국"
+ SMK_DEF: "남말루쿠 공화국"
+ SMK_ADJ: "남말루쿠 공화국"
+ 
+ DJI: "지부티 공화국"
+ DJI_DEF: "지부티 공화국"
+ DJI_ADJ: "지부티"
+ 
+ EQG: "적도 기니 공화국"
+ EQG_DEF: "적도 기니 공화국"
+ EQG_ADJ: "적도 기니"
+ 
+ SWZ: "스와지랜드 왕국"
+ SWZ_DEF: "스와지랜드 왕국"
+ SWZ_ADJ: "스와지랜드"
+ 
+ LES: "레소토 왕국"
+ LES_DEF: "레소토 왕국"
+ LES_ADJ: "레소토"
+ 
+ AZW: "아자와드 공화국"
+ AZW_DEF: "아자와드 공화국"
+ AZW_ADJ: "아자와드"
+ 
+ NAM: "나미비아 공화국"
+ NAM_DEF: "나미비아 공화국"
+ NAM_ADJ: "나미비아"
+ 
+ GNB: "기니비사우 공화국"
+ GNB_DEF: "기니비사우 공화국"
+ GNB_ADJ: "기니비사우"
+ 
+ ITE: "아이텐게의 자유 상태"
+ ITE_DEF: "아이텐게의 자유 상태"
+ ITE_ADJ: "아이텐게"
+ 
+ MAD: "마다가스카르 공화국"
+ MAD_DEF: "마다가스카르 공화국"
+ MAD_ADJ: "마다가스카르"
+ 
+ KAT: "카탕가 공화국"
+ KAT_DEF: "카탕가 공화국"
+ KAT_ADJ: "카탕가"
+ 
+ RWA: "르완다 공화국"
+ RWA_DEF: "르완다 공화국"
+ RWA_ADJ: "르완다"
+ 
+ BUD: "부룬디 공화국"
+ BUD_DEF: "부룬디 공화국"
+ BUD_ADJ: "부룬디"
+ 
+ CVE: "카보베르데 공화국"
+ CVE_DEF: "카보베르데 공화국"
+ CVE_ADJ: "카보베르데 공화국"
+ 
+ CSM: "카사망스 공화국"
+ CSM_DEF: "카사만스 공화국"
+ CSM_ADJ: "카사만스 공화국"
+ 
+ MAU: "모리셔스 공화국"
+ MAU_DEF: "모리셔스 공화국"
+ MAU_ADJ: "모리셔스 공화국"
+ 
+ STP: "상투메 프린시페 공화국"
+ STP_DEF: "상토메 프린시페 공화국"
+ STP_ADJ: "상토메 프린시페 공화국"
+ 
+ KBY: "카빌리아 공화국"
+ KBY_DEF: "카빌리아 공화국"
+ KBY_ADJ: "카빌리아 공화국"
+ 
+ ###############################################################
+ #           러 시 아  -  R U S S I A
+ ###############################################################
+ 
+ ###########################   모스크바 지역  -  MOSCOW AREA
+ 
+ SPD: "상트페테르부르크 방위국"
+ SPD_DEF: "상트페테르부르크 방위국" # St. Petersburg Defense Agency
+ SPD_ADJ: "상트페테르부르크"
+ 
+ MSC: "모스크바 동맹"
+ MSC_DEF: "모스크바 지하철 동맹" # Moscow Metro Alliance
+ MSC_ADJ: "모스크바"
+ 
+ CRM: "세바스토폴 함대"
+ CRM_DEF: "세바스토폴 흑해 함대" # Sevastopol Black Sea Fleet
+ CRM_ADJ: "세바스토폴"
+ 
+ UKR: "우크라이나 국민 공화국"
+ UKR_DEF: "우크라이나 국민 공화국" # The Ukrainian People's Republic
+ UKR_ADJ: "우크라이나"
+ UKR_communist: "우크라이나 소비에트 사회주의 공화국"
+ UKR_communist_DEF: "우크라이나 소비에트 사회주의 공화국"
+ UKR_socialist: "우크라이나 소비에트 사회주의 공화국"
+ UKR_socialist_DEF: "우크라이나 소비에트 사회주의 공화국"
+ 
+ WHR: "백루테니아"
+ WHR_ADJ: "백루테니아" # White Ruthenia
+ WHR_DEF: "백루테니아"
+ 
+ KGB: "소비에트 연방보안국"
+ KGB_ADJ: "소비에트 연방보안국" # Moscow Federal Security Service
+ KGB_DEF: "구 소련 연방보안국"
+ 
+ NVA: "노바-6 오염 지대"
+ NVA_ADJ: "노바-6 오염 지대" # NOVA-6 Contaminated Area
+ NVA_DEF: "노바-6 오염 지대"
+ 
+ SRK: "사르킥 교단"
+ SRK_ADJ: "사르킥 교단" # The Sarkicst
+ SRK_DEF: "사르킥 교단"
+ 
+ SOS: "남오세티야 공화국"
+ SOS_DEF: "남오세티야 공화국"
+ SOS_ADJ: "남오세티야"
+ 
+ ABK: "압하지야 공화국"
+ ABK_DEF: "압하지야 공화국"
+ ABK_ADJ: "얍하지야"
+ 
+ KRC: "카라카이 체르케스 공화국"
+ KRC_DEF: "카라카이-체르케스 공화국"
+ KRC_ADJ: "체르케스"
+ 
+ KBA: "카바르디노-발카리아 공화국"
+ KBA_DEF: "카바르디노-발카리아 공화국"
+ KBA_ADJ: "카바르디노-발카리아"
+ 
+ CHE: "체첸 민주 공화국"
+ CHE_DEF: "체첸 공화국"
+ 
+ ING: "잉구시 공화국"
+ ING_DEF: "인구시 공화국"
+ ING_ADJ: "인구시"
+ 
+ DAG: "다게스탄 공화국"
+ DAG_DEF: "다게스탄 공화국"
+ DAG_ADJ: "다케스탄"
+ 
+ ADG: "아디게아 공화국"
+ ADG_DEF: "아디게아 공화국"
+ ADG_ADJ: "아디게아"
+ 
+ NGK: "나고르노카라바흐 공화국"
+ NGK_DEF: "나고르노카라바흐 공화국"
+ NGK_ADJ: "나고르노카라바흐"
+ 
+ KHK: "카카시아 공화국"
+ KHK_DEF: "하카시아 공화국"
+ KHK_ADJ: "하카시아"
+ 
+ NOS: "북오세티야 공화국"
+ NOS_DEF: "북오세티야 공화국"
+ NOS_ADJ: "북오세티야"
+ 
+ KMK: "칼미키아 공화국"
+ KMK_DEF: "칼미키아 공화국"
+ KMK_ADJ: "칼마키아"
+ 
+ GEO: "조지아 공화국"
+ GEO_DEF: "조지아 공화국"
+ GEO_ADJ: "조지아"
+ 
+ AZR: "아제르바이잔 민주 공화국"
+ AZR_DEF: "아제르바이잔 민주 공화국"
+ AZR_ADJ: "아제르바이잔"
+ 
+ ARM: "아르메니아 공화국"
+ ARM_DEF: "아르메니아 공화국"
+ ARM_ADJ: "아르메니아"
+
+ ###########################   서러시아 지역  -  Western Russia
+ 
+ KOM: "서러시아 섭정"
+ KOM_DEF: "신성 러시아 제국" # West  Russian Regency
+ KOM_ADJ: "서러시아 섭정"
+ 
+ SYK: "식팁카르 파르티잔"
+ SYK_DEF: "식팁카르 파르티잔"
+ SYK_ADJ: "식팁카르"
+ 
+ ONG: "오네가 의용군"
+ ONG_ADJ: "오네가 반공의용방범대" # Onega Clique
+ ONG_DEF: "오네가"
+ 
+ ONE: "단일국"
+ ONE_DEF: "단일국" # The One State
+ ONE_ADJ: "단일국"
+ 
+ ORD: "오르도 여단"
+ ORD_DEF: "오르도 여단" # The Ranger Brigade
+ ORD_ADJ: "오르도"
+ 
+ NRS: "러시아국 재건 정부"
+ NRS_DEF: "러시아국 재건 정부" # Russian State Reconstruction Government
+ NRS_ADJ: "마리 엘"
+ 
+ VYT: "뱟카"
+ VYT_DEF: "뱟카 공국" # Vyatka
+ VYT_ADJ: "뱟카 정부"
+ 
+ AGA: "A 집단군"
+ AGA_DEF: "구 국방군 A 집단군" # Army Group A
+ AGA_ADJ: "구 국방군 잔당"
+ 
+ WRS: "서러시아 혁명전선"
+ WRS_DEF: "서러시아 혁명전선" # West Russian Revolutionary Front
+ WRS_ADJ: "서러시아"
+ 
+ POA: "오렌부르크"
+ POA_DEF: "러시아 인민 해방 위원회" # Committee for the Liberation of the Peoples of Russia
+ POA_ADJ: "러시아 해방군"
+  
+ ###########################   우랄  -  Ural
+ 
+ URL: "우랄 연맹"
+ URL_DEF: "우랄 연맹" # The Ural League
+ URL_ADJ: "우랄"
+ 
+ MGN: "마그니토고르스크"
+ MGN_DEF: "마그니토고르스크 인민공화국"  # Magnitogorsk
+ MGN_ADJ: "마그니토고르스크"
+ 
+ YRN: "북부 유리군"
+ YRN_DEF: "유리군 사이킥 군단"  # Northern Yuri's Army
+ YRN_ADJ: "북부 유리군"
+ 
+ ###########################   서시베리아 지역  -  Western Siberia
+  
+ 
+ ZLT: "즐라토우스트"
+ ZLT_DEF: "즐라토우스트 공화국" # Zlatoust
+ ZLT_ADJ: "즐라토우스트"
+ 
+ FRL: "자유 러시아 군단"
+ FRL_DEF: "자유 러시아 군단" # Freedom of Russia Legion
+ FRL_ADJ: "자유 러시아군"
+ 
+ SPI: "소베츠키 인스티튜트"
+ SPI_DEF: "소베츠키 인스티튜트" # Soviet 'Progress' Research Institute 
+ SPI_ADJ: "소베츠키"
+ 
+ VOR: "보르쿠타"
+ VOR_DEF: "보르쿠타 교정노동수용소" # Vorkuta
+ VOR_ADJ: "보르쿠타"
+ 
+ YGR: "유그라"
+ YGR_DEF: "유그라 도적 영토" # Nenets
+ YGR_ADJ: "유그라"
+ 
+ SVR: "슬라브 형제단"
+ SVR_DEF: "슬라브 형제단" # Slavic Brotherhood
+ SVR_ADJ: "스베들롭스크"
+  
+ SSB: "슈츠슈타펠 여단"
+ SSB_DEF: "슈츠슈타펠 동부집단 사령부" # Schutzstaffel Brigade
+ SSB_ADJ: "슈츠슈타펠"
+ 
+ OMS: "옴스크"
+ OMS_DEF: "옴스크"
+ OMS_ultranationalism_DEF: "시베리아 흑색연맹" # OMSK
+ OMS_ADJ: "옴스크"
+ 
+ CBL: "카발"
+ CBL_DEF: "카발 AI 프로토콜" # CABAL
+ CBL_ADJ: "카발 프로토콜"
+ 
+ KOK: "콕셰타우 녹색주의 연합"
+ KOK_DEF: "녹색주의 연합" # Greenist Union
+ KOK_ADJ: "콕셰타우"
+ 
+ DER: "코스타나이 생디칼리스트 연합"
+ DER_DEF: "코스타나이 생디칼리스트 연합" # The Syndicalist
+ DER_ADJ: "코스타나이"
+  
+ ###########################   중앙아시아 지역  -  Central Asia
+ 
+ NOD: "노드 형제단"
+ NOD_DEF: "브라더후드 오브 노드" # Brotherhood of NOD
+ NOD_ADJ: "노드 형제단"
+ 
+ YRI: "유리군 본부"
+ YRI_DEF: "브라더후드 오브 노드" # Yuri's Army Headquarters
+ YRI_ADJ: "노드 형제단"
+ 
+ ARL: "악퇴베"
+ ARL_DEF: "악퇴베 국민공화국"
+ ARL_ADJ: "악퇴베"
+ 
+ AKT: "악타우"
+ AKT_DEF: "악타우국"
+ AKT_ADJ: "악타우"
+ 
+ ALP: "알파 전대"
+ ALP_DEF: "알파 전대" # Alpha Squadron
+ ALP_ADJ: "알파 전대"
+ 
+ KAZ: "키질로르다"
+ KAZ_DEF: "키질로르다" # Kyzylorda
+ KAZ_ADJ: "키질로르다"
+ 
+ HYD: "하이드라"
+ HYD_DEF: "하이드라 파견군" # Hydra
+ HYD_ADJ: "하이드라"
+ 
+ PRS: "페르세우스 군사 위원회"
+ PRS_DEF: "페르세우스 군사 위원회" # Hydra
+ PRS_ADJ: "페르세우스"
+ 
+ PAV: "파블로다르"
+ PAV_DEF: "파블로다르 공화국"
+ PAV_ADJ: "파블로다르"
+
+ 
+ KPK: "카라칼팍스탄 공화국"
+ KPK_DEF: "카라칼팍스탄 공화국"
+ KPK_ADJ: "카라칼팍스탄"
+ 
+ TRK: "투르크메니스탄"
+ TRK_DEF: "투르크메니스탄 공화국"
+ TRK_ADJ: "투르크메니스탄"
+ 
+ UZB: "우즈베키스탄"
+ UZB_DEF: "우즈베키스탄"
+ UZB_ADJ: "우즈베키스탄"
+ 
+ TAJ: "타지크 소비에트 사회주의 공화국"
+ TAJ_DEF: "타지크 SSR"
+ TAJ_ADJ: "타지크 SSR"
+  
+ KIR: "키르기스 공화국"
+ KIR_DEF: "키르기스 공화국"
+ KIR_ADJ: "키르키스"
+ 
+ TMS: "투르크메니스탄 공화국"
+ TMS_DEF: "투르크메니스탄 공화국"
+ TMS_ADJ: "투르크메니스탄"
+ 
+ ###########################   중앙시베리아 지역  -  Western Siberia
+ 
+ SRF: "시베리아 혁명전선 사령부"
+ SRF_DEF: "시베리아 혁명전선 사령부" # Siberia Revolutionary Front Command
+ SRF_ADJ: "시베리아 혁명전선"
+
+ SAH: "크라스노야르스크"
+ SAH_DEF: "크라스노야르스크 군사 지구" # Krasnoyarsk Military District
+ SAH_ADJ: "크라스노야르스크"
+
+ TOM: "톰스크"
+ TOM_DEF: "중앙시베리아 공화국"
+ TOM_ADJ: "톰스크"
+ 
+ OGA: "오가스 통제 구역"
+ OGA_DEF: "오가스 통제 구역" # OGAS Control Area
+ OGA_ADJ: "오가스"
+
+ NOV: "노보시비르스크"
+ NOV_DEF: "노보시비르스크-알타이 연방" # Novosibirsk 
+ NOV_ADJ: "노보시비르스크"
+
+ FAV: "나이트 위치스"
+ FAV_DEF: "제46마도근위항공여단" # Night Witches
+ FAV_ADJ: "나이트 위치스"
+ 
+ ALT: "오이로티아"
+ ALT_DEF: "오이로티아 카라코룸 정부"  # Siberia Revolutionary Front Command
+ ALT_ADJ: "오이로트"
+ 
+ CHR: "에벤크"
+ CHR_DEF: "에벤크"
+ CHR_ADJ: "에벤크"
+ 
+ KAL: "시베리아 노동자 연방"
+ KAL_DEF: "시베리아 노동자 연방"
+ KAL_ADJ: "시베리아"
+ 
+ SBA: "시베리아 흑군"
+ SBA_DEF: "시베리아 흑군"  # Siberia Revolutionary Front Command
+ SBA_ADJ: "흑군"
+ 
+ NRL: ""
+ NRL_DEF: ""
+ NRL_ADJ: "중앙시베리아"
+ 
+ 
+ ###########################   극동 지역  -  Far East Area
+ 
+ OMO: ""
+ OMO_DEF: ""
+ OMO_ADJ: "동시베리아"
+ 
+ VIL: ""
+ VIL_DEF: ""
+ VIL_ADJ: "빌뉴이"
+ 
+ IRK: "이르쿠츠크 초국수파"
+ IRK_DEF: "이르쿠츠크 초국수파" #Irkutsk Ultranationalist
+ IRK_ADJ: "이르쿠츠크 "
+ 
+ BRY: "부라티야 SSR"
+ BRY_DEF: "부라티야 소비에트 사회주의 자치 공화국" #Buratya SSR
+ BRY_ADJ: "부라티야"
+ 
+ CHT: "트란스바이칼 공국"
+ CHT_DEF: "트란스바이칼 공국"
+ CHT_authoritarian_democracy_DEF: "트란스바이칼 류리크 정권" #Rurik Regime
+ CHT_despotism_DEF: "트란스바이칼 공국"
+ CHT_ADJ: "트란스바이칼"
+ 
+ TAN: "탄누 투바"
+ TAN_DEF: "탄누 투바" #Tannu Tuba
+ TAN_ADJ: "탄누 투바"
+ TAN_socialist: "투바"
+ TAN_socialist_DEF: "투바 인민공화국"
+ TAN_socialist_ADJ: "투바"
+ 
+ TRM: "트란스아무르"
+ TRM_DEF: "트란스아무르 임시정부" #Transamur Russian Government
+ TRM_ADJ: "트란스아무르"
+ 
+ ALD: "알단 프리메이스트"
+ ALD_DEF: "알단 프리메이스트" # Aldan Freemason
+ ALD_ADJ: "알단"
+
+ MAG: "마가단 자유 지구"
+ MAG_DEF: "마가단 자유 지구" # Magadan Free District
+ MAG_ADJ: "마가단"
+ 
+ YAK: "야쿠티아 공화국"
+ YAK_DEF: "야쿠티아 공화국" # Republic of Yakutia
+ YAK_ADJ: "야쿠티아"
+  
+ ISD: "제정 시베리아 자치령"
+ ISD_DEF: "제정 시베리아 자치령" # Republic of Yakutia
+ ISD_ADJ: "제정 시베리아"
+ 
+ ###############################################################
+ #           환 상 향  -  T O U H O U
+ ###############################################################
+ 
+ HAK: "하쿠레이 신사"
+ HAK_ADJ: "하쿠레이 신사"
+ HAK_DEF: "하쿠레이 신사"
+ 
+ MHG: "마요히가"
+ MHG_ADJ: "마요히가"
+ MHG_DEF: "마요히가"
+ 
+ PRI: "프리즘리버 저택"
+ PRI_ADJ: "프리즘리버 저택"
+ PRI_DEF: "프리즘리버 저택"
+ 
+ SCR: "홍마관"
+ SCR_ADJ: "홍마관"
+ SCR_DEF: "홍마관"
+ 
+ YOF: "요괴의 숲"
+ YOF_ADJ: "요괴의 숲"
+ YOF_DEF: "요괴의 숲"
+ 
+ TGU: "텐구령"
+ TGU_ADJ: "텐구령"
+ TGU_DEF: "텐구령"
+ 
+ FOM: "마법의 숲"
+ FOM_ADJ: "마법의 숲"
+ FOM_DEF: "마법의 숲"
+ 
+ KRD: "향림당"
+ KRD_ADJ: "향림당"
+ KRD_DEF: "향림당"
+ 
+ NET: "명계"
+ NET_ADJ: "명계"
+ NET_DEF: "명계"
+ 
+ EIT: "영원정"
+ EIT_ADJ: "영원정"
+ EIT_DEF: "영원정"
+ 
+ FUJ: "후지와라 가문"
+ FUJ_ADJ: "후지와라 가문"
+ FUJ_DEF: "후지와라 가문"
+ 
+ KAG: "풀뿌리 요괴 네트워크"
+ KAG_ADJ: "풀뿌리 요괴 네트워크"
+ KAG_DEF: "풀뿌리 요괴 네트워크"
+ 
+ HMC: "인간 수도"
+ HMC_ADJ: "인간 수도"
+ HMC_DEF: "인간 수도"
+ 
+ MYO: "명련사"
+ MYO_ADJ: "명련사"
+ MYO_DEF: "명련사"
+ 
+ OKI: "후호의 나라"
+ OKI_ADJ: "후호의 나라"
+ OKI_DEF: "후호의 나라"
+ 
+ AKI: "아키"
+ AKI_ADJ: "아키"
+ AKI_DEF: "아키"
+ 
+ LIL: "겨울꽃길"
+ LIL_ADJ: "겨울꽃길"
+ LIL_DEF: "겨울꽃길"
+ 
+ FTP: "삼월정"
+ FTP_ADJ: "삼월정"
+ FTP_DEF: "삼월정"
+ 
+ CIN: "치르니아"
+ CIN_ADJ: "치르니아"
+ CIN_DEF: "치르니아"
+ 
+ TNK: "전차 기사단"
+ TNK_ADJ: "전차 기사단"
+ TNK_DEF: "전차 기사단"
+ 
+ KNN: "고요의 신전"
+ KNN_ADJ: "고요의 신전"
+ KNN_DEF: "고요의 신전"
+ 
+ GNU: "몽환세계"
+ GNU_ADJ: "몽환세계"
+ GNU_DEF: "몽환세계"
+ 
+ ERS: "제28근위소총사단"
+ ERS_ADJ: "제28근위소총사단"
+ ERS_DEF: "제28근위소총사단"
+ 
+ MRY: "모리야 신사"
+ MRY_ADJ: "모리야 신사"
+ MRY_DEF: "모리야 신사"
+ 
+ KPP: "캇파폴리스"
+ KPP_ADJ: "캇파폴리스"
+ KPP_DEF: "캇파폴리스"
+ 
+ MKI: "마계"
+ MKI_ADJ: "마계"
+ MKI_DEF: "마계"
+ 
+ SNK: "선계"
+ SNK_ADJ: "선계"
+ SNK_DEF: "선계"
+ 
+ YUM: "몽환 유적"
+ YUM_ADJ: "몽환 유적"
+ YUM_DEF: "몽환 유적"
+ 
+ MIM: "미마의 제국"
+ MIM_ADJ: "미마의 제국"
+ MIM_DEF: "미마의 제국"
+ 
+ SFF: "태양의 밭"
+ SFF_ADJ: "태양의 밭"
+ SFF_DEF: "태양의 밭"
+ 
+ HEL: "지저"
+ HEL_ADJ: "지저"
+ HEL_DEF: "지저"
+ 
+ CRD: "지령전"
+ CRD_ADJ: "지령전"
+ CRD_DEF: "지령전"
+ 
+ ONI: "오니 망명지"
+ ONI_ADJ: "오니 망명지"
+ ONI_DEF: "오니 망명지"
+ 
+ LOC: "강욕"
+ LOC_ADJ: "강욕"
+ LOC_DEF: "강욕"
+ 
+ HIG: "피안"
+ HIG_ADJ: "피안"
+ HIG_DEF: "피안"
+ 
+ YAC: "귀갈조"
+ YAC_ADJ: "귀갈조"
+ YAC_DEF: "귀갈조"
+ 
+ SKI: "경야조"
+ SKI_ADJ: "경야조"
+ SKI_DEF: "경야조"
+ 
+ KEI: "영장원"
+ KEI_ADJ: "영장원"
+ KEI_DEF: "영장원"
+ 
+ ###############################################################
+ #           기 타  -  M i S C
+ ###############################################################
+ 
+ UNE: "국제 위임통치령"
+ UNE_DEF: "지구국제연합 위임통치령" # United Nations of Earth
+ UNE_ADJ: "국제 위임통치령"
+ 
+ GHQ: "연합군 사령부"
+ GHQ_DEF: "연합군 최고 사령부"
+ GHQ_ADJ: "연합군 사령부"
+ 
+ ANT: "남극 사회주의 공화국"
+ ANT_DEF: "남극 사회주의 공화국"
+ ANT_ADJ: "남련"
+ 
+ JAN: "얀 마옌 사회주의 공화국"
+ JAN_DEF: "얀 마옌 사회주의 공화국"
+ ANT_ADJ: "얀 마옌"
+
+ RYH: "르-뤼에"
+ RYH_ADJ: "르-뤼에"
+ RYH_DEF: "르-뤼에의 고대신들"
+
+ RAP: "랩쳐"
+ RAP_DEF: "랩쳐"
+ RAP_ADJ: "랩쳐"
+ 
+ ATL: "아틀란티스"
+ ATL_DEF: "아틀란티스"
+ ATL_ADJ: "아틀란티스"
+ 
+ POL: "폴란드군"
+ POL_DEF: "폴란드 제3공화국"
+ POL_ADJ: "데네브 성계 폴란드"
+
+ MAR: "화성군"
+ MAR_DEF: "화성 지구침략군 선발대" # Martian
+ MAR_ADJ: "화성 제국"
+ 
+ ZZZ: ""
+ ZZZ_DEF: "" # Anarchy
+ ZZZ_ADJ: "무정부지대"
+ 
+ ###########################   달  -  Moon
+ 
+ NAZ: "제 4제국"
+ NAZ_DEF: "제 4제국" # The Fourth Reich
+ NAZ_ADJ: "제 4제국"
+ 
+ LUN: "달의 백성"
+ LUN_DEF: "달의 백성" # Lunarian
+ LUN_ADJ: "달의 백성"
+ 
+ RAB: "달토끼 연맹"
+ RAB_DEF: "달토끼 연맹" # Moscow Metro Alliance
+ RAB_ADJ: "달토끼 연맹"
+ 
+ 

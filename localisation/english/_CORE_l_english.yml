@@ -2,14 +2,14 @@
 ######################################################################
 ## Main Menu
 ######################################################################
- DH_exit: "나가기"
- DH_nudge: "넛지!"
- DH_discord: "디스코드"
- DH_steam_workshop: "창작마당"
- DH_options: "설정"
- DH_BOOKMARK: "북마크"
- DH_COUNTRY_SELECTION: "나라 선택"
- DH_version: "§H<ALPHA>§! “Deep Dark Fantasy”"
+ DH_exit: "Quit"
+ DH_nudge: "Nudge"
+ DH_discord: "Join our Discord"
+ DH_steam_workshop: "Steam Workshop"
+ DH_options: "Options"
+ DH_BOOKMARK: "Bookmarks"
+ DH_COUNTRY_SELECTION: "Country Selection"
+ DH_version: "DH v0.1.0 “The Road to War”"
  DH_submod_version: ""
  DH_COUNTRY_INFO_TITLE: "Informations"
  DH_leader: "Leader:"
@@ -20,6 +20,7 @@
 
  MANPOWER_TITLE: "Population:"
  RESISTANCE_TITLE: "Dissent:"
+ 
 ######################################################################
 ## Addons
 ######################################################################
@@ -68,32 +69,53 @@
  EFFECT_CHANGE_LAW_domestic_policies: "Change §ODomestic Policies§! to '$NAME|Y$' which grants ($DESC$).\n"
  EFFECT_CHANGE_LAW_recruitment_laws: "Change §ORecruitment Law§! to '$NAME|Y$' which grants ($DESC$)."
  
- UNUSED_SLOT:0 "             Select a technology to £research_icon_1 research"
- RESEARCH_GLOBAL_BONUS:0 "£research_icon_1 Research Speed Bonus: $VAL|+%0$"
- RESEARCH_TOTAL_BONUS:0 "£research_icon_1 Research Speed: $VAL$"
- EFFECT_ADD_TECH_BONUS_BONUS_ONLY:0 "$USES$$BONUS|%0+$£research_icon_1 Research bonus for: $LIST|Y$."
- EFFECT_ADD_TECH_BONUS:1 "Reduce ahead of time penalty by $AHEAD|.1G$ years and give a $BONUS|%0+$£research_icon_1 research bonus. Valid for the next $USES|H$ researches of these technologies: $LIST|H$."
- RESEARCH_TOTAL_BONUS:0 "£research_icon_2 Research Speed: $VAL$"
- RESEARCH:0 "£research_icon_2  Research"
- RESEARCH_TIME_TOOLTIP:0 "Time to £research_icon_2 Research: $DAYS|Y$ days "
- RESEARCH_TIME_TOOLTIP_WITH_XP:0 "Time to £research_icon_2 Research: $DAYS|Y$ days ($DAYS_WITH_XP|Y$ days for $XP_TEXT$)"
- RESEARCH_BONUS_USED:0 "Will consume £research_icon_2 research bonus from $NAME|H$ ($BONUS$). Only one bonus is used for each research.\n"
- RESEARCH_BONUS:0 "$NAME|H$ ($BONUS$) could also apply.\n"
- RESEARCH_BONUS_VALUE:2 "$BONUS|%0H$ £research_icon_2 research speed"
- RESEARCH_BONUS_PENALTY:1 "$BONUS|.1H$ years of ahead of time penalty reduction"
- RESEARCH_BONUSES_TOOLTIP:0 "Limited technology bonuses we have:"
- RESEARCH_BONUSES_EMPTY_TOOLTIP:0 "Limited technology bonuses will be listed here."
- RESEARCH_BONUS_SPEED_DESC:0 "§Y$COUNT$x§! $VALUE|G%0$ £research_icon_2 research speed $NAME$"
- RESEARCH_BONUS_AHEAD_DESC:1 "§Y$COUNT$x§! $VALUE|G.1$ years of ahead of time reduction $NAME$"
- RESEARCH_BONUS_SPEED_AHEAD_DESC:1 "§Y$COUNT$x§! $VALUE1|G%0$ £research_icon_2 research speed and $VALUE2|G.1$ years of ahead of time reduction $NAME$"
- RESEARCH_BONUS_SPEED_NO_COUNT_DESC:1 "£research_icon_2 Research speed will be increased by $VALUE|G%0$"
- RESEARCH_BONUS_AHEAD_NO_COUNT_DESC:1 "Ahead of time penalty will be reduced by $VALUE|.1G$ years"
- RESEARCH_BONUS_SPEED_AHEAD_NO_COUNT_DESC:2 "£research_icon_2 Research speed will be increased by $VALUE|G%0$ and ahead of time penalty reduced by $VALUE2|.1G$ years"
- RESEARCH_BONUS_VALUE_DESC:0 "£research_icon_2 Research bonus: $VALUE|Y%0$"
+ UNUSED_SLOT: "             Select a technology to £research_icon_1 research"
+ RESEARCH_GLOBAL_BONUS: "£research_icon_1 Research Speed Bonus: $VAL|+%0$"
+ RESEARCH_TOTAL_BONUS: "£research_icon_1 Research Speed: $VAL$"
+ EFFECT_ADD_TECH_BONUS_BONUS_ONLY: "$USES$$BONUS|%0+$£research_icon_1 Research bonus for: $LIST|Y$."
+ EFFECT_ADD_TECH_BONUS: "Reduce ahead of time penalty by $AHEAD|.1G$ years and give a $BONUS|%0+$£research_icon_1 research bonus. Valid for the next $USES|H$ researches of these technologies: $LIST|H$."
+ RESEARCH_TOTAL_BONUS: "£research_icon_2 Research Speed: $VAL$"
+ RESEARCH: "£research_icon_2  Research"
+ RESEARCH_TIME_TOOLTIP: "Time to £research_icon_2 Research: $DAYS|Y$ days "
+ RESEARCH_TIME_TOOLTIP_WITH_XP: "Time to £research_icon_2 Research: $DAYS|Y$ days ($DAYS_WITH_XP|Y$ days for $XP_TEXT$)"
+ RESEARCH_BONUS_USED: "Will consume £research_icon_2 research bonus from $NAME|H$ ($BONUS$). Only one bonus is used for each research.\n"
+ RESEARCH_BONUS: "$NAME|H$ ($BONUS$) could also apply.\n"
+ RESEARCH_BONUS_VALUE: "$BONUS|%0H$ £research_icon_2 research speed"
+ RESEARCH_BONUS_PENALTY: "$BONUS|.1H$ years of ahead of time penalty reduction"
+ RESEARCH_BONUSES_TOOLTIP: "Limited technology bonuses we have:"
+ RESEARCH_BONUSES_EMPTY_TOOLTIP: "Limited technology bonuses will be listed here."
+ RESEARCH_BONUS_SPEED_DESC: "§Y$COUNT$x§! $VALUE|G%0$ £research_icon_2 research speed $NAME$"
+ RESEARCH_BONUS_AHEAD_DESC: "§Y$COUNT$x§! $VALUE|G.1$ years of ahead of time reduction $NAME$"
+ RESEARCH_BONUS_SPEED_AHEAD_DESC: "§Y$COUNT$x§! $VALUE1|G%0$ £research_icon_2 research speed and $VALUE2|G.1$ years of ahead of time reduction $NAME$"
+ RESEARCH_BONUS_SPEED_NO_COUNT_DESC: "£research_icon_2 Research speed will be increased by $VALUE|G%0$"
+ RESEARCH_BONUS_AHEAD_NO_COUNT_DESC: "Ahead of time penalty will be reduced by $VALUE|.1G$ years"
+ RESEARCH_BONUS_SPEED_AHEAD_NO_COUNT_DESC: "£research_icon_2 Research speed will be increased by $VALUE|G%0$ and ahead of time penalty reduced by $VALUE2|.1G$ years"
+ RESEARCH_BONUS_VALUE_DESC: "£research_icon_2 Research bonus: $VALUE|Y%0$"
+ 
+ 
+ FOCUS_STATUS_TOOLTIP: "§ACompletion Time§!: $DAYS|0H$ days"
+ FOCUS_STATUS_INPROGRESS_TOOLTIP: "§ACompletion Time§!: $DAYS|0H$ days. ($LEFT|0H$ days left)"
+ EFFECT_DESTROY_SHIP: "$COUNT|H$ $TYPE|H$ is §fDestroyed§!"
+ EFFECT_DESTROY_SHIPS: "$COUNT|H$ $TYPE|H$§Hs§! are §fDestroyed§!"
+ 
+ CONSTRUCTION_SPEED: "Construction speed: $SPEED|l$"
+ 
  ######################################################################
  ## Tooltips
  ###################################################################### 
- DH_FOR_0.2: "§RAlternate History for 0.2§!"
+ DH_FOR_0.2: "§RAlternate History for 0.2/0.3§!"
  TECH_River_Effect_3Percent: "River:\n Movement: §G+3.0%§!"
  TECH_River_Effect_5Percent: "River:\n Movement: §G+5.0%§!"
  TECH_River_Effect_10Percent: "River:\n Movement: §G+10.0%§!"
+ RELEASE_ALL_OWNED_STATES: "§RAfter releasing, we'd be left with no territory.§!"
+ RELEASE_ALL_OWNED_CORES: "§RAfter releasing, we must own at least one of our own cores.§!"
+ RELEASE_NOT_ALLOWED: "§R[ROOT.GetNameDef] can't release [FROM.GetNameDef].§!"
+ RELEASE_SPLINTER: "§RWe can't release enemies of our cause.§!"
+
+ ######################################################################
+ ## Political & Occupational Localization
+ ###################################################################### 
+ COUNTRY_OCCUPATION_TITLE: "Occupation Manager"
+ MAIN_GARRISON_TEMPLATE: "Overall Occupation Information"
+ FOREIGN_SUPPORT_TOOLTIP: "Foreign manpower supplied to bolster our own occupation forces."
+ EXPAND_STATES_TOOLTIP: "Expand detailed state view."

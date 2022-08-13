@@ -1,0 +1,341 @@
+﻿l_english:
+ ###############################################################
+ #           유럽  -  E U R O P E
+ ###############################################################
+ 
+ GBR_democrat: "브리타니아 재건정부"
+ GBR_democrat_DEF: "브리타니아 재건정부"
+ GBR_democrat_ADJ: "영국"
+ 
+ GBR_unified: "영국"
+ GBR_unified_DEF: "영국"
+ GBR_unified_ADJ: "영국"
+ 
+ GER_civilwar: "게르마니아 중립 지대"
+ GER_civilwar_DEF: "게르마니아 중립 지대"
+ GER_civilwar_ADJ: "게르마니아 중립 지대"
+ 
+ RHI_civilwar: "독일 정부군"
+ RHI_civilwar_DEF: "아돌프 친위 내각"
+ RHI_civilwar_ADJ: "독일 연방정부"
+ 
+ BRD_civilwar: "국가혁명군"
+ BRD_civilwar_DEF: "국가혁명위원회"
+ BRD_civilwar_ADJ: "독일 국가혁명위원회"
+ 
+ DDR_civilwar: "적군파"
+ DDR_civilwar_DEF: "바더 마인호프 그룹"
+ DDR_civilwar_ADJ: "독일 적군파"
+ 
+ BAB_civilwar: "바이에른 국민전선"
+ BAB_civilwar_DEF: "바이에른 국민전선"
+ BAB_civilwar_ADJ: "바이에른" 
+ 
+ WUR_civilwar: "뷔르템베르크 자유국"
+ WUR_civilwar_DEF: "뷔르템베르크 자유국"
+ WUR_civilwar_ADJ: "뷔르템베르크 자유국"
+ 
+ FRA_democrat: "프랑스 공화국"
+ FRA_democrat_DEF: "프랑스 공화국"
+ FRA_democrat_ADJ: "프랑스"
+  
+ GER_committee: "독일 재건 위원회"
+ GER_committee_DEF: "독일 재건 위원회"
+ GER_committee_ADJ: "독일"
+ 
+ SWE_collapse: "스웨덴"
+ SWE_collapse_DEF: "스웨덴"
+ SWE_collapse_ADJ: "스웨덴"
+ 
+ ###############################################################
+ #           아 시 아  -  A s i a
+ ###############################################################
+ 
+ ###########################   공영권  -  Co-Prosperity Sphere
+  
+ MAN_KOR: "대한령 만주"
+ MAN_KOR_DEF: "대한령 만주"
+ MAN_KOR_ADJ: "대한령 만주"
+ MEN_KOR: "대한령 몽강"
+ MEN_KOR_DEF: "대한령 몽강"
+ MEN_KOR_ADJ: "대한령 몽강"
+ GMH_KOR: "대한제국 군정사령부"
+ GMH_KOR_DEF: "대한제국 군정사령부"
+ GMH_KOR_ADJ: "대한제국 군정사령부"
+ VII_KOR: "제국 관외주"
+ VII_KOR_DEF: "제국 관외주"
+ VII_KOR_ADJ: "제국 관외주"
+ TAI_KOR: "대만 부왕령"
+ TAI_KOR_DEF: "대만 부왕령"
+ TAI_KOR_ADJ: "대만 부왕령"
+ PHI_KOR: "대한령 필리핀"
+ PHI_KOR_DEF: "대한령 필리핀"
+ PHI_KOR_ADJ: "대한령 필리핀"
+ LNG_KOR: "제국 남방주"
+ LNG_KOR_DEF: "제국 남방주"
+ LNG_KOR_ADJ: "제국 남방주"
+ LNF_KOR: "난방국"
+ LNF_KOR_DEF: "난방국"
+ LNF_KOR_ADJ: "난방국"
+ GFL_KOR: "대한제국 해군"
+ GFL_KOR_DEF: "대한제국 해군"
+ GFL_KOR_ADJ: "대한제국 해군"
+ 
+ MAN_JAP: "만주국"
+ MAN_JAP_DEF: "만주국"
+ MAN_JAP_ADJ: "만주국"
+ MEN_JAP: "몽강연합자치정부"
+ MEN_JAP_DEF: "몽강연합자치정부"
+ MEN_JAP_ADJ: "몽강연합자치정부"
+ GMH_JAP: "관동군 군정사령부"
+ GMH_JAP_DEF: "관동군 군정사령부"
+ GMH_JAP_ADJ: "관동군 군정사령부"
+ VII_JAP: "일본령 연해주"
+ VII_JAP_DEF: "일본령 연해주"
+ VII_JAP_ADJ: "일본령 연해주"
+ TAI_JAP: "대만 총독부"
+ TAI_JAP_DEF: "대만 총독부"
+ TAI_JAP_ADJ: "대만 총독부"
+ PHI_JAP: "일본령 필리핀"
+ PHI_JAP_DEF: "일본령 필리핀"
+ PHI_JAP_ADJ: "일본령 필리핀"
+ LNG_JAP: "일본령 랑카수카"
+ LNG_JAP_DEF: "일본령 랑카수카"
+ LNG_JAP_ADJ: "일본령 랑카수카"
+ LNF_JAP: "난방국"
+ LNF_JAP_DEF: "난방국"
+ LNF_JAP_ADJ: "난방국"
+ GFL_JAP: "대일본제국 해군"
+ GFL_JAP_DEF: "대일본제국 해군"
+ GFL_JAP_ADJ: "대일본제국 해군"
+  
+ KJE_collapse: "황실 중립지대"
+ KJE_collapse_DEF: "제국 황실 중립지대" # Korean-Japanese Dual Empire
+ KJE_collapse_ADJ: "황실 중립지대"
+  
+ MON_AHC: "안휘 군벌"
+ MON_AHC_ADJ: "안휘 군벌"
+ MON_AHC_DEF: "안휘"
+ 
+ JRC_free: "주르첸"
+ JRC_free_DEF: "예케 주르첸 울루스"
+ JRC_free_ADJ: "주르첸"
+  
+ KNA_unification: "몽골 에케 울루스"
+ KNA_unification_DEF: "대한제국 북방군" # Northern Army
+ KNA_unification_ADJ: "북방군"
+ 
+ KOR_coup: "대한제국 정부군"
+ KOR_coup_DEF: "대한제국 정부군"
+ KOR_coup_ADJ: "대한제국"
+ 
+ ROK_coup: "쿠데타군"
+ ROK_coup_DEF: "군사혁명위원회"
+ ROK_coup_ADJ: "쿠데타군"
+ 
+ ROK_council: "국가재건최고회의"
+ ROK_council_DEF: "국가재건최고회의"
+ ROK_council_ADJ: "국가재건최고회의"
+ 
+ JAP_coup: "황도파"
+ JAP_coup_DEF: "황도파"
+ JAP_coup_ADJ: "황도파"
+ 
+ JAP_civilwar: "대일본제국"
+ JAP_civilwar_DEF: "대일본제국"
+ JAP_civilwar_ADJ: "대일본제국"
+ 
+ JPN_civilwar: "자유 일본"
+ JPN_civilwar_DEF: "자유 일본"
+ JPN_civilwar_ADJ: "자유 일본"
+  
+ GFL_japan: "일본 해군 사령부"
+ GFL_japan_DEF: "일본 해군 사령부" # Co-operation Fleet
+ GFL_japan_ADJ: "일본 해군"
+
+  
+ ###########################   중국 군벌  -  China Cliques
+ 
+ ###########################   중동  -  Middle East
+ 
+ IDF_rebel: "연합유격조직"
+ IDF_rebel_DEF: "연합유격조직"
+ IDF_rebel_ADJ: "파르티잔"
+ 
+ ISR_back: "이스라엘"
+ ISR_back_DEF: "이스라엘"
+ ISR_back_ADJ: "이스라엘"
+ 
+ ###########################   남아시아  -  South Asia
+ 
+ 
+ 
+ 
+ 
+ ###############################################################
+ #           러 시 아  -  R U S S I A
+ ###############################################################
+ 
+ 
+ ###########################   모스크바 지역  -  MOSCOW AREA
+ 
+ ###########################   서러시아 지역  -  Western Russia
+ 
+ KOM_regional_unifier: "서러시아 제국"
+ KOM_regional_unifier_DEF: "신성 러시아 제국" # West  Russian Regency
+ KOM_regional_unifier_ADJ: "서러시아"
+
+ NRS_regional_unifier: "러시아국 재건 정부"
+ NRS_regional_unifier_DEF: "러시아국 재건 정부" # Russian State Reconstruction Government
+ NRS_regional_unifier_ADJ: "서러시아"
+ 
+ WRS_regional_unifier: "서러시아 혁명전선"
+ WRS_regional_unifier_DEF: "서러시아 혁명전선" # West Russian Revolutionary Front
+ WRS_regional_unifier_ADJ: "서러시아"
+ 
+ KOM_RUS: "신성 러시아 제국"
+ KOM_RUS_DEF: "신성 러시아 제국" # West  Russian Regency
+ KOM_RUS_ADJ: "러시아"
+  
+ NRS_RUS: "러시아국"
+ NRS_RUS_DEF: "러시아국" # Russian State Reconstruction Government
+ NRS_RUS_ADJ: "러시아"
+ 
+ WRS_RUS: "소비에트 사회주의 공화국 연방"
+ WRS_RUS_DEF: "소비에트 사회주의 공화국 연방" # West Russian Revolutionary Front
+ WRS_RUS_ADJ: "소련"
+  
+ ###########################   우랄  -  Ural
+  
+ ###########################   서시베리아 지역  -  Western Siberia
+  
+ FRL_regional_unifier: "서시베리아 공화국"
+ FRL_regional_unifier_DEF: "서시베리아 공화국" # Freedom of Russia Legion
+ FRL_regional_unifier_ADJ: "서시베리아"
+ 
+ OMS_regional_unifier: "서시베리아 임시정부"
+ OMS_regional_unifier_DEF: "서시베리아 임시정부"
+ OMS_regional_unifier_ADJ: "서시베리아"
+ 
+ CBL_regional_unifier: "카발 군단"
+ CBL_regional_unifier_DEF: "카발 AI 프로토콜" # CABAL
+ CBL_regional_unifier_ADJ: "카발 프로토콜"
+ 
+ FRL_RUS: "러시아 공화국"
+ FRL_RUS_DEF: "러시아 공화국" # Freedom of Russia Legion
+ FRL_RUS_ADJ: "러시아"
+ 
+ OMS_RUS: "러시아 국가 재수복 정부"
+ OMS_RUS_DEF: "러시아 국가 재수복 정부"
+ OMS_RUS_ADJ: "러시아"
+ 
+  
+ ###########################   중앙아시아 지역  -  Central Asia
+ 
+ ALP_regional_unifier: "알파 전대"
+ ALP_regional_unifier_DEF: "알파 전대" # Alpha Squadron
+ ALP_regional_unifier_ADJ: "알파 전대"
+ 
+ PER_regional_unifier: "소비에트 군사 위원회"
+ PER_regional_unifier_DEF: "소비에트 군사 위원회" # Hydra
+ PER_regional_unifier_ADJ: "소비에트"
+ 
+ ALP_RUS: "러시아 집정 연합"
+ ALP_RUS_DEF: "러시아 집정 연합" # Alpha Squadron
+ ALP_RUS_ADJ: "러시아"
+ 
+ PER_RUS: "소비에트 사회주의 공화국"
+ PER_RUS_DEF: "소비에트 사회주의 공화국" # Hydra
+ PER_RUS_ADJ: "소련"
+ 
+ ###########################   중앙시베리아 지역  -  Western Siberia
+ 
+ SRF_regional_unifier: "시베리아 혁명전선 사령부"
+ SRF_regional_unifier_DEF: "시베리아 혁명전선 사령부" # Siberia Revolutionary Front Command
+ SRF_regional_unifier_ADJ: "중앙시베리아"
+
+ SBA_regional_unifier: "시베리아 자유 지구"
+ SBA_regional_unifier_DEF: "시베리아 자유 지구"  # Siberia Revolutionary Front Command
+ SBA_regional_unifier_ADJ: "중앙시베리아"
+ 
+ SRF_RUS: "소비에트 사회주의 공화국 연방"
+ SRF_RUS_DEF: "소비에트 사회주의 공화국 연방" # Siberia Revolutionary Front Command
+ SRF_RUS_ADJ: "소련"
+ 
+ SBA_RUS: "러시아 자유 지구"
+ SBA_RUS_DEF: "러시아 자유 지구"  # Siberia Revolutionary Front Command
+ SBA_RUS_ADJ: "러시아"
+  
+ 
+ ###########################   극동 지역  -  Far East Area
+ 
+ IRK_regional_unifier: "시베리아 군사 위원회"
+ IRK_regional_unifier_DEF: "시베리아 군사 위원회" #Irkutsk Ultranationalist
+ IRK_regional_unifier_ADJ: "극동"
+ 
+ BRY_regional_unifier: "극동 소비에트 사회주의 공화국"
+ BRY_regional_unifier_DEF: "극동 소비에트 사회주의 공화국" #Buratya SSR
+ BRY_regional_unifier_ADJ: "극동"
+ 
+ CHT_regional_unifier: "시베리아 왕국"
+ CHT_regional_unifier_DEF: "시베리아 왕국" #Rurik Regime
+ CHT_regional_unifier_ADJ: "극동"
+ 
+ TRM_regional_unifier: "극동 전러시아 임시정부"
+ TRM_regional_unifier_DEF: "극동 전러시아 임시정부" #Transamur Russian Government
+ TRM_regional_unifier_ADJ: "극동"
+ 
+ ISD_regional_unifier: "제정 시베리아 자치령"
+ ISD_regional_unifier_DEF: "제정 시베리아 자치령" # Republic of Yakutia
+ ISD_regional_unifier_ADJ: "극동"
+ 
+ TRM_ISD_regional_unifier: "제정 러시아 임시정부"
+ TRM_ISD_regional_unifier_DEF: "제정 러시아 임시정부" #Transamur Russian Government
+ TRM_ISD_regional_unifier_ADJ: "극동"
+ 
+ IRK_RUS: "러시아국"
+ IRK_RUS_DEF: "러시아국"
+ IRK_RUS_ADJ: "러시아"
+
+ BRY_RUS: "소비에트 사회주의 공화국 연방"
+ BRY_RUS_DEF: "소비에트 사회주의 공화국 연방"
+ BRY_RUS_ADJ: "소련"
+
+ CHT_RUS: "러시아 왕국"
+ CHT_RUS_DEF: "러시아 왕국"
+ CHT_RUS_ADJ: "러시아"
+
+ TRM_RUS: "러시아 연방"
+ TRM_RUS_DEF: "러시아 연방"
+ TRM_RUS_ADJ: "러시아"
+
+ ISD_RUS: "러시아 제국"
+ ISD_RUS_DEF: "러시아 제국"
+ ISD_RUS_ADJ: "러시아"
+ 
+ ###############################################################
+ #           기 타  -  M i S C
+ ###############################################################
+ 
+ UNE_peacekeeping: "평화유지군"
+ UNE_peacekeeping_DEF: "지구국제연합 평화유지군" # United Nations of Earth
+ UNE_peacekeeping_ADJ: "지구국제연합"
+ 
+ RAB_rebel: "화성군 잔당"
+ RAB_rebel_DEF: "화성군 잔당" # Martian
+ RAB_rebel_ADJ: "화성 잔당"
+ 
+ ###########################   달  -  Moon
+ 
+ NAZ_UNIFIED: "대독일국"
+ NAZ_UNIFIED_DEF: "대독일국"
+ NAZ_UNIFIED_ADJ: "대독일국"
+ 
+ LUN_UNIFIED: "달의 백성"
+ LUN_UNIFIED_DEF: "달의 백성"
+ LUN_UNIFIED_ADJ: "달의 백성"
+ 
+ RAB_UNIFIED: "루나리아"
+ RAB_UNIFIED_DEF: "루나리아"
+ RAB_UNIFIED_ADJ: "루나리아"
+ 
