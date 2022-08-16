@@ -3676,63 +3676,63 @@
  
  STATE_1705: "충청남도"
  
- STATE_1706: "빌뉴이"
+ STATE_1706: "Vilyuy"
  
- STATE_1707: "블라디보스토크"
+ STATE_1707: "Vladivostok"
  
- STATE_1708: "알단"
+ STATE_1708: "Aldan"
  
- STATE_1709: "아야노-마이스키"
+ STATE_1709: "Ayano-Maysky"
  
- STATE_1710: "브라츠키"
+ STATE_1710: "Bratsk"
  
- STATE_1711: "우수리스크"
+ STATE_1711: "Ussuriysk"
  
- STATE_1712: "칸스크"
+ STATE_1712: "Kansk"
  
- STATE_1713: "하시카미"
+ STATE_1713: "Hashikami"
  
- STATE_1714: "츠구"
-
- STATE_1715: "가시하라"
+ STATE_1714: "Tsugu"
  
- STATE_1716: "호우키"
-
- STATE_1717: "다카치호"
+ STATE_1715: "Kashihara"
  
- STATE_1718: "키노쿠니"
-
- STATE_1719: "사사라에"
+ STATE_1716: "Houki"
  
- STATE_1720: "후토다마"
-
- STATE_1721: "아시하라"
+ STATE_1717: "Takachiho"
  
- STATE_1722: "야마타노 오로치"
+ STATE_1718: "Kino Kuni"
  
- STATE_1723: "에비스"
+ STATE_1719: "Sasarae"
  
- STATE_1724: "아마츠마라"
+ STATE_1720: "Futodama"
  
- STATE_1725: "야타가라스"
+ STATE_1721: "Ashihara"
  
- STATE_1726: "호라이산"
+ STATE_1722: "Yamata no Orochi"
  
- STATE_1727: "소시모리"
+ STATE_1723: "Evisu"
  
- STATE_1728: "미호노"
+ STATE_1724: "Amatsumara"
  
- STATE_1729: "타가마가하라"
+ STATE_1725: "Yatagarasu"
  
- STATE_1730: "에이 섬"
+ STATE_1726: "Horaisan"
  
- STATE_1731: "서이나바 섬"
+ STATE_1727: "Soshimori"
  
- STATE_1732: "동이나바 섬"
+ STATE_1728: "Mihono"
  
- STATE_1733: "카와고에"
+ STATE_1729: "Takamagahara"
  
- STATE_1734: "아리마츠"
+ STATE_1730: "Ei Island"
+ 
+ STATE_1731: "West Inaba Island"
+ 
+ STATE_1732: "East Inaba Island"
+ 
+ STATE_1733: "Kawagoe"
+ 
+ STATE_1734: "Arimatsu"
  
  STATE_1735: "Lunar Capital"
  
@@ -3740,7 +3740,7 @@
  
  STATE_1737: "Mystic Forest"
  
- STATE_1738: "Ruined Western Mansion"
+ STATE_1738: "Ruined Mansion"
  
  STATE_1739: "Misty Lake Shores"
  
@@ -3778,7 +3778,7 @@
  
  STATE_1756: "Kagerou Territory"
  
- STATE_1757: "Sun Garden"
+ STATE_1757: "Sunflower Field"
  
  STATE_1758: "Nameless Hill"
  
@@ -3800,7 +3800,7 @@
  
  STATE_1767: "Northern Youkai Mountain"
  
- STATE_1768: "Soviet Military Garrison"
+ STATE_1768: "Soviet Military Base"
  
  STATE_1769: "Genbu Ravine"
  
@@ -3822,7 +3822,7 @@
  
  STATE_1778: "Makai"
  
- STATE_1779: "Higna"
+ STATE_1779: "Higan"
  
  STATE_1780: "Palace of the Earth Spirits"
  
@@ -3844,68 +3844,68 @@
  
  STATE_1789: "Kiketsu Family"
  
- STATE_1790: "빈 땅"
+ STATE_1790: "Empty"
  
- STATE_1791: "달 궤도"
+ STATE_1791: "Moon Orbit"
  
- STATE_1792: "달 궤도"
+ STATE_1792: "Moon Orbit"
  
- STATE_1793: "달 궤도"
+ STATE_1793: "Moon Orbit"
  
- STATE_1794: "달 궤도"
+ STATE_1794: "Moon Orbit"
  
- STATE_1795: "달 궤도"
+ STATE_1795: "Moon Orbit"
  
- STATE_1796: "달 궤도"
+ STATE_1796: "Moon Orbit"
  
- STATE_1797: "달 궤도"
+ STATE_1797: "Moon Orbit"
  
- STATE_1798: "달 궤도"
+ STATE_1798: "Moon Orbit"
  
- STATE_1799: "피터스 섬"
+ STATE_1799: "Peters Island"
+
+ STATE_1800: "Marie Bird"
  
- STATE_1800: "마리 버드"
+ STATE_1801: "Elsworth"
  
- STATE_1801: "엘스워스"
+ STATE_1802: "Farmer"
  
- STATE_1802: "파머"
+ STATE_1803: "GRAHAM"
  
- STATE_1803: "그라함"
+ STATE_1804: "The English Coast"
  
- STATE_1804: "잉글리시 해안"
+ STATE_1805: "The Eight Seaside"
  
- STATE_1805: "에이츠 해안"
+ STATE_1806: "Brian Coast"
  
- STATE_1806: "브라이언 해안"
+ STATE_1807: "The Pelés Coast"
  
- STATE_1807: "펠레스 해안"
+ STATE_1808: "Wilkins Coast"
  
- STATE_1808: "윌킨스 해안"
+ STATE_1809: "Admiralty Only"
  
- STATE_1809: "어드미럴티 만"
+ STATE_1810: "Ron Ice Shelf"
  
- STATE_1810: "론 빙붕"
+ STATE_1811: "South Shetland Islands"
  
- STATE_1811: "사우스셰틀랜드 제도"
+ STATE_1812: "Trinity Peninsula"
  
- STATE_1812: "트리니티 반도"
+ STATE_1813: "Adelaide Island"
  
- STATE_1813: "아델레이드 섬"
+ STATE_1814: "Alexander Island"
  
- STATE_1814: "알렉산더 섬"
+ STATE_1815: "South Okinawa Island"
  
- STATE_1815: "사우스오키니 섬"
+ STATE_1816: "Rico Port"
  
- STATE_1816: "리코 항구"
+ STATE_1817: "Luke'sat"
  
- STATE_1817: "루크사트"
+ STATE_1818: "Trotskygrad"
  
- STATE_1818: "트로츠키그라드"
+ STATE_1819: "Penguin polis"
  
- STATE_1819: "펭귄폴리스"
+ STATE_1820: "Northern Darfur"
  
- STATE_1820: "북다르푸르"
+ STATE_1821: "New Dar es Salaam"
  
- STATE_1821: "뉴 다르에스살람"
- 
- STATE_1821: "뒤즈제"
+ STATE_1821: "Douzze"

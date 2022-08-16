@@ -377,9 +377,9 @@
  
  ###########################   공영권  -  Co-Prosperity Sphere
  
- KJE: "대한-일본 이중제국"
- KJE_DEF: "대한-일본 이중제국" # Korean-Japanese Dual Empire
- KJE_ADJ: "이중제국"
+ KJE: "Korean-Japanese Dual Empire"
+ KJE_DEF: "Korean-Japanese Dual Empire" # Korean-Japanese Dual Empire
+ KJE_ADJ: "Dual Empire"
  
  KOR: "대한제국"
  KOR_DEF: "대한제국" # Korea
@@ -397,13 +397,13 @@
  MEN_DEF: "대한제국령 몽강국" # Mongol Authnomous Government
  MEN_ADJ: "몽강국"
  
- VII: "7군단"
- VII_DEF: "대한제국 국군 7군단 사령부" # 7th Army
- VII_ADJ: "7군단"
+ VII: "7th Army"
+ VII_DEF: "7th Army Command" # 7th Army
+ VII_ADJ: "7th Army"
   
- GFL: "연합함대"
- GFL_DEF: "이중제국 연합함대" # Co-operation Fleet
- GFL_ADJ: "연합함대"
+ GFL: "Co-operation Fleet"
+ GFL_DEF: "Co-operation Fleet" # Co-operation Fleet
+ GFL_ADJ: "Co-operation Fleet"
  
  PSY: "싸이월드"
  PSY_ADJ: "싸이" # Psy World
@@ -1644,13 +1644,13 @@
  
  ###########################   중앙시베리아 지역  -  Western Siberia
  
- SRF: "시베리아 혁명전선 사령부"
- SRF_DEF: "시베리아 혁명전선 사령부" # Siberia Revolutionary Front Command
- SRF_ADJ: "시베리아 혁명전선"
+ SRF: "Siberia Revolutionary Front Command"
+ SRF_DEF: "Siberia Revolutionary Front Command" # Siberia Revolutionary Front Command
+ SRF_ADJ: "Siberia Revolutionary Front"
 
- SAH: "크라스노야르스크"
- SAH_DEF: "크라스노야르스크 군사 지구" # Krasnoyarsk Military District
- SAH_ADJ: "크라스노야르스크"
+ SAH: "Krasnoyarsk"
+ SAH_DEF: "Krasnoyarsk Military District" # Krasnoyarsk Military District
+ SAH_ADJ: "Krasnoyarsk"
 
  TOM: "톰스크"
  TOM_DEF: "중앙시베리아 공화국"
@@ -1699,42 +1699,42 @@
  VIL_DEF: ""
  VIL_ADJ: "빌뉴이"
  
- IRK: "이르쿠츠크 초국수파"
- IRK_DEF: "이르쿠츠크 초국수파" #Irkutsk Ultranationalist
- IRK_ADJ: "이르쿠츠크 "
+ IRK: "Irkutsk Ultranationalist"
+ IRK_DEF: "Irkutsk Ultranationalist" #Irkutsk Ultranationalist
+ IRK_ADJ: "Irkutsk"
  
- BRY: "부라티야 SSR"
- BRY_DEF: "부라티야 소비에트 사회주의 자치 공화국" #Buratya SSR
- BRY_ADJ: "부라티야"
+ BRY: "Buratya SSR"
+ BRY_DEF: "Buryat Autonomous Soviet Socialist Republic" #Buratya SSR
+ BRY_ADJ: "Buratya"
  
  CHT: "트란스바이칼 공국"
  CHT_DEF: "트란스바이칼 공국"
- CHT_authoritarian_democracy_DEF: "트란스바이칼 류리크 정권" #Rurik Regime
+ CHT_authoritarian_democracy_DEF: "트란스바이칼 Rurik Regime" #Rurik Regime
  CHT_despotism_DEF: "트란스바이칼 공국"
  CHT_ADJ: "트란스바이칼"
  
- TAN: "탄누 투바"
- TAN_DEF: "탄누 투바" #Tannu Tuba
- TAN_ADJ: "탄누 투바"
+ TAN: "Tannu Tuba"
+ TAN_DEF: "Tannu Tuba" #Tannu Tuba
+ TAN_ADJ: "Tannu Tuba"
  TAN_socialist: "투바"
  TAN_socialist_DEF: "투바 인민공화국"
  TAN_socialist_ADJ: "투바"
  
- TRM: "트란스아무르"
- TRM_DEF: "트란스아무르 임시정부" #Transamur Russian Government
- TRM_ADJ: "트란스아무르"
+ TRM: "Transamur Russian Government"
+ TRM_DEF: "Transamur Russian Government" #Transamur Russian Government
+ TRM_ADJ: "Transamur"
  
- ALD: "알단 프리메이스트"
- ALD_DEF: "알단 프리메이스트" # Aldan Freemason
- ALD_ADJ: "알단"
+ ALD: "Aldan Freemason"
+ ALD_DEF: "Aldan Freemason" # Aldan Freemason
+ ALD_ADJ: "Aldan"
 
- MAG: "마가단 자유 지구"
- MAG_DEF: "마가단 자유 지구" # Magadan Free District
- MAG_ADJ: "마가단"
+ MAG: "Magadan Free District"
+ MAG_DEF: "Magadan Free District" # Magadan Free District
+ MAG_ADJ: "Magadan"
  
- YAK: "야쿠티아 공화국"
- YAK_DEF: "야쿠티아 공화국" # Republic of Yakutia
- YAK_ADJ: "야쿠티아"
+ YAK: "Republic of Yakutia"
+ YAK_DEF: "Republic of Yakutia" # Republic of Yakutia
+ YAK_ADJ: "Yakutia"
   
  ISD: "제정 시베리아 자치령"
  ISD_DEF: "제정 시베리아 자치령" # Republic of Yakutia
@@ -1744,157 +1744,157 @@
  #           환 상 향  -  T O U H O U
  ###############################################################
  
- HAK: "하쿠레이 신사"
- HAK_ADJ: "하쿠레이 신사"
- HAK_DEF: "하쿠레이 신사"
+ HAK: "Hakurei Shrine"
+ HAK_ADJ: "Hakurei Shrine"
+ HAK_DEF: "Hakurei Shrine"
  
- MHG: "마요히가"
- MHG_ADJ: "마요히가"
- MHG_DEF: "마요히가"
+ MHG: "Mayohiga"
+ MHG_ADJ: "Mayohiga"
+ MHG_DEF: "Mayohiga"
  
- PRI: "프리즘리버 저택"
- PRI_ADJ: "프리즘리버 저택"
- PRI_DEF: "프리즘리버 저택"
+ PRI: "Prismriver Band"
+ PRI_ADJ: "Prismriver"
+ PRI_DEF: "Prismriver Band"
  
- SCR: "홍마관"
- SCR_ADJ: "홍마관"
- SCR_DEF: "홍마관"
+ SCR: "Scarlet Realm"
+ SCR_ADJ: "Scarlet"
+ SCR_DEF: "Scarlet Realm"
  
- YOF: "요괴의 숲"
- YOF_ADJ: "요괴의 숲"
- YOF_DEF: "요괴의 숲"
+ YOF: "Youkai Forest"
+ YOF_ADJ: "Youkai Forest"
+ YOF_DEF: "Youkai Forest"
  
- TGU: "텐구령"
- TGU_ADJ: "텐구령"
- TGU_DEF: "텐구령"
+ TGU: "Tengu Realm"
+ TGU_ADJ: "Tengu"
+ TGU_DEF: "Tengu Realm"
  
- FOM: "마법의 숲"
- FOM_ADJ: "마법의 숲"
- FOM_DEF: "마법의 숲"
+ FOM: "Forest of Magic"
+ FOM_ADJ: "Forest of Magic"
+ FOM_DEF: "Forest of Magic"
  
- KRD: "향림당"
- KRD_ADJ: "향림당"
- KRD_DEF: "향림당"
+ KRD: "Kourindou"
+ KRD_ADJ: "Kourindou"
+ KRD_DEF: "Kourindou"
  
- NET: "명계"
- NET_ADJ: "명계"
- NET_DEF: "명계"
+ NET: "Netherworld"
+ NET_ADJ: "Netherworld"
+ NET_DEF: "Netherworld"
  
- EIT: "영원정"
- EIT_ADJ: "영원정"
- EIT_DEF: "영원정"
+ EIT: "Eientei"
+ EIT_ADJ: "Eientei"
+ EIT_DEF: "Eientei"
  
- FUJ: "후지와라 가문"
- FUJ_ADJ: "후지와라 가문"
- FUJ_DEF: "후지와라 가문"
+ FUJ: "Fujiwara Clan"
+ FUJ_ADJ: "Fujiwara Clan"
+ FUJ_DEF: "Fujiwara Clan"
  
- KAG: "풀뿌리 요괴 네트워크"
- KAG_ADJ: "풀뿌리 요괴 네트워크"
- KAG_DEF: "풀뿌리 요괴 네트워크"
+ KAG: "Grassroot Youkai Union"
+ KAG_ADJ: "Grassroot Youkai Union"
+ KAG_DEF: "Grassroot Youkai Union"
  
- HMC: "인간 수도"
- HMC_ADJ: "인간 수도"
- HMC_DEF: "인간 수도"
+ HMC: "Human Capital"
+ HMC_ADJ: "Human Capital"
+ HMC_DEF: "Human Capital"
  
- MYO: "명련사"
- MYO_ADJ: "명련사"
- MYO_DEF: "명련사"
+ MYO: "Myouren Temple"
+ MYO_ADJ: "Myouren"
+ MYO_DEF: "Myouren Temple"
  
- OKI: "후호의 나라"
- OKI_ADJ: "후호의 나라"
- OKI_DEF: "후호의 나라"
+ OKI: "Land of the Back Door"
+ OKI_ADJ: "Back Door"
+ OKI_DEF: "Land of the Back Door"
  
- AKI: "아키"
- AKI_ADJ: "아키"
- AKI_DEF: "아키"
+ AKI: "Shrine of Harvest"
+ AKI_ADJ: "Shrine of Harvest"
+ AKI_DEF: "Harvester"
  
- LIL: "겨울꽃길"
- LIL_ADJ: "겨울꽃길"
- LIL_DEF: "겨울꽃길"
+ LIL: "Winter Jasmine Path"
+ LIL_ADJ: "Winter Jasmine"
+ LIL_DEF: "Winter Jasmine Path"
  
- FTP: "삼월정"
- FTP_ADJ: "삼월정"
- FTP_DEF: "삼월정"
+ FTP: "Sangetsusei"
+ FTP_ADJ: "Three Fairy"
+ FTP_DEF: "Sangetsusei"
  
- CIN: "치르니아"
- CIN_ADJ: "치르니아"
- CIN_DEF: "치르니아"
+ CIN: "Cirnia"
+ CIN_ADJ: "Cirno"
+ CIN_DEF: "Cirnia"
  
- TNK: "전차 기사단"
- TNK_ADJ: "전차 기사단"
- TNK_DEF: "전차 기사단"
+ TNK: "Panzerholics"
+ TNK_ADJ: "Panzerholics"
+ TNK_DEF: "Panzerholics"
  
- KNN: "고요의 신전"
- KNN_ADJ: "고요의 신전"
- KNN_DEF: "고요의 신전"
+ KNN: "Silent Temple"
+ KNN_ADJ: "Silent Temple"
+ KNN_DEF: "Silent Temple"
  
- GNU: "몽환세계"
- GNU_ADJ: "몽환세계"
- GNU_DEF: "몽환세계"
+ GNU: "Dream World"
+ GNU_ADJ: "Dream World"
+ GNU_DEF: "Dream World"
  
- ERS: "제28근위소총사단"
- ERS_ADJ: "제28근위소총사단"
- ERS_DEF: "제28근위소총사단"
+ ERS: "28th Guards Rifle Division"
+ ERS_ADJ: "28th Guards Rifle Division"
+ ERS_DEF: "28th Guards Rifle Division"
  
- MRY: "모리야 신사"
- MRY_ADJ: "모리야 신사"
- MRY_DEF: "모리야 신사"
+ MRY: "Moriya Clan"
+ MRY_ADJ: "Moriya Clan"
+ MRY_DEF: "Moriya Clan"
  
- KPP: "캇파폴리스"
- KPP_ADJ: "캇파폴리스"
- KPP_DEF: "캇파폴리스"
+ KPP: "Kappapolis"
+ KPP_ADJ: "Kappa"
+ KPP_DEF: "Kappapolis"
  
- MKI: "마계"
- MKI_ADJ: "마계"
- MKI_DEF: "마계"
+ MKI: "Makai"
+ MKI_ADJ: "Makai"
+ MKI_DEF: "Makai"
  
- SNK: "선계"
- SNK_ADJ: "선계"
- SNK_DEF: "선계"
+ SNK: "Senkai"
+ SNK_ADJ: "Senkai"
+ SNK_DEF: "Senkai"
  
- YUM: "몽환 유적"
- YUM_ADJ: "몽환 유적"
- YUM_DEF: "몽환 유적"
+ YUM: "Time Travelers"
+ YUM_ADJ: "Travelers'"
+ YUM_DEF: "Time Travelers"
  
- MIM: "미마의 제국"
- MIM_ADJ: "미마의 제국"
- MIM_DEF: "미마의 제국"
+ MIM: "Mima's Empire"
+ MIM_ADJ: "Mima's Empire"
+ MIM_DEF: "Mima's Empire"
  
- SFF: "태양의 밭"
- SFF_ADJ: "태양의 밭"
- SFF_DEF: "태양의 밭"
+ SFF: "Sunflower Field"
+ SFF_ADJ: "Sunflower Field"
+ SFF_DEF: "Sunflower Field"
  
- HEL: "지저"
- HEL_ADJ: "지저"
- HEL_DEF: "지저"
+ HEL: "Underworld"
+ HEL_ADJ: "Underworld"
+ HEL_DEF: "Underworld"
  
- CRD: "지령전"
- CRD_ADJ: "지령전"
- CRD_DEF: "지령전"
+ CRD: "Chireiden"
+ CRD_ADJ: "Chireiden"
+ CRD_DEF: "Chireiden"
  
- ONI: "오니 망명지"
- ONI_ADJ: "오니 망명지"
- ONI_DEF: "오니 망명지"
+ ONI: "Oni Exiles"
+ ONI_ADJ: "Onis"
+ ONI_DEF: "Oni Exiles"
  
- LOC: "강욕"
- LOC_ADJ: "강욕"
- LOC_DEF: "강욕"
+ LOC: "The Lone Coast"
+ LOC_ADJ: "The Lone Coast"
+ LOC_DEF: "The Lone Coast"
  
- HIG: "피안"
- HIG_ADJ: "피안"
- HIG_DEF: "피안"
+ HIG: "Higan"
+ HIG_ADJ: "Higan"
+ HIG_DEF: "Higan"
  
- YAC: "귀갈조"
- YAC_ADJ: "귀갈조"
- YAC_DEF: "귀갈조"
+ YAC: "Kiketsu Family"
+ YAC_ADJ: "Kiketsu Family"
+ YAC_DEF: "Kiketsu Family"
  
- SKI: "경야조"
- SKI_ADJ: "경야조"
- SKI_DEF: "경야조"
+ SKI: "Keigatsu Family"
+ SKI_ADJ: "Beastial"
+ SKI_DEF: "Keigatsu Family"
  
- KEI: "영장원"
- KEI_ADJ: "영장원"
- KEI_DEF: "영장원"
+ KEI: "Primate Spirit Garden"
+ KEI_ADJ: "Primate Spirit Garden"
+ KEI_DEF: "Primate Spirit Garden"
  
  ###############################################################
  #           기 타  -  M i S C
@@ -1942,16 +1942,16 @@
  
  ###########################   달  -  Moon
  
- NAZ: "제 4제국"
- NAZ_DEF: "제 4제국" # The Fourth Reich
- NAZ_ADJ: "제 4제국"
+ NAZ: "The Fourth Reich"
+ NAZ_DEF: "The Fourth Reich" # The Fourth Reich
+ NAZ_ADJ: "The Fourth Reich"
  
- LUN: "달의 백성"
- LUN_DEF: "달의 백성" # Lunarian
- LUN_ADJ: "달의 백성"
+ LUN: "Lunarian"
+ LUN_DEF: "Lunarian" # Lunarian
+ LUN_ADJ: "Lunarian"
  
- RAB: "달토끼 연맹"
- RAB_DEF: "달토끼 연맹" # Moscow Metro Alliance
- RAB_ADJ: "달토끼 연맹"
+ RAB: "Moon-Rabbit Confederation"
+ RAB_DEF: "Moon-Rabbit Confederation" # Moscow Metro Alliance
+ RAB_ADJ: "Moon-Rabbit Confederation"
  
  
